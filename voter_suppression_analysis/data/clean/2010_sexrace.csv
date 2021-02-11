@@ -1,0 +1,576 @@
+State,Group,Total Population,Total Citizen Population,"Percent registered
+(Citizen)",Margin of Error1,Total registered,"Percent registered
+(Total)",Margin of Error1,Total voted,"Percent voted
+(Total)",Margin of Error1,Year
+US,Total,"229,690","210,800",65.1,0.3,"137,263",59.8,0.3,"95,987",41.8,0.3,2010
+US,Male,"111,098","101,279",63.5,0.4,"64,337",57.9,0.4,"45,392",40.9,0.4,2010
+US,Female,"118,592","109,521",66.6,0.4,"72,926",61.5,0.4,"50,595",42.7,0.4,2010
+US,White alone,"185,804","172,447",66.4,0.3,"114,482",61.6,0.3,"80,554",43.4,0.3,2010
+US,White non-Hispanic alone,"155,680","152,929",68.2,0.3,"104,316",67,0.3,"74,372",47.8,0.4,2010
+US,Black alone,"27,396","25,632",62.8,1,"16,101",58.8,1,"11,149",40.7,1,2010
+US,Asian alone,"11,049","7,639",49.3,1.6,"3,765",34.1,2,"2,354",21.3,1.4,2010
+US,Hispanic (of any race),"32,457","21,285",51.6,1.2,"10,982",33.8,1.5,"6,646",20.5,1,2010
+US,White alone or in combination,"188,616","175,090",66.3,0.3,"116,115",61.6,0.3,"81,614",43.3,0.3,2010
+US,Black alone or in combination,"28,414","26,602",62.7,1,"16,684",58.7,1,"11,498",40.5,1,2010
+US,Asian alone or in combination,"11,679","8,246",50.2,1.6,"4,136",35.4,2,"2,615",22.4,1.4,2010
+Alabama,Total,"3,526","3,420",65,2.4,"2,224",63.1,2.4,"1,509",42.8,2.5,2010
+Alabama,Male,"1,652","1,580",62.6,3.6,989,59.8,3.6,664,40.2,3.6,2010
+Alabama,Female,"1,873","1,840",67.1,3.2,"1,235",65.9,3.2,845,45.1,3.4,2010
+Alabama,White alone,"2,611","2,521",64,2.8,"1,612",61.7,2.8,"1,097",42,2.8,2010
+Alabama,White non-Hispanic alone,"2,485","2,471",64.5,2.8,"1,595",64.2,2.8,"1,086",43.7,2.9,2010
+Alabama,Black alone,868,868,69,5.6,599,69,5.6,403,46.4,6,2010
+Alabama,Asian alone,31,16,(B),(B),4,(B),(B),4,(B),(B),2010
+Alabama,Hispanic (of any race),142,65,51.2,16.5,34,23.6,28.6,14,10.2,11.7,2010
+Alabama,White alone or in combination,"2,621","2,531",63.8,2.8,"1,616",61.6,2.8,"1,097",41.9,2.8,2010
+Alabama,Black alone or in combination,868,868,69,5.6,599,69,5.6,403,46.4,6,2010
+Alabama,Asian alone or in combination,38,23,(B),(B),4,(B),(B),4,(B),(B),2010
+Alaska,Total,498,478,66.4,2.5,317,63.8,2.6,242,48.6,2.6,2010
+Alaska,Male,252,243,66.3,3.6,161,64.1,3.6,127,50.4,3.7,2010
+Alaska,Female,246,235,66.6,3.6,156,63.4,3.6,115,46.8,3.8,2010
+Alaska,White alone,385,375,70,2.8,262,68.2,2.8,209,54.3,3,2010
+Alaska,White non-Hispanic alone,364,357,70.7,2.9,253,69.3,2.8,202,55.3,3.1,2010
+Alaska,Black alone,24,24,(B),(B),13,(B),(B),7,(B),(B),2010
+Alaska,Asian alone,19,10,(B),(B),4,(B),(B),2,(B),(B),2010
+Alaska,Hispanic (of any race),23,20,(B),(B),10,(B),(B),7,(B),(B),2010
+Alaska,White alone or in combination,408,398,69.5,2.7,276,67.8,2.7,215,52.8,2.9,2010
+Alaska,Black alone or in combination,29,29,(B),(B),17,(B),(B),10,(B),(B),2010
+Alaska,Asian alone or in combination,22,12,(B),(B),6,(B),(B),3,(B),(B),2010
+Arizona,Total,"4,831","4,443",66,2.1,"2,934",60.7,2.1,"2,170",44.9,2.1,2010
+Arizona,Male,"2,391","2,239",63.4,3,"1,419",59.3,3.1,"1,075",45,3.1,2010
+Arizona,Female,"2,439","2,204",68.8,2.9,"1,516",62.1,3,"1,095",44.9,3,2010
+Arizona,White alone,"4,267","3,905",66.1,2.2,"2,581",60.5,2.3,"1,936",45.4,2.3,2010
+Arizona,White non-Hispanic alone,"3,019","2,984",68.7,2.6,"2,050",67.9,2.5,"1,565",51.9,2.7,2010
+Arizona,Black alone,193,186,65.5,12.6,122,63.1,12.7,76,39.4,12.8,2010
+Arizona,Asian alone,97,79,78.7,18.5,62,64.2,17.5,49,50.2,19.3,2010
+Arizona,Hispanic (of any race),"1,389","1,061",57.5,6.3,610,43.9,7.2,407,29.3,5.8,2010
+Arizona,White alone or in combination,"4,369","4,007",66.2,2.2,"2,652",60.7,2.2,"1,966",45,2.3,2010
+Arizona,Black alone or in combination,202,195,65,12.3,127,62.7,12.4,76,37.7,12.4,2010
+Arizona,Asian alone or in combination,103,85,73,18.3,62,60.4,18.2,49,47.2,18.7,2010
+Arkansas,Total,"2,140","2,068",60.7,2.5,"1,256",58.7,2.5,841,39.3,2.5,2010
+Arkansas,Male,"1,021",979,58.1,3.7,569,55.8,3.7,382,37.4,3.6,2010
+Arkansas,Female,"1,120","1,089",63.1,3.4,687,61.4,3.4,459,41,3.5,2010
+Arkansas,White alone,"1,740","1,701",61.7,2.8,"1,050",60.4,2.8,713,41,2.8,2010
+Arkansas,White non-Hispanic alone,"1,659","1,655",62.7,2.8,"1,038",62.6,2.8,705,42.5,2.9,2010
+Arkansas,Black alone,310,310,54.3,8.1,168,54.3,8.1,100,32.5,7.6,2010
+Arkansas,Asian alone,48,15,(B),(B),7,(B),(B),3,(B),(B),2010
+Arkansas,Hispanic (of any race),83,48,29.7,15.3,14,17.1,24.4,10,11.8,13.1,2010
+Arkansas,White alone or in combination,"1,758","1,719",62.1,2.7,"1,068",60.8,2.8,727,41.4,2.8,2010
+Arkansas,Black alone or in combination,313,313,54.8,8,172,54.8,8,102,32.5,7.6,2010
+Arkansas,Asian alone or in combination,51,18,(B),(B),10,(B),(B),6,(B),(B),2010
+California,Total,"27,381","22,767",60.9,0.9,"13,864",50.6,1,"10,725",39.2,0.9,2010
+California,Male,"13,470","11,111",60.3,1.3,"6,705",49.8,1.4,"5,160",38.3,1.3,2010
+California,Female,"13,910","11,656",61.4,1.3,"7,160",51.5,1.4,"5,565",40,1.3,2010
+California,White alone,"20,828","17,331",63.6,1,"11,016",52.9,1.1,"8,666",41.6,1,2010
+California,White non-Hispanic alone,"12,418","11,985",68.4,1.3,"8,197",66,1.3,"6,713",54.1,1.3,2010
+California,Black alone,"1,728","1,661",56.1,4.4,932,54,4.4,708,41,4.3,2010
+California,Asian alone,"3,860","2,938",50.1,3,"1,472",38.1,3.5,"1,008",26.1,2.7,2010
+California,Hispanic (of any race),"9,004","5,816",52,2.4,"3,025",33.6,3.1,"2,058",22.9,2.1,2010
+California,White alone or in combination,"21,269","17,733",63.6,1,"11,271",53,1.1,"8,881",41.8,1,2010
+California,Black alone or in combination,"1,887","1,821",56.5,4.2,"1,028",54.5,4.2,779,41.3,4.1,2010
+California,Asian alone or in combination,"4,020","3,096",51.5,2.9,"1,594",39.7,3.4,"1,092",27.2,2.7,2010
+Colorado,Total,"3,768","3,473",66.2,2.4,"2,299",61,2.4,"1,826",48.4,2.5,2010
+Colorado,Male,"1,865","1,711",64.5,3.4,"1,104",59.2,3.5,871,46.7,3.5,2010
+Colorado,Female,"1,903","1,762",67.9,3.3,"1,196",62.8,3.4,955,50.2,3.5,2010
+Colorado,White alone,"3,423","3,195",67,2.5,"2,142",62.6,2.5,"1,714",50.1,2.6,2010
+Colorado,White non-Hispanic alone,"2,825","2,768",70,2.6,"1,938",68.6,2.6,"1,577",55.8,2.8,2010
+Colorado,Black alone,148,129,63.8,14.9,82,55.6,15.4,60,40.6,14.7,2010
+Colorado,Asian alone,112,70,46.6,16.4,32,29.1,22.8,21,19.2,14.2,2010
+Colorado,Hispanic (of any race),629,455,47.1,8.9,214,34,11.1,144,22.9,7.9,2010
+Colorado,White alone or in combination,"3,465","3,235",66.8,2.5,"2,160",62.4,2.5,"1,728",49.9,2.6,2010
+Colorado,Black alone or in combination,155,136,62.2,14.6,84,54.6,15.2,60,38.9,14.3,2010
+Colorado,Asian alone or in combination,129,85,46.4,15.5,40,30.6,20.6,26,20.4,13.5,2010
+Connecticut,Total,"2,648","2,463",66.6,2.5,"1,641",62,2.6,"1,215",45.9,2.6,2010
+Connecticut,Male,"1,274","1,171",65.5,3.7,767,60.2,3.7,577,45.3,3.7,2010
+Connecticut,Female,"1,374","1,292",67.7,3.5,874,63.6,3.5,638,46.5,3.6,2010
+Connecticut,White alone,"2,273","2,181",67.6,2.7,"1,473",64.8,2.7,"1,096",48.2,2.8,2010
+Connecticut,White non-Hispanic alone,"2,073","2,016",68.7,2.8,"1,386",66.9,2.8,"1,052",50.7,3,2010
+Connecticut,Black alone,247,209,63.1,10.3,132,53.4,10.9,93,37.7,10,2010
+Connecticut,Asian alone,102,49,57.9,15.2,29,28.1,23.9,22,22,14,2010
+Connecticut,Hispanic (of any race),243,197,56.3,13.5,111,45.6,14.9,56,22.9,11.4,2010
+Connecticut,White alone or in combination,"2,290","2,196",67.2,2.7,"1,476",64.5,2.7,"1,096",47.9,2.8,2010
+Connecticut,Black alone or in combination,263,224,61.7,10,138,52.5,10.6,97,36.7,9.7,2010
+Connecticut,Asian alone or in combination,104,52,55.5,14.9,29,27.6,23.5,22,21.5,13.7,2010
+Delaware,Total,667,634,65.9,2.5,418,62.6,2.5,323,48.5,2.6,2010
+Delaware,Male,318,300,63.3,3.7,190,59.6,3.8,147,46.1,3.8,2010
+Delaware,Female,349,334,68.2,3.4,228,65.3,3.4,177,50.6,3.6,2010
+Delaware,White alone,513,489,67.5,2.9,330,64.4,2.9,252,49.2,3,2010
+Delaware,White non-Hispanic alone,479,475,68.3,2.9,324,67.7,2.9,249,52,3.1,2010
+Delaware,Black alone,134,130,60.6,7,79,58.5,7,64,47.9,7.1,2010
+Delaware,Asian alone,11,7,(B),(B),4,(B),(B),4,(B),(B),2010
+Delaware,Hispanic (of any race),40,19,(B),(B),9,(B),(B),6,(B),(B),2010
+Delaware,White alone or in combination,517,493,67.3,2.8,332,64.1,2.9,253,48.9,3,2010
+Delaware,Black alone or in combination,139,135,60.4,6.8,81,58.4,6.9,66,47.5,6.9,2010
+Delaware,Asian alone or in combination,11,7,(B),(B),4,(B),(B),4,(B),(B),2010
+DC,Total,489,441,66.9,2.7,295,60.3,2.7,200,40.8,2.7,2010
+DC,Male,223,200,63.7,4,127,57,4.1,84,37.5,3.9,2010
+DC,Female,266,241,69.5,3.6,168,63.1,3.6,116,43.6,3.7,2010
+DC,White alone,220,189,70.9,4,134,60.7,4,86,38.8,4,2010
+DC,White non-Hispanic alone,181,169,73.5,4.2,124,68.7,4.1,80,44.1,4.5,2010
+DC,Black alone,244,234,62.5,4.6,146,59.8,4.6,103,42.3,4.6,2010
+DC,Asian alone,14,12,(B),(B),9,(B),(B),6,(B),(B),2010
+DC,Hispanic (of any race),45,23,(B),(B),12,(B),(B),8,(B),(B),2010
+DC,White alone or in combination,223,192,71.3,3.9,137,61.2,3.9,88,39.5,4,2010
+DC,Black alone or in combination,246,235,62.7,4.6,147,60,4.6,105,42.6,4.6,2010
+DC,Asian alone or in combination,15,12,(B),(B),10,(B),(B),7,(B),(B),2010
+Florida,Total,"14,227","12,697",63,1.2,"7,994",56.2,1.3,"5,572",39.2,1.2,2010
+Florida,Male,"6,872","6,114",61.1,1.8,"3,735",54.4,1.8,"2,623",38.2,1.7,2010
+Florida,Female,"7,355","6,582",64.7,1.7,"4,259",57.9,1.7,"2,949",40.1,1.7,2010
+Florida,White alone,"11,665","10,553",63.8,1.4,"6,731",57.7,1.4,"4,740",40.6,1.3,2010
+Florida,White non-Hispanic alone,"8,797","8,540",64.7,1.5,"5,529",62.8,1.5,"3,902",44.4,1.6,2010
+Florida,Black alone,"2,046","1,748",61.4,4,"1,073",52.4,4.2,725,35.4,3.8,2010
+Florida,Asian alone,390,275,46.7,8.9,128,32.9,11.3,68,17.4,7.2,2010
+Florida,Hispanic (of any race),"2,962","2,100",59,4.2,"1,239",41.8,5,863,29.1,3.9,2010
+Florida,White alone or in combination,"11,771","10,654",63.7,1.3,"6,789",57.7,1.4,"4,779",40.6,1.3,2010
+Florida,Black alone or in combination,"2,097","1,798",60.5,3.9,"1,087",51.9,4.1,735,35,3.7,2010
+Florida,Asian alone or in combination,416,296,45.6,8.6,135,32.5,10.8,74,17.9,7,2010
+Georgia,Total,"7,119","6,574",62,1.7,"4,076",57.2,1.8,"2,865",40.2,1.7,2010
+Georgia,Male,"3,404","3,121",61.8,2.5,"1,929",56.7,2.6,"1,338",39.3,2.5,2010
+Georgia,Female,"3,715","3,453",62.2,2.4,"2,147",57.8,2.5,"1,527",41.1,2.4,2010
+Georgia,White alone,"4,734","4,377",62.1,2.1,"2,717",57.4,2.2,"1,881",39.7,2.1,2010
+Georgia,White non-Hispanic alone,"4,294","4,225",62.9,2.2,"2,657",61.9,2.2,"1,845",43,2.3,2010
+Georgia,Black alone,"2,066","1,983",63.5,3.9,"1,260",61,3.9,929,45,3.9,2010
+Georgia,Asian alone,254,157,32.4,9.4,51,20,14.1,23,9,6.7,2010
+Georgia,Hispanic (of any race),519,194,39.7,7.3,77,14.9,16.4,46,8.9,5.9,2010
+Georgia,White alone or in combination,"4,776","4,411",62.3,2.1,"2,748",57.5,2.2,"1,905",39.9,2.1,2010
+Georgia,Black alone or in combination,"2,100","2,010",63.9,3.8,"1,284",61.1,3.9,950,45.2,3.9,2010
+Georgia,Asian alone or in combination,262,165,33.3,9.5,55,20.9,13.8,23,8.7,6.6,2010
+Hawaii,Total,965,892,52.3,2.5,466,48.3,2.6,385,39.9,2.5,2010
+Hawaii,Male,471,442,51.1,3.6,226,48,3.7,182,38.7,3.5,2010
+Hawaii,Female,494,449,53.4,3.5,240,48.5,3.7,203,41,3.5,2010
+Hawaii,White alone,191,179,55.7,5.6,99,52.1,5.8,84,43.9,5.6,2010
+Hawaii,White non-Hispanic alone,169,160,56.4,6,90,53.6,6.1,76,45.1,6,2010
+Hawaii,Black alone,28,27,(B),(B),10,(B),(B),10,(B),(B),2010
+Hawaii,Asian alone,432,394,56.6,4.7,223,51.6,4.9,192,44.5,4.7,2010
+Hawaii,Hispanic (of any race),85,77,50.7,13.3,39,45.9,14,27,32.3,12.4,2010
+Hawaii,White alone or in combination,337,325,50.8,4.2,165,48.9,4.3,136,40.2,4.2,2010
+Hawaii,Black alone or in combination,39,37,(B),(B),14,(B),(B),11,(B),(B),2010
+Hawaii,Asian alone or in combination,578,539,53.8,4.1,290,50.2,4.2,242,41.9,4,2010
+Idaho,Total,"1,114","1,048",63.5,2.5,666,59.8,2.5,498,44.7,2.5,2010
+Idaho,Male,546,513,63.3,3.5,325,59.5,3.6,235,43.1,3.5,2010
+Idaho,Female,568,535,63.7,3.4,341,60,3.5,263,46.2,3.5,2010
+Idaho,White alone,"1,051","1,001",64.4,2.5,645,61.4,2.5,483,46,2.6,2010
+Idaho,White non-Hispanic alone,955,944,66.5,2.6,628,65.8,2.6,475,49.7,2.7,2010
+Idaho,Black alone,8,8,(B),(B),4,(B),(B),4,(B),(B),2010
+Idaho,Asian alone,19,5,(B),(B),-,(B),(B),-,(B),(B),2010
+Idaho,Hispanic (of any race),100,61,27.8,9.8,17,16.9,15.1,9,8.9,7.5,2010
+Idaho,White alone or in combination,"1,069","1,019",63.9,2.5,651,60.9,2.5,490,45.8,2.5,2010
+Idaho,Black alone or in combination,9,9,(B),(B),4,(B),(B),4,(B),(B),2010
+Idaho,Asian alone or in combination,23,9,(B),(B),2,(B),(B),2,(B),(B),2010
+Illinois,Total,"9,619","8,780",66.3,1.5,"5,823",60.5,1.5,"3,994",41.5,1.5,2010
+Illinois,Male,"4,661","4,202",63.6,2.2,"2,670",57.3,2.2,"1,872",40.2,2.2,2010
+Illinois,Female,"4,958","4,578",68.8,2,"3,152",63.6,2.1,"2,122",42.8,2.1,2010
+Illinois,White alone,"7,799","7,177",66.8,1.7,"4,794",61.5,1.7,"3,225",41.4,1.7,2010
+Illinois,White non-Hispanic alone,"6,606","6,449",68.5,1.7,"4,415",66.8,1.7,"2,991",45.3,1.8,2010
+Illinois,Black alone,"1,312","1,266",66.7,4.8,844,64.4,4.8,658,50.2,5,2010
+Illinois,Asian alone,434,263,50,8.4,132,30.3,11.7,88,20.2,7.3,2010
+Illinois,Hispanic (of any race),"1,220",749,51.9,6.3,388,31.8,8.6,241,19.8,5.4,2010
+Illinois,White alone or in combination,"7,841","7,219",66.8,1.6,"4,822",61.5,1.7,"3,241",41.3,1.7,2010
+Illinois,Black alone or in combination,"1,350","1,304",67,4.7,874,64.8,4.7,672,49.8,4.9,2010
+Illinois,Asian alone or in combination,434,263,50,8.4,132,30.3,11.7,88,20.2,7.3,2010
+Indiana,Total,"4,777","4,638",61.2,2.1,"2,838",59.4,2.1,"1,826",38.2,2.1,2010
+Indiana,Male,"2,317","2,233",58.9,3.1,"1,315",56.7,3.1,892,38.5,3,2010
+Indiana,Female,"2,459","2,405",63.3,2.9,"1,523",61.9,2.9,934,38,2.9,2010
+Indiana,White alone,"4,300","4,193",60.7,2.2,"2,544",59.2,2.2,"1,646",38.3,2.2,2010
+Indiana,White non-Hispanic alone,"4,114","4,095",61.4,2.3,"2,515",61.1,2.3,"1,632",39.7,2.3,2010
+Indiana,Black alone,371,363,69.8,8.7,254,68.3,8.7,158,42.6,9.3,2010
+Indiana,Asian alone,35,12,(B),(B),-,(B),(B),-,(B),(B),2010
+Indiana,Hispanic (of any race),195,102,32.4,12.6,33,17,21.7,19,9.8,10,2010
+Indiana,White alone or in combination,"4,347","4,240",60.7,2.2,"2,572",59.2,2.2,"1,663",38.3,2.2,2010
+Indiana,Black alone or in combination,418,409,68.7,8.3,281,67.4,8.3,175,42,8.7,2010
+Indiana,Asian alone or in combination,40,16,(B),(B),-,(B),(B),-,(B),(B),2010
+Iowa,Total,"2,278","2,185",70.8,2.5,"1,547",67.9,2.4,"1,143",50.2,2.6,2010
+Iowa,Male,"1,114","1,064",68.6,3.6,729,65.5,3.6,544,48.8,3.8,2010
+Iowa,Female,"1,164","1,121",72.9,3.4,818,70.2,3.3,599,51.5,3.7,2010
+Iowa,White alone,"2,161","2,086",71.6,2.5,"1,494",69.1,2.5,"1,106",51.2,2.7,2010
+Iowa,White non-Hispanic alone,"2,068","2,051",72.1,2.5,"1,479",71.5,2.5,"1,096",53,2.8,2010
+Iowa,Black alone,57,51,(B),(B),29,(B),(B),17,(B),(B),2010
+Iowa,Asian alone,21,9,(B),(B),4,(B),(B),3,(B),(B),2010
+Iowa,Hispanic (of any race),96,38,39.2,14.6,15,15.4,31.5,10,10.1,12.1,2010
+Iowa,White alone or in combination,"2,187","2,112",71.5,2.5,"1,510",69.1,2.5,"1,118",51.1,2.7,2010
+Iowa,Black alone or in combination,64,58,(B),(B),33,(B),(B),21,(B),(B),2010
+Iowa,Asian alone or in combination,21,9,(B),(B),4,(B),(B),3,(B),(B),2010
+Kansas,Total,"2,059","1,971",68.4,2.5,"1,349",65.5,2.5,931,45.2,2.7,2010
+Kansas,Male,"1,022",975,67.5,3.6,658,64.4,3.6,457,44.8,3.8,2010
+Kansas,Female,"1,038",996,69.4,3.5,691,66.6,3.5,474,45.7,3.7,2010
+Kansas,White alone,"1,831","1,767",70.4,2.6,"1,245",68,2.6,863,47.1,2.8,2010
+Kansas,White non-Hispanic alone,"1,719","1,706",70.5,2.7,"1,203",70,2.7,843,49,2.9,2010
+Kansas,Black alone,113,105,49.3,13.7,52,45.9,14.3,34,30.1,12.6,2010
+Kansas,Asian alone,47,32,(B),(B),15,(B),(B),11,(B),(B),2010
+Kansas,Hispanic (of any race),125,68,67.1,16.4,45,36.5,21.7,20,16.3,12.6,2010
+Kansas,White alone or in combination,"1,888","1,823",69.9,2.6,"1,274",67.4,2.6,882,46.7,2.8,2010
+Kansas,Black alone or in combination,115,107,48.5,13.6,52,45.2,14.1,34,29.6,12.5,2010
+Kansas,Asian alone or in combination,65,50,(B),(B),28,(B),(B),19,(B),(B),2010
+Kentucky,Total,"3,250","3,158",66.9,2.5,"2,113",65,2.5,"1,479",45.5,2.6,2010
+Kentucky,Male,"1,552","1,505",63.5,3.7,956,61.6,3.7,704,45.4,3.8,2010
+Kentucky,Female,"1,698","1,652",70,3.4,"1,157",68.1,3.3,775,45.6,3.6,2010
+Kentucky,White alone,"2,995","2,930",67.4,2.6,"1,974",65.9,2.6,"1,383",46.2,2.7,2010
+Kentucky,White non-Hispanic alone,"2,889","2,859",68.8,2.6,"1,967",68.1,2.6,"1,381",47.8,2.8,2010
+Kentucky,Black alone,203,196,60.1,12.5,118,58.3,12.6,76,37.6,12.2,2010
+Kentucky,Asian alone,33,12,(B),(B),10,(B),(B),10,(B),(B),2010
+Kentucky,Hispanic (of any race),109,72,11.5,11.9,8,7.6,17.5,2,2.1,6.5,2010
+Kentucky,White alone or in combination,"3,011","2,946",67.3,2.6,"1,984",65.9,2.6,"1,391",46.2,2.7,2010
+Kentucky,Black alone or in combination,206,200,59.8,12.4,120,58,12.5,78,37.6,12.1,2010
+Kentucky,Asian alone or in combination,33,12,(B),(B),10,(B),(B),10,(B),(B),2010
+Louisiana,Total,"3,314","3,236",74.9,2.3,"2,425",73.2,2.2,"1,618",48.8,2.6,2010
+Louisiana,Male,"1,555","1,520",73.1,3.4,"1,111",71.5,3.4,766,49.2,3.7,2010
+Louisiana,Female,"1,759","1,717",76.5,3.1,"1,314",74.7,3,852,48.4,3.5,2010
+Louisiana,White alone,"2,218","2,167",74.9,2.8,"1,624",73.2,2.7,"1,101",49.6,3.1,2010
+Louisiana,White non-Hispanic alone,"2,129","2,116",75.5,2.8,"1,597",75,2.8,"1,087",51.1,3.2,2010
+Louisiana,Black alone,981,981,75.8,4.9,743,75.8,4.9,480,48.9,5.7,2010
+Louisiana,Asian alone,36,9,(B),(B),3,(B),(B),3,(B),(B),2010
+Louisiana,Hispanic (of any race),104,67,63.2,22.3,42,40.4,27.4,16,15.3,16.3,2010
+Louisiana,White alone or in combination,"2,275","2,225",74.9,2.7,"1,667",73.3,2.7,"1,123",49.3,3.1,2010
+Louisiana,Black alone or in combination,"1,015","1,015",76.2,4.8,773,76.2,4.8,494,48.7,5.6,2010
+Louisiana,Asian alone or in combination,40,14,(B),(B),3,(B),(B),3,(B),(B),2010
+Maine,Total,"1,034","1,017",76.6,2.4,779,75.4,2.4,604,58.4,2.8,2010
+Maine,Male,499,487,74.6,3.6,363,72.8,3.6,284,56.9,4.1,2010
+Maine,Female,535,530,78.5,3.3,416,77.7,3.3,320,59.8,3.9,2010
+Maine,White alone,"1,004",992,77.1,2.5,765,76.2,2.4,596,59.3,2.8,2010
+Maine,White non-Hispanic alone,"1,000",989,77.1,2.5,763,76.3,2.4,594,59.4,2.8,2010
+Maine,Black alone,13,9,(B),(B),5,(B),(B),2,(B),(B),2010
+Maine,Asian alone,6,4,(B),(B),2,(B),(B),2,(B),(B),2010
+Maine,Hispanic (of any race),6,5,(B),(B),4,(B),(B),2,(B),(B),2010
+Maine,White alone or in combination,"1,011","1,000",77,2.4,771,76.2,2.4,598,59.1,2.8,2010
+Maine,Black alone or in combination,18,14,(B),(B),8,(B),(B),4,(B),(B),2010
+Maine,Asian alone or in combination,7,5,(B),(B),3,(B),(B),2,(B),(B),2010
+Maryland,Total,"4,279","3,853",65.1,2.3,"2,509",58.6,2.3,"1,802",42.1,2.3,2010
+Maryland,Male,"2,039","1,818",63.6,3.3,"1,156",56.7,3.4,823,40.4,3.3,2010
+Maryland,Female,"2,240","2,035",66.5,3.1,"1,353",60.4,3.2,979,43.7,3.2,2010
+Maryland,White alone,"2,760","2,559",66.8,2.8,"1,711",62,2.8,"1,233",44.7,2.9,2010
+Maryland,White non-Hispanic alone,"2,474","2,428",67.4,2.9,"1,638",66.2,2.9,"1,189",48.1,3.1,2010
+Maryland,Black alone,"1,217","1,082",63.3,5.2,685,56.3,5.4,505,41.5,5.2,2010
+Maryland,Asian alone,240,152,46.9,11.3,71,29.7,15.6,41,16.9,9.3,2010
+Maryland,Hispanic (of any race),337,166,54.4,11.5,90,26.8,18.5,55,16.3,9.6,2010
+Maryland,White alone or in combination,"2,792","2,591",67,2.8,"1,736",62.2,2.8,"1,242",44.5,2.9,2010
+Maryland,Black alone or in combination,"1,237","1,102",63.5,5.2,700,56.6,5.3,514,41.5,5.2,2010
+Maryland,Asian alone or in combination,248,160,49.5,11.4,79,32,15.2,44,17.6,9.3,2010
+Massachusetts,Total,"5,097","4,695",68.8,2,"3,230",63.4,2,"2,452",48.1,2.1,2010
+Massachusetts,Male,"2,436","2,235",66.5,2.9,"1,486",61,3,"1,168",48,3,2010
+Massachusetts,Female,"2,661","2,460",70.9,2.7,"1,743",65.5,2.7,"1,284",48.2,2.9,2010
+Massachusetts,White alone,"4,516","4,283",70.9,2.1,"3,037",67.2,2.1,"2,304",51,2.2,2010
+Massachusetts,White non-Hispanic alone,"4,114","3,965",73.4,2.1,"2,910",70.7,2.1,"2,258",54.9,2.3,2010
+Massachusetts,Black alone,319,236,46.3,9.6,109,34.2,11.7,93,29.1,9.2,2010
+Massachusetts,Asian alone,216,134,47,11.6,63,29.2,16.2,44,20.3,10.3,2010
+Massachusetts,Hispanic (of any race),430,346,38.8,10.5,134,31.2,12.3,48,11.3,7.1,2010
+Massachusetts,White alone or in combination,"4,547","4,313",70.7,2.1,"3,051",67.1,2.1,"2,314",50.9,2.2,2010
+Massachusetts,Black alone or in combination,343,260,46.5,9.3,121,35.3,11.2,99,29,8.8,2010
+Massachusetts,Asian alone or in combination,220,134,47,11.5,63,28.7,16.2,44,19.9,10.1,2010
+Michigan,Total,"7,513","7,176",71.4,1.6,"5,127",68.2,1.6,"3,394",45.2,1.7,2010
+Michigan,Male,"3,606","3,438",69.6,2.4,"2,393",66.4,2.4,"1,606",44.6,2.5,2010
+Michigan,Female,"3,907","3,738",73.2,2.2,"2,734",70,2.2,"1,787",45.7,2.4,2010
+Michigan,White alone,"6,141","5,954",73.5,1.7,"4,376",71.3,1.7,"2,873",46.8,1.9,2010
+Michigan,White non-Hispanic alone,"5,929","5,800",73.8,1.7,"4,281",72.2,1.7,"2,817",47.5,1.9,2010
+Michigan,Black alone,997,974,61.4,5.6,598,60,5.7,407,40.8,5.7,2010
+Michigan,Asian alone,244,118,41.7,9.7,49,20.2,17.2,34,14,8.4,2010
+Michigan,Hispanic (of any race),229,171,62.6,15.6,107,46.6,17.5,68,29.6,14.2,2010
+Michigan,White alone or in combination,"6,227","6,040",73.5,1.7,"4,438",71.3,1.7,"2,919",46.9,1.9,2010
+Michigan,Black alone or in combination,"1,047","1,023",63.1,5.5,646,61.7,5.5,450,43,5.6,2010
+Michigan,Asian alone or in combination,248,122,40.4,9.6,49,19.9,16.8,34,13.8,8.3,2010
+Minnesota,Total,"3,982","3,830",72,2.2,"2,756",69.2,2.2,"2,104",52.8,2.4,2010
+Minnesota,Male,"1,965","1,892",70.9,3.1,"1,341",68.3,3.1,"1,016",51.7,3.4,2010
+Minnesota,Female,"2,017","1,938",73,3,"1,415",70.2,3,"1,088",53.9,3.3,2010
+Minnesota,White alone,"3,680","3,599",73.3,2.2,"2,639",71.7,2.2,"2,024",55,2.4,2010
+Minnesota,White non-Hispanic alone,"3,556","3,518",73.8,2.2,"2,598",73.1,2.2,"1,997",56.2,2.5,2010
+Minnesota,Black alone,140,101,60.9,15.1,62,44.1,17.5,45,32.2,14.2,2010
+Minnesota,Asian alone,84,56,40.4,18.3,23,27.1,24.6,14,16.5,15.2,2010
+Minnesota,Hispanic (of any race),138,89,48.5,18.4,43,31.2,24.8,30,21.4,16.3,2010
+Minnesota,White alone or in combination,"3,725","3,642",73.1,2.2,"2,664",71.5,2.2,"2,040",54.8,2.4,2010
+Minnesota,Black alone or in combination,160,122,56,14.1,68,42.6,16.2,46,28.7,12.9,2010
+Minnesota,Asian alone or in combination,85,57,41.5,18.4,24,28,24.5,15,17.5,15.5,2010
+Mississippi,Total,"2,113","2,087",73.4,2.3,"1,532",72.5,2.3,983,46.5,2.6,2010
+Mississippi,Male,"1,000",987,68.3,3.6,674,67.5,3.6,425,42.5,3.8,2010
+Mississippi,Female,"1,113","1,099",78,3,857,77,3,558,50.1,3.6,2010
+Mississippi,White alone,"1,324","1,309",74.1,2.9,970,73.3,2.9,623,47.1,3.3,2010
+Mississippi,White non-Hispanic alone,"1,307","1,301",74.2,2.9,965,73.9,2.9,620,47.5,3.3,2010
+Mississippi,Black alone,721,721,74.1,4.8,534,74.1,4.8,351,48.7,5.4,2010
+Mississippi,Asian alone,29,19,(B),(B),12,(B),(B),2,(B),(B),2010
+Mississippi,Hispanic (of any race),17,8,(B),(B),5,(B),(B),3,(B),(B),2010
+Mississippi,White alone or in combination,"1,340","1,324",74.3,2.9,984,73.4,2.9,630,47,3.3,2010
+Mississippi,Black alone or in combination,735,735,73.6,4.8,541,73.6,4.8,354,48.1,5.4,2010
+Mississippi,Asian alone or in combination,31,19,(B),(B),12,(B),(B),2,(B),(B),2010
+Missouri,Total,"4,506","4,387",68.7,2.1,"3,013",66.9,2.1,"2,004",44.5,2.2,2010
+Missouri,Male,"2,164","2,083",67.9,3.1,"1,414",65.3,3.1,941,43.5,3.2,2010
+Missouri,Female,"2,342","2,304",69.4,2.9,"1,598",68.3,2.9,"1,063",45.4,3.1,2010
+Missouri,White alone,"3,900","3,811",68.8,2.3,"2,622",67.2,2.3,"1,755",45,2.4,2010
+Missouri,White non-Hispanic alone,"3,764","3,746",69,2.3,"2,585",68.7,2.3,"1,731",46,2.5,2010
+Missouri,Black alone,484,472,71.8,7.6,338,70,7.6,224,46.4,8.3,2010
+Missouri,Asian alone,35,21,(B),(B),3,(B),(B),-,(B),(B),2010
+Missouri,Hispanic (of any race),140,65,57.7,17.7,37,26.7,29.1,24,17.2,15.1,2010
+Missouri,White alone or in combination,"3,958","3,869",68.7,2.3,"2,658",67.2,2.3,"1,773",44.8,2.4,2010
+Missouri,Black alone or in combination,500,489,72.2,7.5,353,70.4,7.4,230,45.9,8.1,2010
+Missouri,Asian alone or in combination,39,24,(B),(B),7,(B),(B),4,(B),(B),2010
+Montana,Total,753,744,66,2.5,491,65.2,2.5,386,51.3,2.6,2010
+Montana,Male,371,368,67.9,3.4,250,67.4,3.4,196,52.7,3.7,2010
+Montana,Female,381,376,64.1,3.5,241,63.2,3.5,191,50,3.6,2010
+Montana,White alone,678,672,67.3,2.6,452,66.7,2.6,359,52.9,2.7,2010
+Montana,White non-Hispanic alone,659,655,67.3,2.6,441,66.9,2.6,351,53.2,2.7,2010
+Montana,Black alone,5,5,(B),(B),2,(B),(B),2,(B),(B),2010
+Montana,Asian alone,5,2,(B),(B),2,(B),(B),-,(B),(B),2010
+Montana,Hispanic (of any race),22,20,(B),(B),13,(B),(B),9,(B),(B),2010
+Montana,White alone or in combination,696,690,67.2,2.5,463,66.6,2.5,367,52.7,2.7,2010
+Montana,Black alone or in combination,5,5,(B),(B),2,(B),(B),2,(B),(B),2010
+Montana,Asian alone or in combination,5,2,(B),(B),2,(B),(B),-,(B),(B),2010
+Nebraska,Total,"1,323","1,240",64.8,2.6,804,60.8,2.6,511,38.7,2.6,2010
+Nebraska,Male,643,598,62.2,3.8,372,57.9,3.8,244,37.9,3.7,2010
+Nebraska,Female,680,642,67.3,3.6,432,63.5,3.6,268,39.3,3.6,2010
+Nebraska,White alone,"1,216","1,165",66,2.7,769,63.3,2.7,493,40.6,2.7,2010
+Nebraska,White non-Hispanic alone,"1,138","1,124",66.9,2.7,752,66.1,2.7,487,42.8,2.8,2010
+Nebraska,Black alone,45,31,(B),(B),13,(B),(B),5,(B),(B),2010
+Nebraska,Asian alone,32,19,(B),(B),9,(B),(B),3,(B),(B),2010
+Nebraska,Hispanic (of any race),101,55,46.4,13.1,25,25,20.6,12,11.6,9.7,2010
+Nebraska,White alone or in combination,"1,223","1,172",66.1,2.7,775,63.4,2.7,498,40.7,2.7,2010
+Nebraska,Black alone or in combination,47,33,(B),(B),15,(B),(B),7,(B),(B),2010
+Nebraska,Asian alone or in combination,34,21,(B),(B),10,(B),(B),4,(B),(B),2010
+Nevada,Total,"1,957","1,725",57.8,2.6,996,50.9,2.7,731,37.3,2.5,2010
+Nevada,Male,989,873,54.6,3.6,477,48.3,3.8,360,36.4,3.5,2010
+Nevada,Female,968,852,61,3.6,519,53.6,3.8,371,38.3,3.6,2010
+Nevada,White alone,"1,534","1,360",60.2,2.9,819,53.4,3,608,39.6,2.8,2010
+Nevada,White non-Hispanic alone,"1,169","1,143",63.5,3.2,726,62.1,3.2,546,46.7,3.3,2010
+Nevada,Black alone,148,139,50,11.3,69,46.7,11.7,48,32.2,10.6,2010
+Nevada,Asian alone,142,104,42.5,11.2,44,31.1,14,27,19,9.5,2010
+Nevada,Hispanic (of any race),399,245,42.3,7.9,103,25.9,11.3,68,17.1,6.7,2010
+Nevada,White alone or in combination,"1,580","1,403",60,2.9,842,53.3,3,623,39.4,2.8,2010
+Nevada,Black alone or in combination,163,153,51.2,10.8,79,48.1,11.1,50,30.4,9.9,2010
+Nevada,Asian alone or in combination,151,113,43.8,11,50,32.8,13.4,31,20.7,9.5,2010
+New Hampshire,Total,"1,024","1,002",66.5,2.5,666,65,2.6,470,45.9,2.7,2010
+New Hampshire,Male,498,489,66.9,3.6,327,65.7,3.6,234,46.9,3.8,2010
+New Hampshire,Female,526,513,66,3.6,339,64.4,3.6,236,44.9,3.7,2010
+New Hampshire,White alone,976,964,67.1,2.6,647,66.2,2.6,456,46.7,2.7,2010
+New Hampshire,White non-Hispanic alone,964,953,67.4,2.6,642,66.6,2.6,454,47,2.7,2010
+New Hampshire,Black alone,12,11,(B),(B),5,(B),(B),4,(B),(B),2010
+New Hampshire,Asian alone,19,11,(B),(B),6,(B),(B),3,(B),(B),2010
+New Hampshire,Hispanic (of any race),12,11,(B),(B),5,(B),(B),3,(B),(B),2010
+New Hampshire,White alone or in combination,988,975,66.8,2.6,651,65.9,2.6,460,46.6,2.7,2010
+New Hampshire,Black alone or in combination,16,14,(B),(B),6,(B),(B),5,(B),(B),2010
+New Hampshire,Asian alone or in combination,19,12,(B),(B),6,(B),(B),3,(B),(B),2010
+New Jersey,Total,"6,581","5,719",63.9,1.8,"3,656",55.6,1.9,"2,383",36.2,1.8,2010
+New Jersey,Male,"3,169","2,706",63.3,2.7,"1,712",54,2.8,"1,090",34.4,2.5,2010
+New Jersey,Female,"3,412","3,013",64.5,2.6,"1,944",57,2.6,"1,293",37.9,2.5,2010
+New Jersey,White alone,"5,115","4,529",64.5,2.1,"2,921",57.1,2.1,"1,890",36.9,2,2010
+New Jersey,White non-Hispanic alone,"4,109","3,963",67.3,2.2,"2,668",64.9,2.2,"1,729",42.1,2.3,2010
+New Jersey,Black alone,889,832,66.8,5.9,555,62.5,6,390,43.9,6.1,2010
+New Jersey,Asian alone,514,337,52,7.9,175,34.1,10.4,101,19.6,6.7,2010
+New Jersey,Hispanic (of any race),"1,136",628,45.2,6.1,284,25,9.4,177,15.5,5.1,2010
+New Jersey,White alone or in combination,"5,161","4,539",64.4,2.1,"2,923",56.6,2.1,"1,890",36.6,2,2010
+New Jersey,Black alone or in combination,929,835,66.5,5.9,555,59.8,6,390,42,5.9,2010
+New Jersey,Asian alone or in combination,521,343,51.5,7.9,177,33.9,10.3,101,19.3,6.6,2010
+New Mexico,Total,"1,489","1,362",54.8,2.6,746,50.1,2.7,579,38.9,2.5,2010
+New Mexico,Male,725,660,51,3.7,336,46.4,3.9,271,37.3,3.6,2010
+New Mexico,Female,764,702,58.3,3.6,409,53.6,3.7,308,40.3,3.6,2010
+New Mexico,White alone,"1,215","1,107",57.6,2.9,638,52.5,3,499,41.1,2.8,2010
+New Mexico,White non-Hispanic alone,626,613,64.6,3.9,396,63.2,3.9,319,51,4,2010
+New Mexico,Black alone,44,40,(B),(B),4,(B),(B),-,(B),(B),2010
+New Mexico,Asian alone,52,35,(B),(B),14,(B),(B),12,(B),(B),2010
+New Mexico,Hispanic (of any race),610,516,48.2,6.3,249,40.7,7,183,30,5.9,2010
+New Mexico,White alone or in combination,"1,229","1,122",57.7,2.9,648,52.7,3,506,41.2,2.8,2010
+New Mexico,Black alone or in combination,46,42,(B),(B),4,(B),(B),-,(B),(B),2010
+New Mexico,Asian alone or in combination,55,38,(B),(B),17,(B),(B),12,(B),(B),2010
+New York,Total,"14,974","13,163",63.8,1.2,"8,395",56.1,1.3,"5,746",38.4,1.2,2010
+New York,Male,"7,136","6,211",62.5,1.8,"3,883",54.4,1.9,"2,699",37.8,1.7,2010
+New York,Female,"7,837","6,952",64.9,1.7,"4,512",57.6,1.7,"3,046",38.9,1.7,2010
+New York,White alone,"11,336","10,347",65.7,1.4,"6,797",60,1.4,"4,721",41.6,1.4,2010
+New York,White non-Hispanic alone,"9,333","9,033",67.6,1.5,"6,102",65.4,1.5,"4,290",46,1.6,2010
+New York,Black alone,"2,478","2,096",62.3,3.7,"1,306",52.7,3.9,892,36,3.6,2010
+New York,Asian alone,"1,045",631,37.9,5,239,22.9,7.4,99,9.5,3.5,2010
+New York,Hispanic (of any race),"2,389","1,603",51.8,4.7,830,34.7,6,516,21.6,4,2010
+New York,White alone or in combination,"11,425","10,411",65.6,1.4,"6,827",59.8,1.4,"4,746",41.5,1.4,2010
+New York,Black alone or in combination,"2,500","2,114",62.2,3.7,"1,316",52.6,3.9,899,36,3.5,2010
+New York,Asian alone or in combination,"1,068",654,37.9,5,248,23.2,7.3,107,10.1,3.5,2010
+North Carolina,Total,"6,998","6,632",67.2,1.7,"4,455",63.7,1.7,"3,009",43,1.8,2010
+North Carolina,Male,"3,320","3,127",65.4,2.5,"2,045",61.6,2.6,"1,378",41.5,2.6,2010
+North Carolina,Female,"3,678","3,505",68.8,2.4,"2,410",65.5,2.3,"1,631",44.3,2.5,2010
+North Carolina,White alone,"5,164","4,853",68.9,2,"3,344",64.8,2,"2,279",44.1,2.1,2010
+North Carolina,White non-Hispanic alone,"4,731","4,694",69.3,2,"3,254",68.8,2,"2,207",46.6,2.2,2010
+North Carolina,Black alone,"1,438","1,420",61.3,4.7,871,60.5,4.7,582,40.5,4.7,2010
+North Carolina,Asian alone,124,94,74.8,16.9,70,56.9,17,31,24.7,14.7,2010
+North Carolina,Hispanic (of any race),469,182,57.7,9.1,105,22.4,17.3,80,17,8.2,2010
+North Carolina,White alone or in combination,"5,225","4,913",68.8,2,"3,382",64.7,2,"2,287",43.8,2.1,2010
+North Carolina,Black alone or in combination,"1,484","1,466",62.1,4.6,910,61.3,4.6,607,40.9,4.6,2010
+North Carolina,Asian alone or in combination,139,109,70.5,16,77,55.4,16.6,34,24.6,13.9,2010
+North Dakota,Total,488,477,75.6,2.3,361,73.9,2.3,266,54.5,2.6,2010
+North Dakota,Male,243,239,73.9,3.4,177,72.7,3.3,132,54.2,3.8,2010
+North Dakota,Female,245,239,77.3,3.2,184,75.2,3.2,134,54.8,3.7,2010
+North Dakota,White alone,433,428,75.5,2.5,324,74.7,2.4,240,55.4,2.8,2010
+North Dakota,White non-Hispanic alone,430,425,75.7,2.5,322,74.9,2.4,239,55.6,2.8,2010
+North Dakota,Black alone,4,4,(B),(B),2,(B),(B),-,(B),(B),2010
+North Dakota,Asian alone,7,-,(B),(B),-,(B),(B),-,(B),(B),2010
+North Dakota,Hispanic (of any race),3,3,(B),(B),2,(B),(B),-,(B),(B),2010
+North Dakota,White alone or in combination,439,434,75.4,2.4,327,74.6,2.4,241,54.9,2.8,2010
+North Dakota,Black alone or in combination,6,6,(B),(B),3,(B),(B),-,(B),(B),2010
+North Dakota,Asian alone or in combination,7,-,(B),(B),-,(B),(B),-,(B),(B),2010
+Ohio,Total,"8,642","8,468",66.1,1.5,"5,601",64.8,1.5,"3,824",44.2,1.6,2010
+Ohio,Male,"4,135","4,048",65.8,2.2,"2,664",64.4,2.2,"1,866",45.1,2.3,2010
+Ohio,Female,"4,506","4,420",66.4,2.1,"2,936",65.2,2.1,"1,958",43.4,2.2,2010
+Ohio,White alone,"7,474","7,396",66.4,1.6,"4,910",65.7,1.6,"3,382",45.2,1.7,2010
+Ohio,White non-Hispanic alone,"7,316","7,288",66.5,1.7,"4,847",66.2,1.7,"3,344",45.7,1.7,2010
+Ohio,Black alone,930,897,67.5,5.7,606,65.2,5.7,389,41.9,5.9,2010
+Ohio,Asian alone,110,55,48.8,15.6,27,24.6,25.5,21,19.4,14.3,2010
+Ohio,Hispanic (of any race),187,128,49.7,16.3,64,34.1,20.8,38,20.1,13.8,2010
+Ohio,White alone or in combination,"7,575","7,488",66.1,1.6,"4,953",65.4,1.6,"3,408",45,1.7,2010
+Ohio,Black alone or in combination,964,931,66.9,5.6,623,64.7,5.6,400,41.5,5.8,2010
+Ohio,Asian alone or in combination,117,63,51.2,15.6,32,27.6,23.9,27,22.7,14.7,2010
+Oklahoma,Total,"2,695","2,628",61,2.6,"1,603",59.5,2.6,"1,061",39.4,2.6,2010
+Oklahoma,Male,"1,295","1,263",59.8,3.8,756,58.3,3.8,489,37.8,3.7,2010
+Oklahoma,Female,"1,400","1,365",62,3.6,847,60.5,3.6,572,40.9,3.6,2010
+Oklahoma,White alone,"2,015","1,983",62.2,3,"1,234",61.2,3,833,41.3,3,2010
+Oklahoma,White non-Hispanic alone,"1,892","1,888",63.5,3,"1,200",63.4,3,818,43.2,3.1,2010
+Oklahoma,Black alone,195,191,58.4,11.8,111,57,11.8,71,36.1,11.4,2010
+Oklahoma,Asian alone,68,48,(B),(B),24,(B),(B),13,(B),(B),2010
+Oklahoma,Hispanic (of any race),159,116,33.1,14.6,38,24.1,18.8,19,11.9,11,2010
+Oklahoma,White alone or in combination,"2,236","2,197",62.7,2.8,"1,376",61.5,2.8,924,41.3,2.9,2010
+Oklahoma,Black alone or in combination,216,212,56.5,11.2,120,55.3,11.3,72,33.2,10.6,2010
+Oklahoma,Asian alone or in combination,76,56,51.4,19.3,29,38.3,23,16,20.4,16,2010
+Oregon,Total,"2,974","2,830",70.8,2.4,"2,005",67.4,2.4,"1,594",53.6,2.6,2010
+Oregon,Male,"1,455","1,383",69.5,3.5,962,66.1,3.5,781,53.7,3.7,2010
+Oregon,Female,"1,520","1,447",72.1,3.4,"1,043",68.6,3.3,813,53.5,3.6,2010
+Oregon,White alone,"2,725","2,612",71.3,2.5,"1,861",68.3,2.5,"1,493",54.8,2.7,2010
+Oregon,White non-Hispanic alone,"2,544","2,513",72.3,2.5,"1,818",71.5,2.5,"1,462",57.5,2.8,2010
+Oregon,Black alone,63,61,(B),(B),39,(B),(B),25,(B),(B),2010
+Oregon,Asian alone,93,64,62.2,18.3,40,42.6,21.7,31,33.4,17.5,2010
+Oregon,Hispanic (of any race),189,107,46.4,14.2,50,26.3,21.4,35,18.6,12.6,2010
+Oregon,White alone or in combination,"2,775","2,662",71.2,2.5,"1,896",68.3,2.5,"1,522",54.9,2.7,2010
+Oregon,Black alone or in combination,73,71,(B),(B),42,(B),(B),25,(B),(B),2010
+Oregon,Asian alone or in combination,109,79,64.7,17.1,51,47.3,19.2,41,37.6,16.6,2010
+Pennsylvania,Total,"9,631","9,339",64.6,1.5,"6,031",62.6,1.5,"4,104",42.6,1.5,2010
+Pennsylvania,Male,"4,581","4,421",63.6,2.2,"2,812",61.4,2.2,"1,956",42.7,2.2,2010
+Pennsylvania,Female,"5,050","4,918",65.5,2,"3,220",63.8,2,"2,148",42.5,2.1,2010
+Pennsylvania,White alone,"8,435","8,318",65.2,1.6,"5,426",64.3,1.6,"3,674",43.6,1.6,2010
+Pennsylvania,White non-Hispanic alone,"8,104","8,024",65.8,1.6,"5,281",65.2,1.6,"3,599",44.4,1.7,2010
+Pennsylvania,Black alone,907,808,61.2,6,494,54.5,6.2,368,40.6,5.9,2010
+Pennsylvania,Asian alone,173,113,53.5,13.7,60,34.8,17.8,30,17.2,10.9,2010
+Pennsylvania,Hispanic (of any race),390,323,47.9,11.7,155,39.7,13.1,79,20.3,9.6,2010
+Pennsylvania,White alone or in combination,"8,514","8,388",65.1,1.6,"5,462",64.1,1.6,"3,697",43.4,1.6,2010
+Pennsylvania,Black alone or in combination,952,853,61.3,5.9,523,54.9,6.1,390,40.9,5.8,2010
+Pennsylvania,Asian alone or in combination,189,120,52.4,13,63,33.2,17.3,32,17.1,10.4,2010
+Rhode Island,Total,812,745,68.4,2.6,510,62.8,2.6,348,42.9,2.7,2010
+Rhode Island,Male,387,350,68,3.8,238,61.5,3.8,168,43.4,3.9,2010
+Rhode Island,Female,425,396,68.7,3.6,272,63.9,3.6,180,42.3,3.7,2010
+Rhode Island,White alone,720,681,70.1,2.7,477,66.3,2.7,329,45.7,2.9,2010
+Rhode Island,White non-Hispanic alone,649,637,72.2,2.7,460,70.8,2.7,320,49.3,3,2010
+Rhode Island,Black alone,45,34,(B),(B),18,(B),(B),12,(B),(B),2010
+Rhode Island,Asian alone,29,17,(B),(B),6,(B),(B),3,(B),(B),2010
+Rhode Island,Hispanic (of any race),84,53,38.8,11.4,20,24.4,16.3,10,12.2,8.7,2010
+Rhode Island,White alone or in combination,725,686,70.2,2.7,482,66.5,2.7,332,45.8,2.9,2010
+Rhode Island,Black alone or in combination,49,37,(B),(B),21,(B),(B),13,(B),(B),2010
+Rhode Island,Asian alone or in combination,29,17,(B),(B),6,(B),(B),3,(B),(B),2010
+South Carolina,Total,"3,453","3,339",69,2.4,"2,304",66.7,2.4,"1,700",49.2,2.5,2010
+South Carolina,Male,"1,635","1,577",66.9,3.5,"1,054",64.5,3.5,777,47.5,3.7,2010
+South Carolina,Female,"1,818","1,762",70.9,3.2,"1,250",68.8,3.2,922,50.7,3.5,2010
+South Carolina,White alone,"2,455","2,361",69.7,2.8,"1,646",67.1,2.8,"1,190",48.5,3,2010
+South Carolina,White non-Hispanic alone,"2,355","2,327",70.2,2.8,"1,634",69.4,2.8,"1,188",50.4,3.1,2010
+South Carolina,Black alone,898,898,68.6,5.6,616,68.6,5.6,482,53.7,6,2010
+South Carolina,Asian alone,49,29,(B),(B),15,(B),(B),7,(B),(B),2010
+South Carolina,Hispanic (of any race),112,45,32.8,15,15,13.3,32.6,4,3.6,8.2,2010
+South Carolina,White alone or in combination,"2,498","2,403",69.4,2.8,"1,668",66.8,2.8,"1,204",48.2,3,2010
+South Carolina,Black alone or in combination,918,918,68.7,5.5,631,68.7,5.5,495,53.9,5.9,2010
+South Carolina,Asian alone or in combination,49,29,(B),(B),15,(B),(B),7,(B),(B),2010
+South Dakota,Total,602,587,69.1,2.3,406,67.4,2.3,322,53.5,2.4,2010
+South Dakota,Male,297,287,67.8,3.3,194,65.5,3.3,151,50.8,3.5,2010
+South Dakota,Female,305,301,70.4,3.2,212,69.3,3.2,171,56.1,3.4,2010
+South Dakota,White alone,554,543,70.1,2.4,380,68.7,2.4,304,54.9,2.5,2010
+South Dakota,White non-Hispanic alone,539,537,70.4,2.4,378,70,2.4,301,55.9,2.6,2010
+South Dakota,Black alone,7,4,(B),(B),2,(B),(B),1,(B),(B),2010
+South Dakota,Asian alone,3,3,(B),(B),1,(B),(B),-,(B),(B),2010
+South Dakota,Hispanic (of any race),19,10,(B),(B),6,(B),(B),3,(B),(B),2010
+South Dakota,White alone or in combination,557,546,69.9,2.4,382,68.6,2.4,305,54.8,2.5,2010
+South Dakota,Black alone or in combination,7,4,(B),(B),2,(B),(B),1,(B),(B),2010
+South Dakota,Asian alone or in combination,3,3,(B),(B),1,(B),(B),-,(B),(B),2010
+Tennesee,Total,"4,745","4,547",62.8,2.1,"2,854",60.1,2.1,"1,714",36.1,2.1,2010
+Tennesee,Male,"2,278","2,155",61.1,3.1,"1,317",57.8,3.1,789,34.6,3,2010
+Tennesee,Female,"2,466","2,392",64.2,2.9,"1,537",62.3,2.9,925,37.5,2.9,2010
+Tennesee,White alone,"3,869","3,753",63,2.3,"2,365",61.1,2.4,"1,433",37,2.3,2010
+Tennesee,White non-Hispanic alone,"3,722","3,694",63.1,2.4,"2,332",62.7,2.4,"1,419",38.1,2.4,2010
+Tennesee,Black alone,716,666,62.3,6.7,415,58,6.8,242,33.8,6.4,2010
+Tennesee,Asian alone,77,45,29.7,16.3,13,17.4,25.7,6,8.3,11.9,2010
+Tennesee,Hispanic (of any race),160,72,52.1,15.7,37,23.3,27.7,19,11.8,11.9,2010
+Tennesee,White alone or in combination,"3,935","3,819",63.2,2.3,"2,413",61.3,2.3,"1,460",37.1,2.3,2010
+Tennesee,Black alone or in combination,722,672,61.7,6.7,415,57.4,6.8,242,33.5,6.4,2010
+Tennesee,Asian alone or in combination,77,45,29.7,16.3,13,17.4,25.7,6,8.3,11.9,2010
+Texas,Total,"17,847","15,403",61.6,1.1,"9,493",53.2,1.2,"5,600",31.4,1,2010
+Texas,Male,"8,742","7,430",59.7,1.6,"4,438",50.8,1.7,"2,631",30.1,1.5,2010
+Texas,Female,"9,105","7,973",63.4,1.6,"5,054",55.5,1.6,"2,969",32.6,1.5,2010
+Texas,White alone,"14,741","12,609",62.3,1.2,"7,858",53.3,1.3,"4,631",31.4,1.2,2010
+Texas,White non-Hispanic alone,"8,452","8,329",66.9,1.6,"5,571",65.9,1.6,"3,645",43.1,1.6,2010
+Texas,Black alone,"2,060","1,993",62.3,3.9,"1,242",60.3,4,770,37.4,3.9,2010
+Texas,Asian alone,798,567,46.3,6.3,262,32.9,8,126,15.8,4.9,2010
+Texas,Hispanic (of any race),"6,403","4,376",53.3,2.9,"2,334",36.5,3.6,"1,012",15.8,2.2,2010
+Texas,White alone or in combination,"14,914","12,774",62.4,1.2,"7,966",53.4,1.3,"4,697",31.5,1.1,2010
+Texas,Black alone or in combination,"2,114","2,047",61.2,3.9,"1,252",59.2,3.9,773,36.5,3.8,2010
+Texas,Asian alone or in combination,802,572,46.7,6.3,267,33.3,8,131,16.3,5,2010
+Utah,Total,"1,929","1,800",60.8,2.3,"1,095",56.8,2.4,695,36,2.3,2010
+Utah,Male,958,885,58.1,3.3,514,53.7,3.4,338,35.2,3.2,2010
+Utah,Female,971,916,63.4,3.3,581,59.8,3.3,357,36.8,3.2,2010
+Utah,White alone,"1,811","1,709",62.3,2.4,"1,064",58.8,2.4,676,37.4,2.4,2010
+Utah,White non-Hispanic alone,"1,667","1,640",63.7,2.5,"1,045",62.7,2.5,664,39.8,2.5,2010
+Utah,Black alone,19,9,(B),(B),6,(B),(B),2,(B),(B),2010
+Utah,Asian alone,44,32,(B),(B),15,(B),(B),11,(B),(B),2010
+Utah,Hispanic (of any race),151,71,29.1,9.1,21,13.7,17.5,13,8.9,7.5,2010
+Utah,White alone or in combination,"1,818","1,717",62.4,2.4,"1,071",58.9,2.4,680,37.4,2.4,2010
+Utah,Black alone or in combination,23,12,(B),(B),9,(B),(B),5,(B),(B),2010
+Utah,Asian alone or in combination,44,32,(B),(B),15,(B),(B),11,(B),(B),2010
+Vermont,Total,490,481,74,2.5,356,72.7,2.4,265,54,2.8,2010
+Vermont,Male,238,233,72.7,3.6,169,71.2,3.6,126,53.1,4,2010
+Vermont,Female,252,248,75.3,3.4,187,74.1,3.4,138,54.9,3.8,2010
+Vermont,White alone,473,467,74.2,2.5,346,73.2,2.5,259,54.7,2.8,2010
+Vermont,White non-Hispanic alone,469,464,74.3,2.5,345,73.6,2.5,257,54.9,2.8,2010
+Vermont,Black alone,4,2,(B),(B),2,(B),(B),1,(B),(B),2010
+Vermont,Asian alone,4,3,(B),(B),1,(B),(B),-,(B),(B),2010
+Vermont,Hispanic (of any race),4,2,(B),(B),1,(B),(B),1,(B),(B),2010
+Vermont,White alone or in combination,481,475,74.3,2.5,352,73.3,2.5,263,54.6,2.8,2010
+Vermont,Black alone or in combination,4,3,(B),(B),3,(B),(B),1,(B),(B),2010
+Vermont,Asian alone or in combination,6,5,(B),(B),2,(B),(B),-,(B),(B),2010
+Virginia,Total,"5,873","5,544",64,1.9,"3,546",60.4,1.9,"2,257",38.4,1.9,2010
+Virginia,Male,"2,812","2,632",62.2,2.8,"1,637",58.2,2.8,"1,047",37.2,2.7,2010
+Virginia,Female,"3,061","2,913",65.5,2.6,"1,909",62.3,2.6,"1,210",39.5,2.6,2010
+Virginia,White alone,"4,266","4,095",67.8,2.2,"2,775",65,2.2,"1,780",41.7,2.3,2010
+Virginia,White non-Hispanic alone,"3,955","3,874",69.5,2.2,"2,693",68.1,2.2,"1,738",43.9,2.4,2010
+Virginia,Black alone,"1,104","1,041",51.4,5.4,536,48.5,5.6,370,33.6,5.1,2010
+Virginia,Asian alone,363,269,58.1,9.8,156,43,11.3,61,16.8,7.4,2010
+Virginia,Hispanic (of any race),369,254,34.6,10.4,88,23.8,14,48,13,8.2,2010
+Virginia,White alone or in combination,"4,348","4,176",67.6,2.2,"2,824",64.9,2.2,"1,811",41.6,2.2,2010
+Virginia,Black alone or in combination,"1,167","1,104",52,5.3,575,49.3,5.4,392,33.6,5,2010
+Virginia,Asian alone or in combination,392,297,60.6,9.5,180,46,10.7,75,19.2,7.5,2010
+Washington,Total,"5,095","4,637",72.6,2,"3,367",66.1,2,"2,692",52.8,2.1,2010
+Washington,Male,"2,501","2,266",70.8,2.9,"1,604",64.1,2.9,"1,289",51.6,3,2010
+Washington,Female,"2,595","2,370",74.4,2.8,"1,763",68,2.7,"1,403",54.1,3,2010
+Washington,White alone,"4,366","4,085",74.1,2.1,"3,028",69.3,2.1,"2,479",56.8,2.3,2010
+Washington,White non-Hispanic alone,"3,942","3,844",76,2.1,"2,921",74.1,2.1,"2,405",61,2.4,2010
+Washington,Black alone,157,134,44.8,14.2,60,38.1,15.8,47,30,13.4,2010
+Washington,Asian alone,375,237,59.6,9.6,141,37.7,12.2,92,24.5,8.5,2010
+Washington,Hispanic (of any race),461,259,42.4,9.5,110,23.8,14.6,77,16.7,8.3,2010
+Washington,White alone or in combination,"4,506","4,215",74.2,2.1,"3,128",69.4,2,"2,527",56.1,2.2,2010
+Washington,Black alone or in combination,190,167,51.2,13.2,85,44.9,14.2,49,25.9,11.7,2010
+Washington,Asian alone or in combination,430,292,64.8,9.2,189,44,10.7,127,29.6,8.4,2010
+West Virginia,Total,"1,420","1,418",62.3,2.3,883,62.2,2.3,581,40.9,2.3,2010
+West Virginia,Male,686,685,59.3,3.4,406,59.2,3.4,266,38.8,3.3,2010
+West Virginia,Female,734,733,65.1,3.2,477,65,3.2,315,42.9,3.3,2010
+West Virginia,White alone,"1,360","1,359",63.1,2.4,857,63.1,2.4,561,41.2,2.4,2010
+West Virginia,White non-Hispanic alone,"1,355","1,354",63.2,2.4,856,63.1,2.4,559,41.2,2.4,2010
+West Virginia,Black alone,48,48,(B),(B),22,(B),(B),18,(B),(B),2010
+West Virginia,Asian alone,4,3,(B),(B),-,(B),(B),-,(B),(B),2010
+West Virginia,Hispanic (of any race),5,5,(B),(B),2,(B),(B),2,(B),(B),2010
+West Virginia,White alone or in combination,"1,365","1,364",63,2.4,860,63,2.4,562,41.1,2.4,2010
+West Virginia,Black alone or in combination,50,50,(B),(B),22,(B),(B),18,(B),(B),2010
+West Virginia,Asian alone or in combination,4,3,(B),(B),-,(B),(B),-,(B),(B),2010
+Wisconsin,Total,"4,291","4,156",70,2.1,"2,908",67.8,2.1,"2,258",52.6,2.3,2010
+Wisconsin,Male,"2,105","2,024",67.2,3.1,"1,360",64.6,3.1,"1,059",50.3,3.3,2010
+Wisconsin,Female,"2,185","2,132",72.6,2.9,"1,549",70.9,2.9,"1,199",54.9,3.2,2010
+Wisconsin,White alone,"3,956","3,848",70.8,2.2,"2,723",68.8,2.2,"2,113",53.4,2.4,2010
+Wisconsin,White non-Hispanic alone,"3,810","3,778",71.1,2.2,"2,688",70.5,2.2,"2,091",54.9,2.4,2010
+Wisconsin,Black alone,204,193,58.5,12.6,113,55.4,12.9,89,43.9,12.6,2010
+Wisconsin,Asian alone,68,51,(B),(B),29,(B),(B),23,(B),(B),2010
+Wisconsin,Hispanic (of any race),181,96,55.7,15.9,53,29.4,23.9,38,20.8,14.2,2010
+Wisconsin,White alone or in combination,"3,979","3,872",70.7,2.2,"2,739",68.8,2.2,"2,122",53.3,2.4,2010
+Wisconsin,Black alone or in combination,206,196,59,12.5,116,56,12.7,89,43.3,12.5,2010
+Wisconsin,Asian alone or in combination,70,53,(B),(B),31,(B),(B),25,(B),(B),2010
+Wyoming,Total,411,402,59.6,2.7,239,58.2,2.7,190,46.1,2.7,2010
+Wyoming,Male,210,204,57.7,3.7,118,56.2,3.8,94,44.6,3.7,2010
+Wyoming,Female,202,197,61.5,3.8,121,60.2,3.8,96,47.6,3.8,2010
+Wyoming,White alone,389,382,60.2,2.7,230,59.1,2.7,182,46.9,2.8,2010
+Wyoming,White non-Hispanic alone,363,361,61.3,2.8,222,61.1,2.8,177,48.7,2.9,2010
+Wyoming,Black alone,6,5,(B),(B),2,(B),(B),2,(B),(B),2010
+Wyoming,Asian alone,3,-,(B),(B),-,(B),(B),-,(B),(B),2010
+Wyoming,Hispanic (of any race),31,25,(B),(B),9,(B),(B),6,(B),(B),2010
+Wyoming,White alone or in combination,400,393,60.1,2.7,236,59,2.7,187,46.6,2.7,2010
+Wyoming,Black alone or in combination,8,7,(B),(B),3,(B),(B),3,(B),(B),2010
+Wyoming,Asian alone or in combination,4,2,(B),(B),1,(B),(B),-,(B),(B),2010

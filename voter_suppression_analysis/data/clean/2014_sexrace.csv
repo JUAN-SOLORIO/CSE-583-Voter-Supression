@@ -1,0 +1,576 @@
+State,Race and Hispanic origin,Total Population,Total Citizen Population,"Percent registered
+(Citizen)",Margin of Error1,Total registered,"Percent registered
+(Total)",Margin of Error,Total voted,"Percent voted
+(Total)",Margin of Error,Year
+UNITED STATES,Total,"239,874","219,941",64.6,0.3,"142,166",59.3,0.3,"92,251",38.5,0.3,2014
+UNITED STATES,Male,"115,637","105,299",62.8,0.4,"66,147",57.2,0.4,"43,009",37.2,0.4,2014
+UNITED STATES,Female,"124,237","114,642",66.3,0.4,"76,019",61.2,0.4,"49,243",39.6,0.4,2014
+UNITED STATES,White alone,"189,331","175,909",65.9,0.3,"115,998",61.3,0.3,"76,366",40.3,0.3,2014
+UNITED STATES,.White non-Hispanic alone,"156,438","153,750",68.1,0.3,"104,664",66.9,0.3,"70,351",45,0.4,2014
+UNITED STATES,Black alone,"29,668","27,908",63.4,1,"17,700",59.7,1,"11,078",37.3,1,2014
+UNITED STATES,Asian alone,"13,495","9,504",48.8,1.5,"4,642",34.4,1.8,"2,575",19.1,1.2,2014
+UNITED STATES,Hispanic (of any race),"36,802","25,092",51.3,1.1,"12,862",34.9,1.4,"6,775",18.4,0.9,2014
+UNITED STATES,White alone or in combination,"192,804","179,103",65.9,0.3,"117,978",61.2,0.3,"77,472",40.2,0.3,2014
+UNITED STATES,Black alone or in combination,"31,078","29,222",63,0.9,"18,422",59.3,1,"11,469",36.9,0.9,2014
+UNITED STATES,Asian alone or in combination,"14,367","10,332",50,1.4,"5,166",36,1.7,"2,883",20.1,1.2,2014
+ALABAMA,Total,"3,656","3,519",67.2,2.4,"2,366",64.7,2.4,"1,497",40.9,2.4,2014
+ALABAMA,Male,"1,734","1,642",64.7,3.5,"1,063",61.3,3.5,677,39,3.5,2014
+ALABAMA,Female,"1,922","1,877",69.4,3.2,"1,303",67.8,3.2,820,42.6,3.4,2014
+ALABAMA,White alone,"2,586","2,503",67.9,2.8,"1,700",65.8,2.8,"1,045",40.4,2.9,2014
+ALABAMA,.White non-Hispanic alone,"2,478","2,473",68.2,2.8,"1,686",68,2.8,"1,045",42.2,3,2014
+ALABAMA,Black alone,922,910,65.4,5.7,596,64.6,5.7,414,44.9,5.9,2014
+ALABAMA,Asian alone,51,23,(B),(B),17,(B),(B),9,(B),(B),2014
+ALABAMA,Hispanic (of any race),136,41,(B),(B),17,(B),(B),3,(B),(B),2014
+ALABAMA,White alone or in combination,"2,660","2,572",67.9,2.7,"1,746",65.6,2.7,"1,071",40.2,2.8,2014
+ALABAMA,Black alone or in combination,937,925,65.3,5.6,604,64.5,5.7,414,44.2,5.9,2014
+ALABAMA,Asian alone or in combination,51,23,(B),(B),17,(B),(B),9,(B),(B),2014
+ALASKA,Total,521,503,66.8,2.5,336,64.6,2.5,255,49,2.6,2014
+ALASKA,Male,264,256,65.7,3.5,168,63.8,3.5,128,48.4,3.7,2014
+ALASKA,Female,257,247,68,3.5,168,65.4,3.5,127,49.6,3.7,2014
+ALASKA,White alone,340,331,70.7,3,234,68.9,3,188,55.5,3.2,2014
+ALASKA,.White non-Hispanic alone,318,312,71.4,3.1,223,70.1,3,181,56.8,3.3,2014
+ALASKA,Black alone,18,18,(B),(B),9,(B),(B),6,(B),(B),2014
+ALASKA,Asian alone,28,21,(B),(B),8,(B),(B),7,(B),(B),2014
+ALASKA,Hispanic (of any race),28,24,(B),(B),12,(B),(B),8,(B),(B),2014
+ALASKA,White alone or in combination,360,350,70,2.9,245,68.2,2.9,196,54.6,3.1,2014
+ALASKA,Black alone or in combination,21,20,(B),(B),11,(B),(B),8,(B),(B),2014
+ALASKA,Asian alone or in combination,32,25,(B),(B),11,(B),(B),9,(B),(B),2014
+ARIZONA,Total,"4,994","4,397",62.3,2.1,"2,738",54.8,2.2,"1,785",35.7,2.1,2014
+ARIZONA,Male,"2,423","2,133",61.4,3.1,"1,309",54,3.2,823,34,2.9,2014
+ARIZONA,Female,"2,571","2,264",63.1,3,"1,430",55.6,3.1,961,37.4,2.9,2014
+ARIZONA,White alone,"4,226","3,742",63.8,2.3,"2,386",56.5,2.4,"1,583",37.5,2.3,2014
+ARIZONA,.White non-Hispanic alone,"2,743","2,694",65.2,2.8,"1,757",64.1,2.8,"1,250",45.6,2.9,2014
+ARIZONA,Black alone,215,199,60.3,12.4,120,55.9,12.7,66,30.8,11.5,2014
+ARIZONA,Asian alone,189,98,39.3,11.2,39,20.4,18.8,20,10.6,8.6,2014
+ARIZONA,Hispanic (of any race),"1,580","1,145",60,5.9,687,43.5,6.9,364,23.1,5,2014
+ARIZONA,White alone or in combination,"4,315","3,827",63.4,2.3,"2,425",56.2,2.4,"1,614",37.4,2.2,2014
+ARIZONA,Black alone or in combination,248,229,52.4,11.6,120,48.5,12.1,66,26.7,10.3,2014
+ARIZONA,Asian alone or in combination,205,115,41.7,11.3,48,23.3,17.6,25,12,8.7,2014
+ARKANSAS,Total,"2,189","2,057",62.8,2.5,"1,292",59,2.6,798,36.5,2.5,2014
+ARKANSAS,Male,"1,058",993,59.6,3.7,592,55.9,3.7,364,34.4,3.5,2014
+ARKANSAS,Female,"1,131","1,064",65.8,3.5,700,61.9,3.5,434,38.3,3.5,2014
+ARKANSAS,White alone,"1,763","1,680",64,2.8,"1,076",61,2.8,661,37.5,2.8,2014
+ARKANSAS,.White non-Hispanic alone,"1,645","1,633",64.8,2.8,"1,058",64.3,2.8,647,39.3,2.9,2014
+ARKANSAS,Black alone,307,303,60.7,8.1,184,60,8.1,116,37.7,8,2014
+ARKANSAS,Asian alone,54,28,(B),(B),8,(B),(B),2,(B),(B),2014
+ARKANSAS,Hispanic (of any race),136,55,(B),(B),20,(B),(B),14,(B),(B),2014
+ARKANSAS,White alone or in combination,"1,795","1,712",63.5,2.8,"1,087",60.6,2.8,670,37.3,2.7,2014
+ARKANSAS,Black alone or in combination,311,307,60,8.1,184,59.3,8.1,116,37.3,8,2014
+ARKANSAS,Asian alone or in combination,57,31,(B),(B),8,(B),(B),2,(B),(B),2014
+CALIFORNIA,Total,"29,030","24,455",57.7,0.9,"14,113",48.6,1,"8,949",30.8,0.8,2014
+CALIFORNIA,Male,"14,156","11,811",56.1,1.3,"6,622",46.8,1.4,"4,240",30,1.2,2014
+CALIFORNIA,Female,"14,874","12,645",59.2,1.2,"7,491",50.4,1.3,"4,708",31.7,1.2,2014
+CALIFORNIA,White alone,"21,429","18,060",59.5,1,"10,753",50.2,1.1,"7,093",33.1,1,2014
+CALIFORNIA,.White non-Hispanic alone,"12,326","11,907",65.8,1.3,"7,830",63.5,1.3,"5,551",45,1.4,2014
+CALIFORNIA,Black alone,"1,846","1,787",58.4,4.2,"1,043",56.5,4.3,535,29,3.9,2014
+CALIFORNIA,Asian alone,"4,409","3,486",46.7,2.8,"1,628",36.9,3.2,933,21.2,2.4,2014
+CALIFORNIA,Hispanic (of any race),"10,023","6,859",48,2.2,"3,294",32.9,2.9,"1,707",17,1.8,2014
+CALIFORNIA,White alone or in combination,"21,993","18,565",59.8,1,"11,107",50.5,1.1,"7,252",33,1,2014
+CALIFORNIA,Black alone or in combination,"1,997","1,913",59.3,4.1,"1,134",56.8,4.1,570,28.5,3.7,2014
+CALIFORNIA,Asian alone or in combination,"4,598","3,660",47.6,2.7,"1,742",37.9,3.2,986,21.5,2.3,2014
+COLORADO,Total,"4,009","3,732",71.1,2.3,"2,654",66.2,2.3,"2,211",55.2,2.4,2014
+COLORADO,Male,"1,979","1,849",69.7,3.3,"1,288",65.1,3.2,"1,059",53.5,3.4,2014
+COLORADO,Female,"2,030","1,883",72.5,3.2,"1,366",67.3,3.1,"1,152",56.8,3.3,2014
+COLORADO,White alone,"3,637","3,427",71.6,2.4,"2,453",67.4,2.3,"2,085",57.3,2.5,2014
+COLORADO,.White non-Hispanic alone,"3,010","2,965",73.9,2.5,"2,192",72.8,2.4,"1,888",62.7,2.7,2014
+COLORADO,Black alone,147,132,57,15.2,75,51.2,15.8,56,38,14.7,2014
+COLORADO,Asian alone,112,63,(B),(B),48,(B),(B),40,(B),(B),2014
+COLORADO,Hispanic (of any race),701,534,60.1,9,321,45.8,10.1,218,31.1,8.4,2014
+COLORADO,White alone or in combination,"3,688","3,478",71.8,2.3,"2,498",67.7,2.3,"2,105",57.1,2.5,2014
+COLORADO,Black alone or in combination,157,142,55.1,14.7,78,49.9,15.3,57,36.5,14.1,2014
+COLORADO,Asian alone or in combination,138,88,83.1,16.3,74,53.3,15.3,48,35,15.6,2014
+CONNECTICUT,Total,"2,783","2,560",65.1,2.4,"1,668",59.9,2.5,"1,195",43,2.5,2014
+CONNECTICUT,Male,"1,333","1,217",62.9,3.6,765,57.4,3.6,588,44.1,3.6,2014
+CONNECTICUT,Female,"1,450","1,343",67.2,3.4,903,62.3,3.4,607,41.9,3.4,2014
+CONNECTICUT,White alone,"2,344","2,198",67.1,2.6,"1,475",62.9,2.6,"1,065",45.4,2.7,2014
+CONNECTICUT,.White non-Hispanic alone,"2,076","2,014",68.2,2.7,"1,374",66.2,2.7,"1,009",48.6,2.9,2014
+CONNECTICUT,Black alone,291,246,49.2,9.2,121,41.7,10.2,83,28.4,8.4,2014
+CONNECTICUT,Asian alone,101,72,(B),(B),40,(B),(B),28,(B),(B),2014
+CONNECTICUT,Hispanic (of any race),319,220,52.6,11.2,116,36.3,13.9,68,21.3,9.5,2014
+CONNECTICUT,White alone or in combination,"2,376","2,231",67.4,2.6,"1,502",63.2,2.6,"1,083",45.6,2.7,2014
+CONNECTICUT,Black alone or in combination,305,261,50.1,9,131,42.8,9.9,86,28.1,8.2,2014
+CONNECTICUT,Asian alone or in combination,101,72,(B),(B),40,(B),(B),28,(B),(B),2014
+DELAWARE,Total,712,661,66.8,2.4,442,62,2.5,299,42,2.5,2014
+DELAWARE,Male,337,311,66.2,3.6,206,61.2,3.6,139,41.2,3.6,2014
+DELAWARE,Female,375,350,67.3,3.4,236,62.8,3.4,160,42.7,3.4,2014
+DELAWARE,White alone,510,484,69.4,2.8,336,65.9,2.8,229,44.9,3,2014
+DELAWARE,.White non-Hispanic alone,471,465,70.2,2.9,326,69.3,2.9,224,47.7,3.1,2014
+DELAWARE,Black alone,147,138,66.1,6.5,91,61.9,6.6,59,40.3,6.6,2014
+DELAWARE,Asian alone,32,20,(B),(B),4,(B),(B),3,(B),(B),2014
+DELAWARE,Hispanic (of any race),56,31,(B),(B),14,(B),(B),5,(B),(B),2014
+DELAWARE,White alone or in combination,523,496,69.2,2.8,344,65.7,2.8,234,44.7,2.9,2014
+DELAWARE,Black alone or in combination,157,146,67,6.3,98,62.4,6.4,64,40.7,6.4,2014
+DELAWARE,Asian alone or in combination,33,20,(B),(B),5,(B),(B),3,(B),(B),2014
+DISTRICT OF COLUMBIA,Total,538,480,73.5,2.4,353,65.6,2.4,247,45.8,2.6,2014
+DISTRICT OF COLUMBIA,Male,249,219,75.3,3.6,165,66.2,3.5,118,47.1,3.8,2014
+DISTRICT OF COLUMBIA,Female,289,261,71.9,3.3,188,65.1,3.3,129,44.8,3.5,2014
+DISTRICT OF COLUMBIA,White alone,251,220,79.7,3.4,176,70.1,3.2,123,49.1,3.8,2014
+DISTRICT OF COLUMBIA,.White non-Hispanic alone,213,202,80.6,3.5,162,76.3,3.3,113,53.3,4.1,2014
+DISTRICT OF COLUMBIA,Black alone,248,235,69.7,4.3,164,66.1,4.3,114,46.1,4.6,2014
+DISTRICT OF COLUMBIA,Asian alone,21,10,(B),(B),5,(B),(B),2,(B),(B),2014
+DISTRICT OF COLUMBIA,Hispanic (of any race),53,28,(B),(B),19,(B),(B),13,(B),(B),2014
+DISTRICT OF COLUMBIA,White alone or in combination,262,231,79,3.4,182,69.7,3.2,128,48.9,3.7,2014
+DISTRICT OF COLUMBIA,Black alone or in combination,259,244,69.3,4.3,169,65.3,4.3,119,45.9,4.5,2014
+DISTRICT OF COLUMBIA,Asian alone or in combination,25,13,(B),(B),7,(B),(B),3,(B),(B),2014
+FLORIDA,Total,"15,414","13,879",62.6,1.2,"8,691",56.4,1.2,"6,220",40.4,1.2,2014
+FLORIDA,Male,"7,335","6,551",61.2,1.7,"4,008",54.6,1.8,"2,840",38.7,1.7,2014
+FLORIDA,Female,"8,079","7,327",63.9,1.6,"4,683",58,1.7,"3,380",41.8,1.6,2014
+FLORIDA,White alone,"12,507","11,266",62.2,1.3,"7,010",56.1,1.4,"5,071",40.6,1.3,2014
+FLORIDA,.White non-Hispanic alone,"9,134","8,922",62.7,1.5,"5,596",61.3,1.5,"4,237",46.4,1.6,2014
+FLORIDA,Black alone,"2,331","2,112",64.3,3.7,"1,358",58.2,3.8,929,39.8,3.6,2014
+FLORIDA,Asian alone,374,299,61.5,9.7,184,49,10.6,128,34.3,9.2,2014
+FLORIDA,Hispanic (of any race),"3,530","2,480",60.2,3.9,"1,493",42.3,4.6,892,25.3,3.4,2014
+FLORIDA,White alone or in combination,"12,646","11,406",62.3,1.3,"7,101",56.2,1.3,"5,127",40.5,1.3,2014
+FLORIDA,Black alone or in combination,"2,401","2,182",63.5,3.6,"1,386",57.7,3.7,948,39.5,3.6,2014
+FLORIDA,Asian alone or in combination,407,331,62.1,9.3,206,50.5,10,143,35.2,8.9,2014
+GEORGIA,Total,"7,306","6,759",63.7,1.7,"4,306",58.9,1.8,"2,919",40,1.7,2014
+GEORGIA,Male,"3,458","3,143",62.3,2.5,"1,959",56.7,2.6,"1,297",37.5,2.5,2014
+GEORGIA,Female,"3,848","3,616",64.9,2.4,"2,347",61,2.4,"1,622",42.2,2.4,2014
+GEORGIA,White alone,"4,569","4,236",65.3,2.2,"2,764",60.5,2.2,"1,866",40.8,2.2,2014
+GEORGIA,.White non-Hispanic alone,"4,142","4,097",66.1,2.2,"2,708",65.4,2.2,"1,835",44.3,2.3,2014
+GEORGIA,Black alone,"2,199","2,150",62.3,3.8,"1,339",60.9,3.8,925,42.1,3.9,2014
+GEORGIA,Asian alone,388,242,44.5,8.7,108,27.7,12.2,62,16,7.1,2014
+GEORGIA,Hispanic (of any race),508,207,48.1,8.4,99,19.6,16.5,62,12.1,6.9,2014
+GEORGIA,White alone or in combination,"4,655","4,317",65.4,2.2,"2,826",60.7,2.2,"1,901",40.8,2.2,2014
+GEORGIA,Black alone or in combination,"2,272","2,224",62.3,3.7,"1,385",61,3.8,968,42.6,3.8,2014
+GEORGIA,Asian alone or in combination,413,267,49.7,8.8,133,32.1,11.7,71,17.1,7.1,2014
+HAWAII,Total,"1,035",956,51.3,2.5,490,47.4,2.6,399,38.6,2.4,2014
+HAWAII,Male,502,475,51.2,3.6,243,48.4,3.7,197,39.2,3.5,2014
+HAWAII,Female,533,481,51.4,3.5,247,46.4,3.7,202,38,3.4,2014
+HAWAII,White alone,228,217,54.2,5.3,117,51.6,5.5,95,41.8,5.3,2014
+HAWAII,.White non-Hispanic alone,211,201,54.6,5.5,110,52.1,5.7,91,43,5.5,2014
+HAWAII,Black alone,19,18,(B),(B),8,(B),(B),7,(B),(B),2014
+HAWAII,Asian alone,482,428,53.2,4.6,228,47.2,4.9,196,40.6,4.6,2014
+HAWAII,Hispanic (of any race),64,62,(B),(B),31,(B),(B),21,(B),(B),2014
+HAWAII,White alone or in combination,352,340,55.5,4.3,189,53.7,4.3,146,41.3,4.2,2014
+HAWAII,Black alone or in combination,26,25,(B),(B),10,(B),(B),7,(B),(B),2014
+HAWAII,Asian alone or in combination,605,550,54.1,4.1,297,49.1,4.3,243,40.1,4.1,2014
+IDAHO,Total,"1,182","1,105",60.7,2.6,671,56.8,2.6,462,39.1,2.5,2014
+IDAHO,Male,585,535,58.2,3.7,312,53.3,3.8,213,36.5,3.5,2014
+IDAHO,Female,597,569,63.1,3.6,359,60.1,3.6,248,41.6,3.6,2014
+IDAHO,White alone,"1,110","1,044",62.1,2.6,648,58.4,2.7,452,40.7,2.6,2014
+IDAHO,.White non-Hispanic alone,963,951,65.8,2.7,625,64.9,2.7,435,45.2,2.8,2014
+IDAHO,Black alone,10,10,(B),(B),1,(B),(B),-,(B),(B),2014
+IDAHO,Asian alone,20,12,(B),(B),4,(B),(B),2,(B),(B),2014
+IDAHO,Hispanic (of any race),153,96,24,8.1,23,15.1,12.2,17,11.1,7.1,2014
+IDAHO,White alone or in combination,"1,127","1,060",62.1,2.6,658,58.4,2.6,458,40.7,2.6,2014
+IDAHO,Black alone or in combination,15,15,(B),(B),3,(B),(B),-,(B),(B),2014
+IDAHO,Asian alone or in combination,22,14,(B),(B),7,(B),(B),2,(B),(B),2014
+ILLINOIS,Total,"9,757","8,951",63.9,1.5,"5,716",58.6,1.5,"3,734",38.3,1.5,2014
+ILLINOIS,Male,"4,714","4,239",60.7,2.2,"2,574",54.6,2.3,"1,730",36.7,2.1,2014
+ILLINOIS,Female,"5,042","4,712",66.7,2.1,"3,142",62.3,2.1,"2,004",39.7,2.1,2014
+ILLINOIS,White alone,"7,648","7,097",65.9,1.7,"4,673",61.1,1.7,"3,070",40.1,1.7,2014
+ILLINOIS,.White non-Hispanic alone,"6,382","6,237",68.4,1.8,"4,269",66.9,1.8,"2,857",44.8,1.9,2014
+ILLINOIS,Black alone,"1,348","1,329",57.8,4.9,768,57,5,535,39.7,4.9,2014
+ILLINOIS,Asian alone,616,396,42.2,6.8,167,27.1,9.5,73,11.9,5,2014
+ILLINOIS,Hispanic (of any race),"1,316",892,45.9,6.1,410,31.1,7.9,218,16.6,4.9,2014
+ILLINOIS,White alone or in combination,"7,739","7,176",66.1,1.7,"4,743",61.3,1.7,"3,102",40.1,1.7,2014
+ILLINOIS,Black alone or in combination,"1,387","1,368",58.6,4.9,801,57.7,4.9,558,40.2,4.8,2014
+ILLINOIS,Asian alone or in combination,659,427,45,6.8,192,29.2,9.2,78,11.8,4.8,2014
+INDIANA,Total,"4,913","4,693",64.9,2.1,"3,048",62,2.1,"1,646",33.5,2,2014
+INDIANA,Male,"2,357","2,244",63.5,3,"1,426",60.5,3,795,33.7,2.9,2014
+INDIANA,Female,"2,556","2,449",66.2,2.9,"1,622",63.5,2.9,850,33.3,2.8,2014
+INDIANA,White alone,"4,365","4,212",66.2,2.2,"2,788",63.9,2.2,"1,498",34.3,2.2,2014
+INDIANA,.White non-Hispanic alone,"4,062","4,042",67.2,2.2,"2,715",66.8,2.2,"1,463",36,2.3,2014
+INDIANA,Black alone,395,385,58.8,9,226,57.4,9.1,143,36.4,8.8,2014
+INDIANA,Asian alone,95,38,(B),(B),4,(B),(B),-,(B),(B),2014
+INDIANA,Hispanic (of any race),314,180,43.1,11.5,78,24.8,17.4,35,11.2,8.4,2014
+INDIANA,White alone or in combination,"4,395","4,242",66,2.2,"2,801",63.7,2.2,"1,502",34.2,2.1,2014
+INDIANA,Black alone or in combination,420,410,58.4,8.8,240,57.1,8.8,147,35.1,8.5,2014
+INDIANA,Asian alone or in combination,99,42,(B),(B),4,(B),(B),-,(B),(B),2014
+IOWA,Total,"2,336","2,275",69.6,2.4,"1,584",67.8,2.4,"1,203",51.5,2.6,2014
+IOWA,Male,"1,154","1,120",67.4,3.5,755,65.4,3.5,569,49.3,3.6,2014
+IOWA,Female,"1,182","1,155",71.8,3.3,829,70.2,3.3,634,53.7,3.6,2014
+IOWA,White alone,"2,171","2,146",70.6,2.4,"1,515",69.8,2.4,"1,154",53.1,2.7,2014
+IOWA,.White non-Hispanic alone,"2,099","2,096",71.4,2.4,"1,496",71.3,2.4,"1,143",54.5,2.7,2014
+IOWA,Black alone,69,61,(B),(B),31,(B),(B),20,(B),(B),2014
+IOWA,Asian alone,54,33,(B),(B),17,(B),(B),12,(B),(B),2014
+IOWA,Hispanic (of any race),81,52,(B),(B),21,(B),(B),11,(B),(B),2014
+IOWA,White alone or in combination,"2,197","2,169",70.6,2.4,"1,532",69.7,2.4,"1,167",53.1,2.6,2014
+IOWA,Black alone or in combination,84,75,50.1,16.3,38,45,17.3,22,26.9,14.5,2014
+IOWA,Asian alone or in combination,60,39,(B),(B),21,(B),(B),16,(B),(B),2014
+KANSAS,Total,"2,125","1,993",67.9,2.6,"1,353",63.7,2.6,962,45.3,2.7,2014
+KANSAS,Male,"1,037",956,66.4,3.8,635,61.2,3.9,453,43.7,3.9,2014
+KANSAS,Female,"1,088","1,037",69.2,3.6,718,66,3.6,509,46.8,3.8,2014
+KANSAS,White alone,"1,853","1,770",68.9,2.8,"1,220",65.8,2.8,873,47.1,2.9,2014
+KANSAS,.White non-Hispanic alone,"1,673","1,671",70,2.8,"1,170",69.9,2.8,838,50.1,3.1,2014
+KANSAS,Black alone,129,122,59.8,13.3,73,56.3,13.6,53,40.8,13.2,2014
+KANSAS,Asian alone,76,45,(B),(B),30,(B),(B),22,(B),(B),2014
+KANSAS,Hispanic (of any race),216,125,55.8,12.6,70,32.4,17.6,44,20.5,10.9,2014
+KANSAS,White alone or in combination,"1,892","1,799",68.6,2.8,"1,234",65.3,2.8,879,46.5,2.9,2014
+KANSAS,Black alone or in combination,139,131,56.8,12.9,75,53.7,13.2,54,39.2,12.7,2014
+KANSAS,Asian alone or in combination,84,53,(B),(B),34,(B),(B),25,(B),(B),2014
+KENTUCKY,Total,"3,323","3,207",71.6,2.4,"2,298",69.2,2.4,"1,525",45.9,2.6,2014
+KENTUCKY,Male,"1,597","1,532",71.2,3.5,"1,091",68.3,3.5,754,47.2,3.8,2014
+KENTUCKY,Female,"1,725","1,675",72.1,3.3,"1,207",70,3.3,770,44.6,3.6,2014
+KENTUCKY,White alone,"2,943","2,870",71.8,2.6,"2,059",70,2.5,"1,367",46.4,2.8,2014
+KENTUCKY,.White non-Hispanic alone,"2,842","2,821",72,2.6,"2,031",71.5,2.6,"1,349",47.5,2.8,2014
+KENTUCKY,Black alone,271,263,70,10.4,184,67.7,10.4,117,43.2,11,2014
+KENTUCKY,Asian alone,53,26,(B),(B),23,(B),(B),23,(B),(B),2014
+KENTUCKY,Hispanic (of any race),113,55,(B),(B),34,(B),(B),23,(B),(B),2014
+KENTUCKY,White alone or in combination,"2,985","2,912",71.7,2.5,"2,089",70,2.5,"1,382",46.3,2.8,2014
+KENTUCKY,Black alone or in combination,295,286,69,10,198,66.9,10,123,41.6,10.5,2014
+KENTUCKY,Asian alone or in combination,53,26,(B),(B),23,(B),(B),23,(B),(B),2014
+LOUISIANA,Total,"3,450","3,342",71.7,2.3,"2,398",69.5,2.3,"1,677",48.6,2.5,2014
+LOUISIANA,Male,"1,645","1,583",70,3.3,"1,108",67.3,3.3,768,46.7,3.6,2014
+LOUISIANA,Female,"1,805","1,759",73.4,3.1,"1,290",71.5,3,908,50.3,3.4,2014
+LOUISIANA,White alone,"2,250","2,170",73.5,2.8,"1,596",70.9,2.7,"1,094",48.6,3,2014
+LOUISIANA,.White non-Hispanic alone,"2,094","2,080",74.2,2.8,"1,543",73.7,2.8,"1,065",50.8,3.2,2014
+LOUISIANA,Black alone,"1,042","1,034",70.5,5,729,70,5,533,51.2,5.4,2014
+LOUISIANA,Asian alone,82,62,(B),(B),24,(B),(B),13,(B),(B),2014
+LOUISIANA,Hispanic (of any race),165,100,56.7,16.8,57,34.4,22.5,31,19,13.9,2014
+LOUISIANA,White alone or in combination,"2,280","2,200",73.4,2.8,"1,616",70.9,2.7,"1,109",48.7,3,2014
+LOUISIANA,Black alone or in combination,"1,072","1,063",70.7,4.9,752,70.2,4.9,552,51.5,5.3,2014
+LOUISIANA,Asian alone or in combination,85,64,(B),(B),24,(B),(B),13,(B),(B),2014
+MAINE,Total,"1,061","1,045",76.5,2.4,799,75.4,2.4,642,60.5,2.7,2014
+MAINE,Male,512,503,74.2,3.6,373,73,3.6,302,59,4,2014
+MAINE,Female,549,541,78.7,3.2,426,77.6,3.2,340,61.9,3.8,2014
+MAINE,White alone,"1,009","1,002",76.9,2.4,771,76.4,2.4,616,61.1,2.8,2014
+MAINE,.White non-Hispanic alone,999,992,77.3,2.4,766,76.7,2.4,613,61.4,2.8,2014
+MAINE,Black alone,9,7,(B),(B),5,(B),(B),3,(B),(B),2014
+MAINE,Asian alone,11,3,(B),(B),2,(B),(B),2,(B),(B),2014
+MAINE,Hispanic (of any race),10,10,(B),(B),4,(B),(B),3,(B),(B),2014
+MAINE,White alone or in combination,"1,036","1,029",76.7,2.4,790,76.2,2.4,635,61.3,2.8,2014
+MAINE,Black alone or in combination,19,17,(B),(B),11,(B),(B),10,(B),(B),2014
+MAINE,Asian alone or in combination,13,5,(B),(B),3,(B),(B),3,(B),(B),2014
+MARYLAND,Total,"4,542","4,148",72.2,2.2,"2,995",65.9,2.1,"2,028",44.7,2.3,2014
+MARYLAND,Male,"2,135","1,947",70.8,3.2,"1,378",64.6,3.2,938,43.9,3.3,2014
+MARYLAND,Female,"2,407","2,201",73.5,2.9,"1,617",67.2,2.9,"1,090",45.3,3.1,2014
+MARYLAND,White alone,"2,752","2,613",74.3,2.7,"1,941",70.5,2.6,"1,345",48.9,2.9,2014
+MARYLAND,.White non-Hispanic alone,"2,508","2,480",74.9,2.7,"1,857",74.1,2.7,"1,300",51.8,3.1,2014
+MARYLAND,Black alone,"1,325","1,208",70.8,4.9,856,64.6,4.8,581,43.8,5.1,2014
+MARYLAND,Asian alone,343,231,58.4,10.2,135,39.4,12.5,69,20.2,8.4,2014
+MARYLAND,Hispanic (of any race),332,189,63.6,12.7,120,36.1,16.9,58,17.5,10,2014
+MARYLAND,White alone or in combination,"2,824","2,659",74.6,2.6,"1,983",70.2,2.6,"1,363",48.2,2.9,2014
+MARYLAND,Black alone or in combination,"1,353","1,236",70.8,4.8,875,64.7,4.8,589,43.5,5,2014
+MARYLAND,Asian alone or in combination,365,253,60.2,10,152,41.7,11.9,79,21.6,8.3,2014
+MASSACHUSETTS,Total,"5,279","4,815",67.5,2,"3,250",61.6,2,"2,259",42.8,2,2014
+MASSACHUSETTS,Male,"2,504","2,241",66.3,2.9,"1,485",59.3,3,"1,036",41.4,2.9,2014
+MASSACHUSETTS,Female,"2,775","2,574",68.6,2.7,"1,765",63.6,2.7,"1,223",44.1,2.8,2014
+MASSACHUSETTS,White alone,"4,441","4,205",70.9,2.1,"2,980",67.1,2.1,"2,117",47.7,2.2,2014
+MASSACHUSETTS,.White non-Hispanic alone,"4,113","3,969",72.1,2.1,"2,860",69.5,2.1,"2,073",50.4,2.3,2014
+MASSACHUSETTS,Black alone,408,310,45.4,8.5,141,34.6,10.2,80,19.6,7.1,2014
+MASSACHUSETTS,Asian alone,325,214,39.8,9.2,85,26.2,12.6,37,11.5,6.7,2014
+MASSACHUSETTS,Hispanic (of any race),462,312,49.7,10.3,155,33.6,13.3,53,11.5,7,2014
+MASSACHUSETTS,White alone or in combination,"4,513","4,268",70.6,2.1,"3,013",66.8,2.1,"2,137",47.3,2.2,2014
+MASSACHUSETTS,Black alone or in combination,454,348,46,8.1,160,35.3,9.7,87,19.2,6.7,2014
+MASSACHUSETTS,Asian alone or in combination,345,234,40.1,9,94,27.2,12.1,46,13.3,6.9,2014
+MICHIGAN,Total,"7,576","7,246",71.2,1.6,"5,159",68.1,1.6,"3,416",45.1,1.7,2014
+MICHIGAN,Male,"3,615","3,456",69.4,2.4,"2,397",66.3,2.4,"1,551",42.9,2.5,2014
+MICHIGAN,Female,"3,961","3,791",72.9,2.2,"2,762",69.7,2.2,"1,864",47.1,2.4,2014
+MICHIGAN,White alone,"6,164","5,965",71.7,1.8,"4,280",69.4,1.8,"2,875",46.6,1.9,2014
+MICHIGAN,.White non-Hispanic alone,"5,836","5,720",72.2,1.8,"4,128",70.7,1.8,"2,808",48.1,2,2014
+MICHIGAN,Black alone,979,965,71,5.3,685,70,5.3,438,44.8,5.8,2014
+MICHIGAN,Asian alone,277,177,48.9,10.6,86,31.2,14.3,51,18.4,8.9,2014
+MICHIGAN,Hispanic (of any race),395,295,60.6,11.8,179,45.3,13.5,82,20.8,9.7,2014
+MICHIGAN,White alone or in combination,"6,243","6,045",71.9,1.8,"4,344",69.6,1.7,"2,905",46.5,1.9,2014
+MICHIGAN,Black alone or in combination,"1,026","1,012",70.6,5.2,714,69.6,5.2,455,44.4,5.7,2014
+MICHIGAN,Asian alone or in combination,291,191,49,10.4,93,32.1,13.8,58,19.9,8.9,2014
+MINNESOTA,Total,"4,104","3,933",71.8,2.2,"2,822",68.8,2.2,"2,047",49.9,2.4,2014
+MINNESOTA,Male,"2,007","1,924",70,3.2,"1,346",67.1,3.2,974,48.5,3.4,2014
+MINNESOTA,Female,"2,097","2,009",73.5,3,"1,476",70.4,3,"1,073",51.2,3.3,2014
+MINNESOTA,White alone,"3,670","3,579",74.5,2.2,"2,667",72.7,2.2,"1,958",53.4,2.5,2014
+MINNESOTA,.White non-Hispanic alone,"3,538","3,517",74.6,2.2,"2,623",74.1,2.2,"1,925",54.4,2.5,2014
+MINNESOTA,Black alone,196,155,53.6,12.9,83,42.5,14.7,34,17.2,9.9,2014
+MINNESOTA,Asian alone,112,78,43.7,16.7,34,30.5,21.5,29,25.9,15.8,2014
+MINNESOTA,Hispanic (of any race),183,100,47.8,15.5,48,26.2,23.7,34,18.4,13.6,2014
+MINNESOTA,White alone or in combination,"3,715","3,624",74.2,2.2,"2,688",72.4,2.2,"1,969",53,2.5,2014
+MINNESOTA,Black alone or in combination,220,179,55.5,12.3,99,45.3,13.6,40,18,9.5,2014
+MINNESOTA,Asian alone or in combination,119,85,42.4,16.1,36,30.3,20.5,31,26,15.4,2014
+MISSISSIPPI,Total,"2,182","2,142",76,2.2,"1,628",74.6,2.2,907,41.6,2.5,2014
+MISSISSIPPI,Male,"1,028","1,008",73.4,3.3,740,72,3.3,413,40.2,3.6,2014
+MISSISSIPPI,Female,"1,154","1,135",78.3,2.9,888,77,2.9,493,42.8,3.4,2014
+MISSISSIPPI,White alone,"1,352","1,326",72.6,2.9,964,71.3,2.9,536,39.7,3.1,2014
+MISSISSIPPI,.White non-Hispanic alone,"1,308","1,303",72.8,2.9,948,72.5,2.9,525,40.2,3.2,2014
+MISSISSIPPI,Black alone,769,768,83.3,3.9,639,83.2,3.9,357,46.4,5.2,2014
+MISSISSIPPI,Asian alone,27,21,(B),(B),5,(B),(B),1,(B),(B),2014
+MISSISSIPPI,Hispanic (of any race),60,32,(B),(B),17,(B),(B),13,(B),(B),2014
+MISSISSIPPI,White alone or in combination,"1,377","1,344",72.5,2.9,975,70.8,2.9,540,39.2,3.1,2014
+MISSISSIPPI,Black alone or in combination,779,773,83.2,3.9,644,82.6,3.8,361,46.3,5.1,2014
+MISSISSIPPI,Asian alone or in combination,33,28,(B),(B),11,(B),(B),3,(B),(B),2014
+MISSOURI,Total,"4,505","4,429",72.1,2.1,"3,194",70.9,2.1,"1,713",38,2.2,2014
+MISSOURI,Male,"2,172","2,144",70.6,3,"1,514",69.7,3,863,39.7,3.2,2014
+MISSOURI,Female,"2,333","2,285",73.5,2.8,"1,680",72,2.8,850,36.4,3,2014
+MISSOURI,White alone,"3,861","3,814",73.1,2.2,"2,788",72.2,2.2,"1,497",38.8,2.4,2014
+MISSOURI,.White non-Hispanic alone,"3,779","3,773",73.3,2.2,"2,766",73.2,2.2,"1,487",39.4,2.4,2014
+MISSOURI,Black alone,485,479,67.9,7.9,325,67.1,7.9,177,36.5,8.1,2014
+MISSOURI,Asian alone,76,53,(B),(B),39,(B),(B),13,(B),(B),2014
+MISSOURI,Hispanic (of any race),88,47,(B),(B),28,(B),(B),15,(B),(B),2014
+MISSOURI,White alone or in combination,"3,917","3,870",72.8,2.2,"2,817",71.9,2.2,"1,510",38.6,2.4,2014
+MISSOURI,Black alone or in combination,508,503,68.5,7.7,344,67.7,7.7,187,36.7,7.9,2014
+MISSOURI,Asian alone or in combination,93,70,(B),(B),48,(B),(B),18,(B),(B),2014
+MONTANA,Total,788,782,64.8,2.2,506,64.3,2.2,391,49.7,2.3,2014
+MONTANA,Male,392,389,64.2,3.2,250,63.7,3.2,191,48.7,3.3,2014
+MONTANA,Female,396,393,65.4,3.2,257,64.8,3.2,201,50.7,3.3,2014
+MONTANA,White alone,728,725,66.6,2.3,483,66.4,2.3,380,52.2,2.4,2014
+MONTANA,.White non-Hispanic alone,714,711,66.5,2.3,473,66.3,2.3,372,52.2,2.5,2014
+MONTANA,Black alone,3,3,(B),(B),3,(B),(B),-,(B),(B),2014
+MONTANA,Asian alone,5,2,(B),(B),2,(B),(B),2,(B),(B),2014
+MONTANA,Hispanic (of any race),16,16,(B),(B),11,(B),(B),8,(B),(B),2014
+MONTANA,White alone or in combination,742,739,65.8,2.3,486,65.5,2.3,382,51.5,2.4,2014
+MONTANA,Black alone or in combination,3,3,(B),(B),3,(B),(B),-,(B),(B),2014
+MONTANA,Asian alone or in combination,5,2,(B),(B),2,(B),(B),2,(B),(B),2014
+NEBRASKA,Total,"1,400","1,306",66.9,2.6,873,62.4,2.6,579,41.4,2.6,2014
+NEBRASKA,Male,688,635,65.3,3.7,415,60.3,3.8,286,41.6,3.8,2014
+NEBRASKA,Female,712,671,68.3,3.6,459,64.4,3.6,293,41.1,3.7,2014
+NEBRASKA,White alone,"1,295","1,222",67.6,2.7,826,63.8,2.7,552,42.6,2.8,2014
+NEBRASKA,.White non-Hispanic alone,"1,165","1,160",69.2,2.7,803,69,2.7,541,46.5,2.9,2014
+NEBRASKA,Black alone,55,53,(B),(B),36,(B),(B),21,(B),(B),2014
+NEBRASKA,Asian alone,22,7,(B),(B),3,(B),(B),-,(B),(B),2014
+NEBRASKA,Hispanic (of any race),135,65,(B),(B),26,(B),(B),13,(B),(B),2014
+NEBRASKA,White alone or in combination,"1,306","1,232",67.4,2.7,830,63.6,2.7,555,42.5,2.7,2014
+NEBRASKA,Black alone or in combination,65,62,(B),(B),36,(B),(B),21,(B),(B),2014
+NEBRASKA,Asian alone or in combination,22,7,(B),(B),3,(B),(B),-,(B),(B),2014
+NEVADA,Total,"2,128","1,858",58.5,2.6,"1,088",51.1,2.7,693,32.6,2.4,2014
+NEVADA,Male,"1,055",924,56.7,3.7,524,49.7,3.9,348,33,3.4,2014
+NEVADA,Female,"1,073",934,60.4,3.6,564,52.5,3.8,345,32.2,3.4,2014
+NEVADA,White alone,"1,571","1,388",61,3,846,53.8,3.1,573,36.5,2.9,2014
+NEVADA,.White non-Hispanic alone,"1,143","1,106",62.4,3.4,690,60.4,3.5,488,42.7,3.5,2014
+NEVADA,Black alone,193,191,65.2,9.9,124,64.6,10,61,31.6,9.7,2014
+NEVADA,Asian alone,181,130,38,10,49,27.2,12.8,25,14,7.8,2014
+NEVADA,Hispanic (of any race),527,351,53.9,7.8,189,35.9,10,97,18.4,6.3,2014
+NEVADA,White alone or in combination,"1,626","1,424",60.5,2.9,862,53,3.1,585,36,2.8,2014
+NEVADA,Black alone or in combination,203,201,65.3,9.7,131,64.7,9.7,62,30.6,9.3,2014
+NEVADA,Asian alone or in combination,193,142,41.8,10,59,30.6,12.5,30,15.7,7.9,2014
+NEW HAMPSHIRE,Total,"1,047","1,015",68.3,2.4,694,66.3,2.4,509,48.6,2.6,2014
+NEW HAMPSHIRE,Male,512,498,66.5,3.5,331,64.6,3.5,246,48.1,3.7,2014
+NEW HAMPSHIRE,Female,535,517,70.1,3.4,363,67.8,3.3,263,49.2,3.6,2014
+NEW HAMPSHIRE,White alone,996,977,68.5,2.5,669,67.1,2.5,490,49.2,2.6,2014
+NEW HAMPSHIRE,.White non-Hispanic alone,974,957,68.4,2.5,655,67.2,2.5,480,49.3,2.7,2014
+NEW HAMPSHIRE,Black alone,15,12,(B),(B),7,(B),(B),4,(B),(B),2014
+NEW HAMPSHIRE,Asian alone,23,13,(B),(B),7,(B),(B),6,(B),(B),2014
+NEW HAMPSHIRE,Hispanic (of any race),23,21,(B),(B),15,(B),(B),10,(B),(B),2014
+NEW HAMPSHIRE,White alone or in combination,"1,006",986,68.6,2.5,676,67.3,2.5,496,49.4,2.6,2014
+NEW HAMPSHIRE,Black alone or in combination,18,15,(B),(B),9,(B),(B),6,(B),(B),2014
+NEW HAMPSHIRE,Asian alone or in combination,25,15,(B),(B),9,(B),(B),7,(B),(B),2014
+NEW JERSEY,Total,"6,820","5,909",66.3,1.8,"3,919",57.5,1.9,"2,151",31.5,1.7,2014
+NEW JERSEY,Male,"3,277","2,825",64,2.6,"1,808",55.2,2.7,969,29.6,2.4,2014
+NEW JERSEY,Female,"3,543","3,084",68.5,2.5,"2,112",59.6,2.5,"1,182",33.4,2.4,2014
+NEW JERSEY,White alone,"5,146","4,645",68,2,"3,161",61.4,2.1,"1,771",34.4,2,2014
+NEW JERSEY,.White non-Hispanic alone,"4,036","3,912",69.1,2.2,"2,705",67,2.2,"1,527",37.8,2.3,2014
+NEW JERSEY,Black alone,953,779,63.6,5.9,496,52,6.3,276,29,5.4,2014
+NEW JERSEY,Asian alone,641,425,53.2,7.2,226,35.3,9.2,82,12.9,5,2014
+NEW JERSEY,Hispanic (of any race),"1,229",805,61.7,6.6,497,40.4,8.1,274,22.3,5.6,2014
+NEW JERSEY,White alone or in combination,"5,194","4,682",68,2,"3,183",61.3,2.1,"1,782",34.3,2,2014
+NEW JERSEY,Black alone or in combination,972,798,64,5.8,511,52.5,6.2,276,28.4,5.3,2014
+NEW JERSEY,Asian alone or in combination,655,438,54.1,7.1,237,36.2,9.1,93,14.3,5.2,2014
+NEW MEXICO,Total,"1,536","1,417",64.9,2.3,919,59.9,2.4,646,42.1,2.3,2014
+NEW MEXICO,Male,739,676,64.1,3.4,433,58.7,3.4,304,41.1,3.4,2014
+NEW MEXICO,Female,797,740,65.6,3.2,486,61,3.3,342,42.9,3.3,2014
+NEW MEXICO,White alone,"1,234","1,125",66.9,2.6,753,61,2.6,546,44.2,2.6,2014
+NEW MEXICO,.White non-Hispanic alone,674,661,72.4,3.3,479,71,3.2,374,55.5,3.6,2014
+NEW MEXICO,Black alone,40,39,(B),(B),28,(B),(B),8,(B),(B),2014
+NEW MEXICO,Asian alone,33,26,(B),(B),13,(B),(B),11,(B),(B),2014
+NEW MEXICO,Hispanic (of any race),601,503,60,6,302,50.2,6.4,179,29.8,5.5,2014
+NEW MEXICO,White alone or in combination,"1,254","1,144",66.5,2.6,761,60.7,2.6,553,44.1,2.6,2014
+NEW MEXICO,Black alone or in combination,47,46,(B),(B),30,(B),(B),10,(B),(B),2014
+NEW MEXICO,Asian alone or in combination,35,28,(B),(B),13,(B),(B),11,(B),(B),2014
+NEW YORK,Total,"15,274","13,611",59.4,1.2,"8,078",52.9,1.3,"4,680",30.6,1.1,2014
+NEW YORK,Male,"7,294","6,460",56.9,1.8,"3,679",50.4,1.9,"2,131",29.2,1.6,2014
+NEW YORK,Female,"7,980","7,150",61.5,1.7,"4,399",55.1,1.8,"2,548",31.9,1.6,2014
+NEW YORK,White alone,"11,147","10,287",60.1,1.4,"6,185",55.5,1.5,"3,683",33,1.4,2014
+NEW YORK,.White non-Hispanic alone,"9,385","8,994",60.8,1.6,"5,471",58.3,1.6,"3,321",35.4,1.5,2014
+NEW YORK,Black alone,"2,581","2,211",62.6,3.6,"1,385",53.7,3.8,762,29.5,3.3,2014
+NEW YORK,Asian alone,"1,206",807,45.4,5.1,366,30.4,6.8,156,13,3.7,2014
+NEW YORK,Hispanic (of any race),"2,394","1,784",55.8,4.8,995,41.6,5.7,502,21,4,2014
+NEW YORK,White alone or in combination,"11,351","10,476",59.8,1.4,"6,262",55.2,1.5,"3,730",32.9,1.4,2014
+NEW YORK,Black alone or in combination,"2,734","2,342",62.1,3.5,"1,454",53.2,3.7,799,29.2,3.2,2014
+NEW YORK,Asian alone or in combination,"1,269",867,45.2,5,392,30.9,6.5,175,13.8,3.7,2014
+NORTH CAROLINA,Total,"7,412","6,857",69.7,1.7,"4,779",64.5,1.7,"3,170",42.8,1.8,2014
+NORTH CAROLINA,Male,"3,510","3,204",68,2.5,"2,178",62,2.5,"1,428",40.7,2.5,2014
+NORTH CAROLINA,Female,"3,902","3,654",71.2,2.3,"2,601",66.7,2.3,"1,742",44.6,2.4,2014
+NORTH CAROLINA,White alone,"5,415","5,004",70.9,2,"3,545",65.5,2,"2,325",42.9,2.1,2014
+NORTH CAROLINA,.White non-Hispanic alone,"4,878","4,852",71.3,2,"3,461",71,2,"2,290",46.9,2.2,2014
+NORTH CAROLINA,Black alone,"1,572","1,527",68.1,4.4,"1,040",66.1,4.4,735,46.7,4.6,2014
+NORTH CAROLINA,Asian alone,190,99,59.1,12.9,59,30.8,19,26,13.5,9.5,2014
+NORTH CAROLINA,Hispanic (of any race),602,204,52.3,7.5,107,17.7,16.8,53,8.8,5.5,2014
+NORTH CAROLINA,White alone or in combination,"5,492","5,081",70.8,2,"3,598",65.5,1.9,"2,365",43.1,2,2014
+NORTH CAROLINA,Black alone or in combination,"1,628","1,583",67.6,4.3,"1,070",65.7,4.3,761,46.7,4.6,2014
+NORTH CAROLINA,Asian alone or in combination,198,107,58.5,12.7,62,31.6,18.4,29,14.9,9.8,2014
+NORTH DAKOTA,Total,567,547,66.4,2.4,363,64.1,2.4,279,49.2,2.5,2014
+NORTH DAKOTA,Male,290,279,64.4,3.4,180,61.9,3.4,136,46.7,3.5,2014
+NORTH DAKOTA,Female,276,268,68.5,3.4,183,66.3,3.4,143,51.8,3.6,2014
+NORTH DAKOTA,White alone,516,508,67.9,2.5,345,66.8,2.5,266,51.5,2.6,2014
+NORTH DAKOTA,.White non-Hispanic alone,501,497,68.7,2.5,342,68.2,2.5,264,52.7,2.7,2014
+NORTH DAKOTA,Black alone,10,6,(B),(B),2,(B),(B),2,(B),(B),2014
+NORTH DAKOTA,Asian alone,10,3,(B),(B),1,(B),(B),1,(B),(B),2014
+NORTH DAKOTA,Hispanic (of any race),19,14,(B),(B),5,(B),(B),2,(B),(B),2014
+NORTH DAKOTA,White alone or in combination,526,517,67.8,2.4,351,66.7,2.4,270,51.4,2.6,2014
+NORTH DAKOTA,Black alone or in combination,11,6,(B),(B),3,(B),(B),2,(B),(B),2014
+NORTH DAKOTA,Asian alone or in combination,14,7,(B),(B),4,(B),(B),4,(B),(B),2014
+OHIO,Total,"8,772","8,509",66.5,1.5,"5,657",64.5,1.5,"3,378",38.5,1.6,2014
+OHIO,Male,"4,197","4,081",64.7,2.2,"2,640",62.9,2.3,"1,616",38.5,2.3,2014
+OHIO,Female,"4,575","4,428",68.2,2.1,"3,018",66,2.1,"1,762",38.5,2.2,2014
+OHIO,White alone,"7,404","7,289",66.8,1.7,"4,869",65.8,1.7,"2,898",39.1,1.7,2014
+OHIO,.White non-Hispanic alone,"7,235","7,155",66.9,1.7,"4,787",66.2,1.7,"2,873",39.7,1.7,2014
+OHIO,Black alone,"1,024",991,68.7,5.4,680,66.4,5.4,403,39.4,5.6,2014
+OHIO,Asian alone,231,116,60.3,11.5,70,30.2,17.3,44,19.1,9.8,2014
+OHIO,Hispanic (of any race),192,157,58.9,17.1,93,48.3,18.6,36,19,13.4,2014
+OHIO,White alone or in combination,"7,501","7,386",66.2,1.7,"4,892",65.2,1.7,"2,918",38.9,1.7,2014
+OHIO,Black alone or in combination,"1,089","1,055",65.8,5.3,695,63.8,5.3,414,38,5.4,2014
+OHIO,Asian alone or in combination,259,144,55.3,10.9,80,30.7,15.8,54,20.8,9.6,2014
+OKLAHOMA,Total,"2,851","2,690",61.1,2.7,"1,644",57.7,2.7,920,32.3,2.5,2014
+OKLAHOMA,Male,"1,394","1,296",58.1,3.9,753,54.1,4,418,30,3.6,2014
+OKLAHOMA,Female,"1,457","1,394",63.9,3.7,890,61.1,3.7,502,34.4,3.6,2014
+OKLAHOMA,White alone,"2,262","2,149",62.5,3,"1,343",59.4,3,751,33.2,2.9,2014
+OKLAHOMA,.White non-Hispanic alone,"2,038","2,027",63.4,3.1,"1,286",63.1,3.1,733,35.9,3.1,2014
+OKLAHOMA,Black alone,192,190,50.3,12.7,96,49.7,12.8,56,29.2,11.5,2014
+OKLAHOMA,Asian alone,65,24,(B),(B),17,(B),(B),8,(B),(B),2014
+OKLAHOMA,Hispanic (of any race),267,156,53.8,12.9,84,31.3,18.2,28,10.5,8.6,2014
+OKLAHOMA,White alone or in combination,"2,403","2,290",62.2,2.9,"1,425",59.3,2.9,795,33.1,2.8,2014
+OKLAHOMA,Black alone or in combination,203,200,50,12.3,100,49.4,12.4,59,29.1,11.2,2014
+OKLAHOMA,Asian alone or in combination,71,30,(B),(B),21,(B),(B),10,(B),(B),2014
+OREGON,Total,"3,078","2,870",70,2.5,"2,008",65.2,2.5,"1,594",51.8,2.6,2014
+OREGON,Male,"1,512","1,394",68.1,3.6,950,62.8,3.6,741,49,3.7,2014
+OREGON,Female,"1,566","1,475",71.7,3.4,"1,058",67.6,3.4,852,54.4,3.6,2014
+OREGON,White alone,"2,768","2,608",71.4,2.6,"1,861",67.2,2.6,"1,510",54.5,2.7,2014
+OREGON,.White non-Hispanic alone,"2,475","2,448",72.3,2.6,"1,770",71.5,2.6,"1,458",58.9,2.9,2014
+OREGON,Black alone,56,50,(B),(B),29,(B),(B),14,(B),(B),2014
+OREGON,Asian alone,123,99,48,16.1,47,38.7,18.4,24,19.7,13.1,2014
+OREGON,Hispanic (of any race),322,184,57.7,11.9,106,33.1,16.5,62,19.2,10,2014
+OREGON,White alone or in combination,"2,839","2,675",71,2.6,"1,900",66.9,2.5,"1,537",54.1,2.7,2014
+OREGON,Black alone or in combination,63,53,(B),(B),29,(B),(B),14,(B),(B),2014
+OREGON,Asian alone or in combination,125,102,49.3,16,50,40,18.1,27,21.4,13.4,2014
+PENNSYLVANIA,Total,"9,924","9,511",64.4,1.5,"6,121",61.7,1.5,"3,803",38.3,1.5,2014
+PENNSYLVANIA,Male,"4,779","4,571",62.2,2.1,"2,845",59.5,2.2,"1,768",37,2.1,2014
+PENNSYLVANIA,Female,"5,145","4,940",66.3,2,"3,276",63.7,2,"2,035",39.6,2.1,2014
+PENNSYLVANIA,White alone,"8,451","8,291",65.8,1.6,"5,452",64.5,1.6,"3,375",39.9,1.6,2014
+PENNSYLVANIA,.White non-Hispanic alone,"8,015","7,934",66.2,1.6,"5,252",65.5,1.6,"3,272",40.8,1.7,2014
+PENNSYLVANIA,Black alone,"1,001",920,53.5,5.8,492,49.2,6,341,34.1,5.5,2014
+PENNSYLVANIA,Asian alone,295,165,56.6,10.4,93,31.7,14.8,46,15.6,8.1,2014
+PENNSYLVANIA,Hispanic (of any race),689,540,48.1,8.8,260,37.7,10.2,119,17.3,6.8,2014
+PENNSYLVANIA,White alone or in combination,"8,600","8,398",65.7,1.6,"5,519",64.2,1.6,"3,416",39.7,1.6,2014
+PENNSYLVANIA,Black alone or in combination,"1,076",984,52.1,5.6,513,47.6,5.8,341,31.7,5.2,2014
+PENNSYLVANIA,Asian alone or in combination,322,192,62.8,10.3,121,37.4,13.3,73,22.7,8.9,2014
+RHODE ISLAND,Total,819,765,63.6,2.6,486,59.4,2.6,331,40.4,2.5,2014
+RHODE ISLAND,Male,387,362,63.7,3.7,231,59.6,3.8,154,39.9,3.7,2014
+RHODE ISLAND,Female,432,403,63.4,3.5,255,59.2,3.6,177,41,3.5,2014
+RHODE ISLAND,White alone,717,680,66.3,2.7,451,62.9,2.7,311,43.4,2.8,2014
+RHODE ISLAND,.White non-Hispanic alone,659,647,67,2.7,434,65.8,2.7,302,45.8,2.9,2014
+RHODE ISLAND,Black alone,55,47,(B),(B),28,(B),(B),16,(B),(B),2014
+RHODE ISLAND,Asian alone,23,15,(B),(B),1,(B),(B),-,(B),(B),2014
+RHODE ISLAND,Hispanic (of any race),75,45,(B),(B),22,(B),(B),13,(B),(B),2014
+RHODE ISLAND,White alone or in combination,736,697,65.3,2.7,455,61.9,2.7,313,42.6,2.7,2014
+RHODE ISLAND,Black alone or in combination,69,61,(B),(B),32,(B),(B),18,(B),(B),2014
+RHODE ISLAND,Asian alone or in combination,24,16,(B),(B),2,(B),(B),1,(B),(B),2014
+SOUTH CAROLINA,Total,"3,667","3,569",68.9,2.3,"2,458",67,2.3,"1,514",41.3,2.4,2014
+SOUTH CAROLINA,Male,"1,730","1,678",67.5,3.4,"1,132",65.5,3.4,699,40.4,3.5,2014
+SOUTH CAROLINA,Female,"1,937","1,891",70.1,3.1,"1,325",68.4,3.1,815,42,3.3,2014
+SOUTH CAROLINA,White alone,"2,622","2,557",69.6,2.7,"1,778",67.8,2.7,"1,075",41,2.9,2014
+SOUTH CAROLINA,.White non-Hispanic alone,"2,477","2,454",70.5,2.7,"1,730",69.9,2.7,"1,061",42.8,3,2014
+SOUTH CAROLINA,Black alone,965,944,67.9,5.5,640,66.3,5.5,419,43.4,5.7,2014
+SOUTH CAROLINA,Asian alone,50,38,(B),(B),18,(B),(B),13,(B),(B),2014
+SOUTH CAROLINA,Hispanic (of any race),171,106,45.1,16.1,48,28.1,22.5,14,8.1,9.8,2014
+SOUTH CAROLINA,White alone or in combination,"2,632","2,568",69.6,2.7,"1,787",67.9,2.7,"1,075",40.8,2.8,2014
+SOUTH CAROLINA,Black alone or in combination,978,956,68.3,5.4,652,66.7,5.4,426,43.6,5.7,2014
+SOUTH CAROLINA,Asian alone or in combination,53,42,(B),(B),21,(B),(B),16,(B),(B),2014
+SOUTH DAKOTA,Total,625,618,64.9,2.6,401,64.2,2.6,273,43.7,2.7,2014
+SOUTH DAKOTA,Male,308,304,62.1,3.7,189,61.4,3.7,132,42.8,3.8,2014
+SOUTH DAKOTA,Female,317,314,67.7,3.6,212,67,3.6,141,44.5,3.8,2014
+SOUTH DAKOTA,White alone,562,558,66.1,2.7,369,65.7,2.7,259,46.2,2.8,2014
+SOUTH DAKOTA,.White non-Hispanic alone,551,549,66.8,2.7,367,66.6,2.7,259,46.9,2.9,2014
+SOUTH DAKOTA,Black alone,12,11,(B),(B),5,(B),(B),3,(B),(B),2014
+SOUTH DAKOTA,Asian alone,4,1,(B),(B),-,(B),(B),-,(B),(B),2014
+SOUTH DAKOTA,Hispanic (of any race),12,10,(B),(B),3,(B),(B),-,(B),(B),2014
+SOUTH DAKOTA,White alone or in combination,565,562,66.3,2.7,372,65.9,2.7,262,46.3,2.8,2014
+SOUTH DAKOTA,Black alone or in combination,14,13,(B),(B),7,(B),(B),5,(B),(B),2014
+SOUTH DAKOTA,Asian alone or in combination,4,1,(B),(B),-,(B),(B),-,(B),(B),2014
+TENNESSEE,Total,"4,975","4,815",64.1,2.1,"3,088",62.1,2.1,"1,763",35.4,2,2014
+TENNESSEE,Male,"2,366","2,275",60.5,3,"1,376",58.2,3.1,793,33.5,2.9,2014
+TENNESSEE,Female,"2,609","2,539",67.4,2.8,"1,712",65.6,2.8,970,37.2,2.8,2014
+TENNESSEE,White alone,"4,014","3,895",65.3,2.3,"2,545",63.4,2.3,"1,481",36.9,2.3,2014
+TENNESSEE,.White non-Hispanic alone,"3,821","3,799",65.9,2.3,"2,503",65.5,2.3,"1,467",38.4,2.4,2014
+TENNESSEE,Black alone,793,782,60.5,6.3,473,59.7,6.3,244,30.7,5.9,2014
+TENNESSEE,Asian alone,84,54,(B),(B),21,(B),(B),12,(B),(B),2014
+TENNESSEE,Hispanic (of any race),202,105,39.8,13.4,42,20.6,22.5,13,6.6,8.2,2014
+TENNESSEE,White alone or in combination,"4,079","3,960",65.4,2.3,"2,588",63.5,2.3,"1,504",36.9,2.3,2014
+TENNESSEE,Black alone or in combination,803,792,60.6,6.3,480,59.8,6.3,247,30.7,5.9,2014
+TENNESSEE,Asian alone or in combination,91,61,(B),(B),24,(B),(B),12,(B),(B),2014
+TEXAS,Total,"19,354","16,844",59.1,1.1,"9,946",51.4,1.2,"5,836",30.2,1,2014
+TEXAS,Male,"9,412","8,076",57,1.6,"4,606",48.9,1.7,"2,600",27.6,1.4,2014
+TEXAS,Female,"9,941","8,767",60.9,1.5,"5,340",53.7,1.6,"3,236",32.5,1.4,2014
+TEXAS,White alone,"15,676","13,693",59.3,1.2,"8,124",51.8,1.3,"4,820",30.7,1.1,2014
+TEXAS,.White non-Hispanic alone,"9,238","9,033",66.2,1.5,"5,982",64.8,1.5,"3,776",40.9,1.6,2014
+TEXAS,Black alone,"2,327","2,198",60.7,3.8,"1,334",57.3,3.8,777,33.4,3.6,2014
+TEXAS,Asian alone,853,565,45.8,6,259,30.3,8,102,11.9,4.3,2014
+TEXAS,Hispanic (of any race),"6,762","4,878",46.2,2.7,"2,255",33.4,3.4,"1,092",16.2,2.1,2014
+TEXAS,White alone or in combination,"15,905","13,899",59.4,1.2,"8,255",51.9,1.3,"4,906",30.8,1.1,2014
+TEXAS,Black alone or in combination,"2,402","2,264",60.9,3.7,"1,380",57.4,3.8,809,33.7,3.5,2014
+TEXAS,Asian alone or in combination,877,589,46,6,271,30.9,7.9,105,12,4.2,2014
+UTAH,Total,"2,026","1,924",57.2,2.2,"1,101",54.3,2.3,703,34.7,2.1,2014
+UTAH,Male,"1,011",955,56.4,3.1,539,53.3,3.2,339,33.5,3,2014
+UTAH,Female,"1,016",969,58,3.1,562,55.4,3.2,364,35.8,3,2014
+UTAH,White alone,"1,919","1,840",57.8,2.3,"1,064",55.5,2.3,678,35.3,2.2,2014
+UTAH,.White non-Hispanic alone,"1,704","1,684",59.9,2.4,"1,009",59.2,2.4,650,38.2,2.4,2014
+UTAH,Black alone,26,16,(B),(B),6,(B),(B),6,(B),(B),2014
+UTAH,Asian alone,37,24,(B),(B),13,(B),(B),10,(B),(B),2014
+UTAH,Hispanic (of any race),222,156,35.6,9.2,56,25,12.1,28,12.7,7,2014
+UTAH,White alone or in combination,"1,939","1,860",57.5,2.3,"1,070",55.2,2.3,681,35.1,2.2,2014
+UTAH,Black alone or in combination,34,24,(B),(B),11,(B),(B),8,(B),(B),2014
+UTAH,Asian alone or in combination,43,30,(B),(B),14,(B),(B),10,(B),(B),2014
+VERMONT,Total,493,482,67.2,2.7,324,65.7,2.7,205,41.6,2.8,2014
+VERMONT,Male,240,233,65,3.9,152,63.3,3.9,93,38.7,4,2014
+VERMONT,Female,253,248,69.2,3.7,172,67.9,3.7,112,44.3,3.9,2014
+VERMONT,White alone,475,466,68.3,2.7,318,67,2.7,202,42.6,2.8,2014
+VERMONT,.White non-Hispanic alone,471,463,68.2,2.7,316,67,2.7,201,42.6,2.9,2014
+VERMONT,Black alone,4,4,(B),(B),2,(B),(B),-,(B),(B),2014
+VERMONT,Asian alone,7,5,(B),(B),-,(B),(B),-,(B),(B),2014
+VERMONT,Hispanic (of any race),4,3,(B),(B),2,(B),(B),2,(B),(B),2014
+VERMONT,White alone or in combination,480,471,68.1,2.7,321,66.8,2.7,204,42.4,2.8,2014
+VERMONT,Black alone or in combination,6,6,(B),(B),3,(B),(B),-,(B),(B),2014
+VERMONT,Asian alone or in combination,8,6,(B),(B),1,(B),(B),1,(B),(B),2014
+VIRGINIA,Total,"6,221","5,888",66.6,1.9,"3,924",63.1,1.9,"2,453",39.4,1.9,2014
+VIRGINIA,Male,"2,975","2,842",66.6,2.7,"1,892",63.6,2.7,"1,200",40.3,2.8,2014
+VIRGINIA,Female,"3,246","3,046",66.7,2.6,"2,032",62.6,2.6,"1,253",38.6,2.6,2014
+VIRGINIA,White alone,"4,480","4,287",68.6,2.2,"2,939",65.6,2.2,"1,924",43,2.3,2014
+VIRGINIA,.White non-Hispanic alone,"4,145","4,094",69.6,2.2,"2,850",68.8,2.2,"1,869",45.1,2.4,2014
+VIRGINIA,Black alone,"1,188","1,153",61.7,5.3,712,60,5.3,394,33.2,5.1,2014
+VIRGINIA,Asian alone,438,343,61,9.2,209,47.8,10.2,108,24.7,8,2014
+VIRGINIA,Hispanic (of any race),389,236,47.4,11.1,112,28.9,15.6,60,15.4,8.8,2014
+VIRGINIA,White alone or in combination,"4,540","4,337",68.5,2.2,"2,973",65.5,2.2,"1,934",42.6,2.2,2014
+VIRGINIA,Black alone or in combination,"1,233","1,199",61.5,5.2,738,59.8,5.2,401,32.5,4.9,2014
+VIRGINIA,Asian alone or in combination,477,372,62.8,8.9,233,48.9,9.7,116,24.4,7.6,2014
+WASHINGTON,Total,"5,333","4,776",68.7,2,"3,281",61.5,2,"2,390",44.8,2.1,2014
+WASHINGTON,Male,"2,616","2,331",66.2,2.9,"1,543",59,3,"1,125",43,2.9,2014
+WASHINGTON,Female,"2,717","2,445",71.1,2.8,"1,739",64,2.8,"1,265",46.5,2.9,2014
+WASHINGTON,White alone,"4,238","3,939",71.6,2.2,"2,819",66.5,2.2,"2,088",49.3,2.3,2014
+WASHINGTON,.White non-Hispanic alone,"3,716","3,644",73.6,2.2,"2,683",72.2,2.2,"2,022",54.4,2.5,2014
+WASHINGTON,Black alone,195,159,46.6,12.8,74,37.9,14.6,53,27.4,11.7,2014
+WASHINGTON,Asian alone,451,268,59.9,8.7,161,35.6,11.5,110,24.4,7.8,2014
+WASHINGTON,Hispanic (of any race),635,378,44.8,8.4,169,26.7,12.2,95,15,6.8,2014
+WASHINGTON,White alone or in combination,"4,407","4,099",71.4,2.2,"2,927",66.4,2.1,"2,143",48.6,2.3,2014
+WASHINGTON,Black alone or in combination,236,196,45.2,11.6,88,37.5,13.1,60,25.3,10.4,2014
+WASHINGTON,Asian alone or in combination,483,300,59.9,8.4,180,37.2,10.9,127,26.3,7.7,2014
+WEST VIRGINIA,Total,"1,449","1,440",62.2,2.5,896,61.8,2.5,484,33.4,2.5,2014
+WEST VIRGINIA,Male,705,703,61.3,3.6,431,61.1,3.6,236,33.5,3.5,2014
+WEST VIRGINIA,Female,744,738,63.1,3.5,465,62.5,3.5,248,33.3,3.4,2014
+WEST VIRGINIA,White alone,"1,376","1,373",62.8,2.6,863,62.7,2.6,473,34.4,2.5,2014
+WEST VIRGINIA,.White non-Hispanic alone,"1,360","1,358",62.8,2.6,852,62.7,2.6,470,34.6,2.6,2014
+WEST VIRGINIA,Black alone,41,41,(B),(B),17,(B),(B),5,(B),(B),2014
+WEST VIRGINIA,Asian alone,10,5,(B),(B),4,(B),(B),2,(B),(B),2014
+WEST VIRGINIA,Hispanic (of any race),18,16,(B),(B),11,(B),(B),3,(B),(B),2014
+WEST VIRGINIA,White alone or in combination,"1,390","1,387",62.9,2.6,872,62.7,2.6,475,34.2,2.5,2014
+WEST VIRGINIA,Black alone or in combination,49,48,(B),(B),22,(B),(B),6,(B),(B),2014
+WEST VIRGINIA,Asian alone or in combination,10,6,(B),(B),4,(B),(B),2,(B),(B),2014
+WISCONSIN,Total,"4,356","4,232",71,2.1,"3,005",69,2.1,"2,343",53.8,2.3,2014
+WISCONSIN,Male,"2,136","2,059",69.6,3.1,"1,433",67.1,3.1,"1,140",53.4,3.3,2014
+WISCONSIN,Female,"2,220","2,173",72.4,2.9,"1,572",70.8,2.9,"1,203",54.2,3.2,2014
+WISCONSIN,White alone,"3,933","3,826",72.9,2.2,"2,791",71,2.2,"2,213",56.3,2.4,2014
+WISCONSIN,.White non-Hispanic alone,"3,715","3,689",73.9,2.2,"2,727",73.4,2.2,"2,170",58.4,2.4,2014
+WISCONSIN,Black alone,230,227,56.8,12,129,56.1,12,93,40.4,11.8,2014
+WISCONSIN,Asian alone,106,91,33.6,16.8,30,28.8,19,9,8.7,10.5,2014
+WISCONSIN,Hispanic (of any race),248,168,45.8,14,77,31,18.3,53,21.4,12.4,2014
+WISCONSIN,White alone or in combination,"4,011","3,904",72.9,2.2,"2,846",71,2.2,"2,241",55.9,2.4,2014
+WISCONSIN,Black alone or in combination,270,267,58.2,11,155,57.6,11.1,110,40.9,11,2014
+WISCONSIN,Asian alone or in combination,116,101,32.8,16,33,28.5,17.9,12,10.2,10.8,2014
+WYOMING,Total,441,427,56.5,2.7,241,54.7,2.7,172,39.1,2.6,2014
+WYOMING,Male,223,215,54.6,3.8,117,52.6,3.8,85,38,3.6,2014
+WYOMING,Female,217,212,58.4,3.8,124,56.9,3.8,87,40.2,3.7,2014
+WYOMING,White alone,407,399,57,2.8,227,55.8,2.8,164,40.3,2.7,2014
+WYOMING,.White non-Hispanic alone,384,381,57.2,2.8,218,56.7,2.8,158,41,2.8,2014
+WYOMING,Black alone,11,9,(B),(B),5,(B),(B),3,(B),(B),2014
+WYOMING,Asian alone,3,1,(B),(B),-,(B),(B),-,(B),(B),2014
+WYOMING,Hispanic (of any race),29,20,(B),(B),9,(B),(B),6,(B),(B),2014
+WYOMING,White alone or in combination,414,406,56.6,2.7,230,55.5,2.8,166,40.1,2.7,2014
+WYOMING,Black alone or in combination,11,9,(B),(B),5,(B),(B),3,(B),(B),2014
+WYOMING,Asian alone or in combination,4,2,(B),(B),-,(B),(B),-,(B),(B),2014

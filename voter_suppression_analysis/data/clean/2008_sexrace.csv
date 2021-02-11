@@ -1,0 +1,573 @@
+State,Group,Total Population,Total Citizen Population,Percent registered (Citizen 18+),DUMMY_CI_CITIZEN,Total Registered,Percent registered (Total 18+),Margin of error1,Total Voted,Percent voted (Total 18+),Margin of error1,Year
+US,.Total,"225,499","206,072",71,71,"146,311",64.9,0.3,"131,144",58.2,0.3,2008
+US,.Male,"108,974","98,818",69.1,69.1,"68,242",62.6,0.4,"60,729",55.7,0.4,2008
+US,.Female,"116,525","107,255",72.8,72.8,"78,069",67,0.4,"70,415",60.4,0.4,2008
+US,.White alone,"183,169","169,438",72,72,"122,020",66.6,0.3,"109,100",59.6,0.3,2008
+US,..White non-Hispanic alone,"154,472","151,321",73.5,73.5,"111,215",72,0.3,"100,042",64.8,0.3,2008
+US,.Black alone,"26,528","24,930",69.7,69.7,"17,375",65.5,1,"16,133",60.8,1,2008
+US,.Asian alone,"10,455","7,059",55.3,55.3,"3,901",37.3,1.7,"3,357",32.1,1.6,2008
+US,.Hispanic (of any race),"30,852","19,537",59.4,59.4,"11,608",37.6,1.2,"9,745",31.6,1.2,2008
+US,.White alone or in combination,"185,773","171,798",72,72,"123,628",66.5,0.3,"110,500",59.5,0.3,2008
+US,.Black alone or in combination ,"27,483","25,768",69.7,69.7,"17,960",65.3,1,"16,674",60.7,1,2008
+US,.Asian alone or in combination,"11,009","7,562",55.9,55.9,"4,225",38.4,1.7,"3,627",32.9,1.6,2008
+Alabama,.Total,"3,497","3,404",71.6,71.6,"2,438",69.7,2.3,"2,126",60.8,2.4,2008
+Alabama,.Male,"1,654","1,593",68.5,68.5,"1,092",66,3.4,927,56.1,3.6,2008
+Alabama,.Female,"1,843","1,811",74.3,74.3,"1,346",73,3,"1,199",65,3.3,2008
+Alabama,.White alone,"2,541","2,473",72.4,72.4,"1,791",70.5,2.7,"1,543",60.7,2.9,2008
+Alabama,..White non-Hispanic alone,"2,474","2,470",72.5,72.5,"1,791",72.4,2.7,"1,543",62.4,2.9,2008
+Alabama,.Black alone,875,875,69.9,69.9,611,69.9,5.5,547,62.5,5.8,2008
+Alabama,.Asian alone,32,8,(B),(B),-,(B),(B),-,(B),(B),2008
+Alabama,.Hispanic (of any race),71,7,(B),(B),4,(B),(B),4,(B),(B),2008
+Alabama,.White alone or in combination,"2,579","2,511",72.6,72.6,"1,824",70.7,2.6,"1,576",61.1,2.8,2008
+Alabama,.Black alone or in combination ,892,892,70.1,70.1,626,70.1,5.5,561,62.9,5.8,2008
+Alabama,.Asian alone or in combination,32,8,(B),(B),-,(B),(B),-,(B),(B),2008
+Alaska,.Total,488,468,73.7,73.7,345,70.8,2.4,304,62.4,2.6,2008
+Alaska,.Male,246,241,71.1,71.1,171,69.6,3.5,152,61.8,3.7,2008
+Alaska,.Female,242,228,76.5,76.5,174,72,3.4,152,62.9,3.7,2008
+Alaska,.White alone,364,355,78.4,78.4,278,76.4,2.6,251,69,2.9,2008
+Alaska,..White non-Hispanic alone,351,344,78.7,78.7,271,77.1,2.7,245,69.8,2.9,2008
+Alaska,.Black alone,17,15,(B),(B),10,(B),(B),7,(B),(B),2008
+Alaska,.Asian alone,23,17,(B),(B),9,(B),(B),7,(B),(B),2008
+Alaska,.Hispanic (of any race),15,13,(B),(B),9,(B),(B),8,(B),(B),2008
+Alaska,.White alone or in combination,390,380,77.3,77.3,294,75.5,2.6,266,68.3,2.8,2008
+Alaska,.Black alone or in combination ,20,18,(B),(B),10,(B),(B),8,(B),(B),2008
+Alaska,.Asian alone or in combination,25,19,(B),(B),11,(B),(B),9,(B),(B),2008
+Arizona,.Total,"4,688","4,169",68.9,68.9,"2,874",61.3,2.1,"2,497",53.3,2.2,2008
+Arizona,.Male,"2,326","2,067",66.9,66.9,"1,382",59.4,3.1,"1,191",51.2,3.1,2008
+Arizona,.Female,"2,362","2,102",71,71,"1,492",63.2,3,"1,306",55.3,3.1,2008
+Arizona,.White alone,"4,163","3,678",69,69,"2,539",61,2.3,"2,226",53.5,2.3,2008
+Arizona,..White non-Hispanic alone,"2,970","2,916",73.7,73.7,"2,150",72.4,2.5,"1,952",65.7,2.6,2008
+Arizona,.Black alone,185,182,66.4,66.4,121,65.2,12.7,95,51.5,13.3,2008
+Arizona,.Asian alone,105,80,65.1,65.1,52,49.7,18.5,48,45.7,18.5,2008
+Arizona,.Hispanic (of any race),"1,227",796,51.5,51.5,410,33.4,6.4,291,23.7,5.7,2008
+Arizona,.White alone or in combination,"4,225","3,740",69,69,"2,580",61.1,2.3,"2,264",53.6,2.3,2008
+Arizona,.Black alone or in combination ,206,198,66.4,66.4,131,63.6,12.2,106,51.2,12.6,2008
+Arizona,.Asian alone or in combination,113,88,64,64,57,50,17.8,52,46.3,17.8,2008
+Arkansas,.Total,"2,108","2,030",64.9,64.9,"1,317",62.5,2.5,"1,092",51.8,2.6,2008
+Arkansas,.Male,"1,002",952,61.3,61.3,584,58.2,3.7,477,47.6,3.7,2008
+Arkansas,.Female,"1,106","1,078",68.1,68.1,734,66.3,3.4,615,55.6,3.5,2008
+Arkansas,.White alone,"1,733","1,679",67,67,"1,125",64.9,2.7,931,53.7,2.8,2008
+Arkansas,..White non-Hispanic alone,"1,658","1,658",67.4,67.4,"1,117",67.4,2.7,928,55.9,2.9,2008
+Arkansas,.Black alone,308,301,53.2,53.2,160,52,8.1,133,43.1,8,2008
+Arkansas,.Asian alone,23,6,(B),(B),-,(B),(B),-,(B),(B),2008
+Arkansas,.Hispanic (of any race),74,20,(B),(B),8,(B),(B),3,(B),(B),2008
+Arkansas,.White alone or in combination,"1,768","1,714",67.2,67.2,"1,152",65.1,2.7,954,53.9,2.8,2008
+Arkansas,.Black alone or in combination ,313,306,53.4,53.4,164,52.2,8.1,136,43.5,8,2008
+Arkansas,.Asian alone or in combination,23,6,(B),(B),-,(B),(B),-,(B),(B),2008
+California,.Total,"26,993","21,816",68.2,68.2,"14,885",55.1,0.9,"13,828",51.2,0.9,2008
+California,.Male,"13,259","10,554",65.8,65.8,"6,948",52.4,1.3,"6,429",48.5,1.3,2008
+California,.Female,"13,734","11,262",70.5,70.5,"7,937",57.8,1.3,"7,398",53.9,1.3,2008
+California,.White alone,"20,823","16,837",69.9,69.9,"11,775",56.5,1,"10,982",52.7,1,2008
+California,..White non-Hispanic alone,"12,581","12,048",72.9,72.9,"8,783",69.8,1.2,"8,255",65.6,1.3,2008
+California,.Black alone,"1,682","1,646",67.2,67.2,"1,105",65.7,4.2,"1,073",63.8,4.3,2008
+California,.Asian alone,"3,473","2,562",59.4,59.4,"1,522",43.8,3.2,"1,343",38.7,3.1,2008
+California,.Hispanic (of any race),"8,859","5,193",62.8,62.8,"3,263",36.8,2.4,"2,961",33.4,2.4,2008
+California,.White alone or in combination,"21,259","17,191",69.8,69.8,"12,004",56.5,1,"11,197",52.7,1,2008
+California,.Black alone or in combination ,"1,860","1,769",67.1,67.1,"1,187",63.8,4.1,"1,151",61.9,4.1,2008
+California,.Asian alone or in combination,"3,626","2,688",59.5,59.5,"1,599",44.1,3.1,"1,410",38.9,3.1,2008
+Colorado,.Total,"3,694","3,374",72.2,72.2,"2,437",66,2.3,"2,308",62.5,2.4,2008
+Colorado,.Male,"1,840","1,665",71.5,71.5,"1,190",64.7,3.4,"1,123",61,3.4,2008
+Colorado,.Female,"1,854","1,710",72.9,72.9,"1,247",67.2,3.3,"1,185",63.9,3.4,2008
+Colorado,.White alone,"3,344","3,097",73,73,"2,262",67.6,2.4,"2,137",63.9,2.5,2008
+Colorado,..White non-Hispanic alone,"2,771","2,731",75,75,"2,049",73.9,2.5,"1,954",70.5,2.6,2008
+Colorado,.Black alone,150,138,61.6,61.6,85,56.9,14.8,81,54.4,14.8,2008
+Colorado,.Asian alone,131,70,(B),(B),48,36.7,16,48,36.7,16,2008
+Colorado,.Hispanic (of any race),590,380,59.1,59.1,225,38.1,9.5,195,33.1,9.2,2008
+Colorado,.White alone or in combination,"3,378","3,131",73,73,"2,284",67.6,2.4,"2,160",63.9,2.5,2008
+Colorado,.Black alone or in combination ,160,149,60.1,60.1,89,55.8,14.3,86,53.4,14.4,2008
+Colorado,.Asian alone or in combination,143,82,67.6,67.6,55,38.8,15.5,55,38.8,15.5,2008
+Connecticut,.Total,"2,651","2,396",73.5,73.5,"1,761",66.4,2.5,"1,610",60.8,2.5,2008
+Connecticut,.Male,"1,270","1,146",72.5,72.5,830,65.4,3.6,760,59.8,3.7,2008
+Connecticut,.Female,"1,381","1,250",74.4,74.4,931,67.4,3.4,851,61.6,3.5,2008
+Connecticut,.White alone,"2,233","2,085",76,76,"1,583",70.9,2.6,"1,455",65.2,2.7,2008
+Connecticut,..White non-Hispanic alone,"2,013","1,926",77.5,77.5,"1,492",74.1,2.6,"1,379",68.5,2.8,2008
+Connecticut,.Black alone,251,224,59.1,59.1,133,52.9,10.3,121,48.4,10.3,2008
+Connecticut,.Asian alone,136,61,(B),(B),31,22.7,12.2,21,15.5,10.5,2008
+Connecticut,.Hispanic (of any race),253,191,54.3,54.3,104,40.8,13,89,35.2,12.7,2008
+Connecticut,.White alone or in combination,"2,247","2,098",75.9,75.9,"1,592",70.9,2.6,"1,464",65.2,2.7,2008
+Connecticut,.Black alone or in combination ,257,230,59.3,59.3,137,53.2,10.1,125,48.8,10.2,2008
+Connecticut,.Asian alone or in combination,144,66,(B),(B),35,24.4,12.2,24,16.4,10.5,2008
+Delaware,.Total,648,606,73.8,73.8,447,69.1,2.5,408,63,2.6,2008
+Delaware,.Male,308,283,72,72,204,66.2,3.6,184,59.6,3.8,2008
+Delaware,.Female,339,323,75.4,75.4,243,71.7,3.3,224,66.1,3.5,2008
+Delaware,.White alone,493,472,75.3,75.3,355,72.1,2.7,324,65.6,2.9,2008
+Delaware,..White non-Hispanic alone,460,456,76.3,76.3,348,75.6,2.7,318,69.2,2.9,2008
+Delaware,.Black alone,125,120,69.5,69.5,83,66.5,6.9,78,62.2,7.1,2008
+Delaware,.Asian alone,22,8,(B),(B),4,(B),(B),3,(B),(B),2008
+Delaware,.Hispanic (of any race),38,19,(B),(B),9,(B),(B),7,(B),(B),2008
+Delaware,.White alone or in combination,496,475,75.2,75.2,357,72,2.7,325,65.6,2.9,2008
+Delaware,.Black alone or in combination ,127,121,69.4,69.4,84,66.5,6.9,79,62.2,7.1,2008
+Delaware,.Asian alone or in combination,22,8,(B),(B),4,(B),(B),3,(B),(B),2008
+DC,.Total,469,413,78.3,78.3,324,69,2.6,306,65.3,2.7,2008
+DC,.Male,216,186,75.6,75.6,140,65.1,3.9,132,61.3,4,2008
+DC,.Female,254,228,80.5,80.5,183,72.3,3.4,174,68.7,3.5,2008
+DC,.White alone,203,166,83.8,83.8,139,68.4,3.9,130,64,4.1,2008
+DC,..White non-Hispanic alone,161,151,86.1,86.1,130,80.7,3.8,121,75.3,4.1,2008
+DC,.Black alone,242,231,74.8,74.8,173,71.5,4.2,165,68.4,4.4,2008
+DC,.Asian alone,15,9,(B),(B),6,(B),(B),5,(B),(B),2008
+DC,.Hispanic (of any race),50,18,(B),(B),11,(B),(B),11,(B),(B),2008
+DC,.White alone or in combination,208,170,83.8,83.8,142,68.4,3.9,134,64.1,4,2008
+DC,.Black alone or in combination ,246,235,74.9,74.9,176,71.4,4.2,168,68.2,4.3,2008
+DC,.Asian alone or in combination,17,10,(B),(B),7,(B),(B),7,(B),(B),2008
+Florida,.Total,"14,069","12,462",70.4,70.4,"8,774",62.4,1.2,"7,951",56.5,1.2,2008
+Florida,.Male,"6,774","5,928",68.3,68.3,"4,049",59.8,1.8,"3,677",54.3,1.8,2008
+Florida,.Female,"7,294","6,534",72.3,72.3,"4,725",64.8,1.7,"4,274",58.6,1.7,2008
+Florida,.White alone,"11,674","10,505",71.7,71.7,"7,533",64.5,1.3,"6,806",58.3,1.4,2008
+Florida,..White non-Hispanic alone,"8,980","8,644",71.9,71.9,"6,213",69.2,1.4,"5,635",62.8,1.5,2008
+Florida,.Black alone,"1,968","1,685",63.5,63.5,"1,069",54.3,4,985,50.1,4,2008
+Florida,.Asian alone,267,157,61,61,96,35.9,11,84,31.3,10.6,2008
+Florida,.Hispanic (of any race),"2,909","1,988",69.4,69.4,"1,380",47.4,4.3,"1,227",42.2,4.3,2008
+Florida,.White alone or in combination,"11,776","10,582",71.6,71.6,"7,576",64.3,1.3,"6,849",58.2,1.3,2008
+Florida,.Black alone or in combination ,"2,073","1,753",63.3,63.3,"1,110",53.6,3.9,"1,026",49.5,3.9,2008
+Florida,.Asian alone or in combination,283,161,61.9,61.9,100,35.3,10.6,88,30.9,10.3,2008
+Georgia,.Total,"7,018","6,515",71,71,"4,624",65.9,1.7,"4,183",59.6,1.7,2008
+Georgia,.Male,"3,323","3,038",69.3,69.3,"2,105",63.3,2.5,"1,883",56.7,2.6,2008
+Georgia,.Female,"3,695","3,477",72.4,72.4,"2,519",68.2,2.3,"2,300",62.3,2.4,2008
+Georgia,.White alone,"4,729","4,387",70.9,70.9,"3,111",65.8,2.1,"2,789",59,2.1,2008
+Georgia,..White non-Hispanic alone,"4,235","4,183",71.3,71.3,"2,983",70.5,2.1,"2,683",63.4,2.2,2008
+Georgia,.Black alone,"2,014","1,928",73.4,73.4,"1,414",70.2,3.7,"1,309",65,3.8,2008
+Georgia,.Asian alone,229,155,38.5,38.5,60,26,10.9,53,23,10.5,2008
+Georgia,.Hispanic (of any race),541,234,63.9,63.9,150,27.7,9,128,23.6,8.6,2008
+Georgia,.White alone or in combination,"4,754","4,413",71,71,"3,134",65.9,2,"2,809",59.1,2.1,2008
+Georgia,.Black alone or in combination ,"2,046","1,959",73.6,73.6,"1,442",70.5,3.6,"1,334",65.2,3.8,2008
+Georgia,.Asian alone or in combination,229,155,38.5,38.5,60,26,10.9,53,23,10.5,2008
+Hawaii,.Total,977,883,59.1,59.1,522,53.5,2.5,457,46.8,2.5,2008
+Hawaii,.Male,478,433,57.7,57.7,250,52.3,3.6,223,46.6,3.6,2008
+Hawaii,.Female,499,450,60.5,60.5,272,54.6,3.5,235,47.1,3.5,2008
+Hawaii,.White alone,239,226,65.7,65.7,149,62.1,4.9,136,57,5,2008
+Hawaii,..White non-Hispanic alone,215,206,68.6,68.6,141,65.6,5.1,130,60.6,5.2,2008
+Hawaii,.Black alone,18,16,(B),(B),2,(B),(B),2,(B),(B),2008
+Hawaii,.Asian alone,403,359,61.5,61.5,220,54.6,4.9,199,49.2,4.9,2008
+Hawaii,.Hispanic (of any race),49,45,(B),(B),17,(B),(B),15,(B),(B),2008
+Hawaii,.White alone or in combination,379,365,60.8,60.8,222,58.5,4,198,52.2,4,2008
+Hawaii,.Black alone or in combination ,23,21,(B),(B),5,(B),(B),4,(B),(B),2008
+Hawaii,.Asian alone or in combination,548,502,57.7,57.7,290,52.9,4.2,252,46,4.2,2008
+Idaho,.Total,"1,095","1,049",68.9,68.9,723,66,2.4,644,58.8,2.5,2008
+Idaho,.Male,538,516,68.1,68.1,352,65.3,3.4,313,58.2,3.5,2008
+Idaho,.Female,556,533,69.6,69.6,371,66.7,3.3,331,59.4,3.5,2008
+Idaho,.White alone,"1,045","1,002",69.6,69.6,697,66.7,2.4,621,59.5,2.5,2008
+Idaho,..White non-Hispanic alone,925,918,72.1,72.1,662,71.6,2.5,592,64,2.6,2008
+Idaho,.Black alone,11,11,(B),(B),8,(B),(B),8,(B),(B),2008
+Idaho,.Asian alone,17,14,(B),(B),7,(B),(B),6,(B),(B),2008
+Idaho,.Hispanic (of any race),122,86,42.4,42.4,37,29.9,10.9,30,24.9,10.3,2008
+Idaho,.White alone or in combination,"1,050","1,007",69.5,69.5,700,66.7,2.4,624,59.4,2.5,2008
+Idaho,.Black alone or in combination ,11,11,(B),(B),8,(B),(B),8,(B),(B),2008
+Idaho,.Asian alone or in combination,17,14,(B),(B),7,(B),(B),6,(B),(B),2008
+Illinois,.Total,"9,521","8,681",70.9,70.9,"6,151",64.6,1.5,"5,436",57.1,1.5,2008
+Illinois,.Male,"4,623","4,204",69,69,"2,900",62.7,2.1,"2,521",54.5,2.2,2008
+Illinois,.Female,"4,897","4,477",72.6,72.6,"3,252",66.4,2,"2,914",59.5,2.1,2008
+Illinois,.White alone,"7,750","7,128",72.4,72.4,"5,160",66.6,1.6,"4,520",58.3,1.7,2008
+Illinois,..White non-Hispanic alone,"6,700","6,468",73.9,73.9,"4,783",71.4,1.7,"4,214",62.9,1.8,2008
+Illinois,.Black alone,"1,298","1,260",65.5,65.5,826,63.6,4.8,784,60.4,4.9,2008
+Illinois,.Asian alone,360,213,51.2,51.2,109,30.2,9.2,78,21.7,8.2,2008
+Illinois,.Hispanic (of any race),"1,081",671,57.4,57.4,385,35.6,6.9,314,29,6.5,2008
+Illinois,.White alone or in combination,"7,805","7,178",72.3,72.3,"5,190",66.5,1.6,"4,547",58.3,1.7,2008
+Illinois,.Black alone or in combination ,"1,318","1,280",65.9,65.9,843,64,4.8,798,60.5,4.9,2008
+Illinois,.Asian alone or in combination,375,228,50.4,50.4,115,30.6,9,84,22.4,8.2,2008
+Indiana,.Total,"4,686","4,562",68.1,68.1,"3,105",66.3,2.1,"2,758",58.8,2.1,2008
+Indiana,.Male,"2,280","2,207",66.4,66.4,"1,465",64.3,3,"1,290",56.6,3.1,2008
+Indiana,.Female,"2,406","2,354",69.6,69.6,"1,640",68.2,2.8,"1,468",61,3,2008
+Indiana,.White alone,"4,264","4,156",68.6,68.6,"2,851",66.9,2.1,"2,516",59,2.2,2008
+Indiana,..White non-Hispanic alone,"4,080","4,067",69.1,69.1,"2,811",68.9,2.2,"2,485",60.9,2.3,2008
+Indiana,.Black alone,370,360,63.3,63.3,228,61.5,9.1,219,59.2,9.2,2008
+Indiana,.Asian alone,19,13,(B),(B),3,(B),(B),3,(B),(B),2008
+Indiana,.Hispanic (of any race),196,102,44.5,44.5,45,23,14.1,36,18.3,12.9,2008
+Indiana,.White alone or in combination,"4,285","4,176",68.6,68.6,"2,866",66.9,2.1,"2,527",59,2.2,2008
+Indiana,.Black alone or in combination ,381,371,63.5,63.5,236,61.9,9,225,58.9,9.1,2008
+Indiana,.Asian alone or in combination,21,15,(B),(B),5,(B),(B),5,(B),(B),2008
+Iowa,.Total,"2,244","2,137",76.3,76.3,"1,630",72.6,2.4,"1,501",66.9,2.5,2008
+Iowa,.Male,"1,097","1,040",73.6,73.6,765,69.7,3.5,699,63.7,3.6,2008
+Iowa,.Female,"1,147","1,096",78.9,78.9,865,75.4,3.2,801,69.9,3.4,2008
+Iowa,.White alone,"2,084","2,005",77.3,77.3,"1,550",74.4,2.4,"1,422",68.2,2.6,2008
+Iowa,..White non-Hispanic alone,"1,986","1,977",77.5,77.5,"1,532",77.1,2.4,"1,405",70.7,2.6,2008
+Iowa,.Black alone,71,68,(B),(B),42,(B),(B),42,(B),(B),2008
+Iowa,.Asian alone,58,32,(B),(B),11,(B),(B),11,(B),(B),2008
+Iowa,.Hispanic (of any race),58,31,(B),(B),21,20.7,15.9,20,19.8,15.7,2008
+Iowa,.White alone or in combination,58,"2,025",77.5,77.5,"1,569",74.6,2.4,"1,439",68.4,2.5,2008
+Iowa,.Black alone or in combination ,58,71,(B),(B),45,(B),(B),45,(B),(B),2008
+Iowa,.Asian alone or in combination,58,35,(B),(B),15,(B),(B),15,(B),(B),2008
+Kansas,.Total,"2,037","1,926",69.7,69.7,"1,343",65.9,2.5,"1,219",59.8,2.6,2008
+Kansas,.Male,992,939,65.7,65.7,617,62.2,3.7,552,55.7,3.8,2008
+Kansas,.Female,"1,045",987,73.5,73.5,726,69.5,3.4,667,63.8,3.6,2008
+Kansas,.White alone,"1,762","1,700",71.3,71.3,"1,213",68.8,2.7,"1,105",62.7,2.8,2008
+Kansas,..White non-Hispanic alone,"1,641","1,631",72,72,"1,174",71.5,2.7,"1,069",65.1,2.8,2008
+Kansas,.Black alone,120,114,59.6,59.6,68,56.5,13.3,62,51.3,13.4,2008
+Kansas,.Asian alone,70,37,(B),(B),19,(B),(B),19,(B),(B),2008
+Kansas,.Hispanic (of any race),136,76,56.6,56.6,43,31.8,15.2,39,28.8,14.8,2008
+Kansas,.White alone or in combination,"1,811","1,748",71,71,"1,241",68.5,2.6,"1,126",62.2,2.8,2008
+Kansas,.Black alone or in combination ,131,125,58.2,58.2,73,55.5,12.7,66,50.7,12.8,2008
+Kansas,.Asian alone or in combination,76,43,(B),(B),25,32.4,16.4,23,30.4,16.1,2008
+Kentucky,.Total,"3,179","3,094",73,73,"2,259",71.1,2.4,"1,952",61.4,2.6,2008
+Kentucky,.Male,"1,525","1,474",70.8,70.8,"1,044",68.4,3.5,892,58.5,3.7,2008
+Kentucky,.Female,"1,653","1,620",75,75,"1,215",73.5,3.2,"1,060",64.1,3.5,2008
+Kentucky,.White alone,"2,886","2,840",73,73,"2,074",71.9,2.5,"1,794",62.2,2.7,2008
+Kentucky,..White non-Hispanic alone,"2,837","2,826",73,73,"2,064",72.8,2.5,"1,785",62.9,2.7,2008
+Kentucky,.Black alone,211,195,70,70,136,64.7,11.8,128,60.6,12.1,2008
+Kentucky,.Asian alone,33,11,(B),(B),2,(B),(B),-,(B),(B),2008
+Kentucky,.Hispanic (of any race),52,17,(B),(B),13,(B),(B),13,(B),(B),2008
+Kentucky,.White alone or in combination,"2,917","2,871",73.2,73.2,"2,102",72.1,2.5,"1,818",62.3,2.7,2008
+Kentucky,.Black alone or in combination ,226,210,70.9,70.9,149,65.9,11.3,138,61,11.7,2008
+Kentucky,.Asian alone or in combination,37,15,(B),(B),6,(B),(B),4,(B),(B),2008
+Louisiana,.Total,"3,161","3,056",78.3,78.3,"2,393",75.7,2.3,"2,149",68,2.4,2008
+Louisiana,.Male,"1,478","1,427",77.1,77.1,"1,101",74.5,3.3,984,66.6,3.6,2008
+Louisiana,.Female,"1,683","1,628",79.3,79.3,"1,292",76.8,3,"1,165",69.2,3.3,2008
+Louisiana,.White alone,"2,119","2,068",79.7,79.7,"1,647",77.7,2.7,"1,490",70.3,2.9,2008
+Louisiana,..White non-Hispanic alone,"2,023","2,014",80,80,"1,612",79.7,2.6,"1,458",72.1,2.9,2008
+Louisiana,.Black alone,943,943,75.4,75.4,712,75.4,5,625,66.2,5.5,2008
+Louisiana,.Asian alone,67,13,(B),(B),6,(B),(B),6,(B),(B),2008
+Louisiana,.Hispanic (of any race),100,58,(B),(B),39,39.2,22.6,32,32,21.6,2008
+Louisiana,.White alone or in combination,"2,141","2,090",79.7,79.7,"1,665",77.8,2.6,"1,508",70.5,2.9,2008
+Louisiana,.Black alone or in combination ,966,966,75.6,75.6,731,75.6,4.9,644,66.6,5.4,2008
+Louisiana,.Asian alone or in combination,67,13,(B),(B),6,(B),(B),6,(B),(B),2008
+Maine,.Total,"1,020","1,005",79.7,79.7,801,78.5,2.3,716,70.2,2.6,2008
+Maine,.Male,492,484,78.6,78.6,380,77.3,3.5,336,68.3,3.8,2008
+Maine,.Female,529,521,80.8,80.8,421,79.7,3.2,380,71.9,3.6,2008
+Maine,.White alone,981,973,80,80,778,79.3,2.4,698,71.2,2.6,2008
+Maine,..White non-Hispanic alone,967,959,80.3,80.3,770,79.7,2.4,691,71.5,2.7,2008
+Maine,.Black alone,10,7,(B),(B),5,(B),(B),4,(B),(B),2008
+Maine,.Asian alone,4,1,(B),(B),1,(B),(B),1,(B),(B),2008
+Maine,.Hispanic (of any race),17,15,(B),(B),9,(B),(B),8,(B),(B),2008
+Maine,.White alone or in combination,"1,004",993,79.9,79.9,794,79.1,2.3,709,70.7,2.6,2008
+Maine,.Black alone or in combination ,14,9,(B),(B),8,(B),(B),6,(B),(B),2008
+Maine,.Asian alone or in combination,4,2,(B),(B),2,(B),(B),1,(B),(B),2008
+Maryland,.Total,"4,218","3,824",73.9,73.9,"2,828",67,2.2,"2,611",61.9,2.3,2008
+Maryland,.Male,"1,984","1,783",70.3,70.3,"1,254",63.2,3.3,"1,153",58.1,3.4,2008
+Maryland,.Female,"2,234","2,041",77.1,77.1,"1,574",70.4,2.9,"1,458",65.3,3.1,2008
+Maryland,.White alone,"2,762","2,571",73,73,"1,876",67.9,2.7,"1,725",62.5,2.8,2008
+Maryland,..White non-Hispanic alone,"2,521","2,449",73.2,73.2,"1,793",71.1,2.7,"1,644",65.2,2.9,2008
+Maryland,.Black alone,"1,177","1,062",78.2,78.2,831,70.6,4.9,788,66.9,5,2008
+Maryland,.Asian alone,220,134,59.4,59.4,80,36.2,12.4,62,28.2,11.6,2008
+Maryland,.Hispanic (of any race),269,145,63.9,63.9,93,34.5,13.8,91,34,13.8,2008
+Maryland,.White alone or in combination,"2,793","2,600",73,73,"1,897",67.9,2.7,"1,745",62.5,2.8,2008
+Maryland,.Black alone or in combination ,"1,207","1,092",78.3,78.3,855,70.8,4.8,806,66.8,5,2008
+Maryland,.Asian alone or in combination,224,137,59.2,59.2,81,36.2,12.3,63,28.3,11.6,2008
+Massachusetts,.Total,"4,962","4,533",72.6,72.6,"3,293",66.4,2,"3,044",61.3,2.1,2008
+Massachusetts,.Male,"2,385","2,168",73,73,"1,583",66.4,2.9,"1,458",61.1,3,2008
+Massachusetts,.Female,"2,576","2,365",72.3,72.3,"1,710",66.4,2.8,"1,586",61.6,2.9,2008
+Massachusetts,.White alone,"4,280","4,044",74.8,74.8,"3,026",70.7,2.1,"2,787",65.1,2.2,2008
+Massachusetts,..White non-Hispanic alone,"4,021","3,867",75.7,75.7,"2,928",72.8,2.1,"2,715",67.5,2.2,2008
+Massachusetts,.Black alone,310,235,61.9,61.9,145,47,10.2,145,47,10.2,2008
+Massachusetts,.Asian alone,324,214,38.4,38.4,82,25.3,9.1,76,23.4,8.9,2008
+Massachusetts,.Hispanic (of any race),286,193,53.6,53.6,103,36.2,13.3,77,26.9,12.3,2008
+Massachusetts,.White alone or in combination,"4,310","4,075",75,75,"3,056",70.9,2.1,"2,813",65.3,2.2,2008
+Massachusetts,.Black alone or in combination ,324,250,64.1,64.1,160,49.4,10,160,49.4,10,2008
+Massachusetts,.Asian alone or in combination,324,214,38.4,38.4,82,25.3,9.1,76,23.4,8.9,2008
+Michigan,.Total,"7,487","7,176",77.1,77.1,"5,531",73.9,1.5,"4,865",65,1.7,2008
+Michigan,.Male,"3,609","3,474",74.6,74.6,"2,590",71.8,2.2,"2,249",62.3,2.4,2008
+Michigan,.Female,"3,877","3,702",79.4,79.4,"2,940",75.8,2.1,"2,616",67.5,2.3,2008
+Michigan,.White alone,"6,200","6,021",77.1,77.1,"4,642",74.9,1.7,"4,065",65.6,1.8,2008
+Michigan,..White non-Hispanic alone,"6,005","5,874",77.6,77.6,"4,557",75.9,1.7,"3,995",66.5,1.8,2008
+Michigan,.Black alone,968,956,77.2,77.2,738,76.3,5,679,70.2,5.3,2008
+Michigan,.Asian alone,206,91,80.9,80.9,74,35.7,12.7,53,25.9,11.6,2008
+Michigan,.Hispanic (of any race),198,147,58.2,58.2,85,43.2,16.6,70,35.5,16.1,2008
+Michigan,.White alone or in combination,"6,258","6,079",77,77,"4,680",74.8,1.6,"4,099",65.5,1.8,2008
+Michigan,.Black alone or in combination ,991,980,77.2,77.2,756,76.3,4.9,694,70,5.3,2008
+Michigan,.Asian alone or in combination,217,102,82.9,82.9,84,38.9,12.6,64,29.6,11.8,2008
+Minnesota,.Total,"3,898","3,678",79.7,79.7,"2,931",75.2,2.1,"2,759",70.8,2.2,2008
+Minnesota,.Male,"1,927","1,810",77,77,"1,394",72.4,3,"1,295",67.2,3.2,2008
+Minnesota,.Female,"1,972","1,868",82.3,82.3,"1,537",77.9,2.8,"1,464",74.2,2.9,2008
+Minnesota,.White alone,"3,497","3,403",80.5,80.5,"2,740",78.4,2.1,"2,587",74,2.2,2008
+Minnesota,..White non-Hispanic alone,"3,387","3,343",81,81,"2,707",79.9,2,"2,558",75.5,2.2,2008
+Minnesota,.Black alone,181,119,73.2,73.2,87,48.3,13.4,82,45.5,13.3,2008
+Minnesota,.Asian alone,162,98,63.7,63.7,62,38.4,14.4,56,34.4,14,2008
+Minnesota,.Hispanic (of any race),128,68,(B),(B),39,30.4,19,35,27.6,18.5,2008
+Minnesota,.White alone or in combination,"3,543","3,448",80.3,80.3,"2,770",78.2,2.1,"2,612",73.7,2.2,2008
+Minnesota,.Black alone or in combination ,190,128,71.1,71.1,91,48,13.1,86,45.4,13,2008
+Minnesota,.Asian alone or in combination,171,107,65.3,65.3,70,40.7,14.1,62,36.1,13.8,2008
+Mississippi,.Total,"2,109","2,064",77,77,"1,589",75.3,2.3,"1,439",68.2,2.4,2008
+Mississippi,.Male,"1,000",969,76.4,76.4,741,74.1,3.3,648,64.8,3.6,2008
+Mississippi,.Female,"1,108","1,094",77.5,77.5,848,76.5,3.1,790,71.3,3.3,2008
+Mississippi,.White alone,"1,360","1,315",74.7,74.7,982,72.2,2.9,896,65.9,3.1,2008
+Mississippi,..White non-Hispanic alone,"1,313","1,308",75,75,980,74.6,2.9,895,68.1,3.1,2008
+Mississippi,.Black alone,718,718,81.9,81.9,588,81.9,4.2,524,72.9,4.8,2008
+Mississippi,.Asian alone,3,3,(B),(B),-,(B),(B),-,(B),(B),2008
+Mississippi,.Hispanic (of any race),54,15,(B),(B),10,(B),(B),10,(B),(B),2008
+Mississippi,.White alone or in combination,"1,372","1,327",74.8,74.8,992,72.3,2.9,907,66.1,3.1,2008
+Mississippi,.Black alone or in combination ,730,730,81.9,81.9,598,81.9,4.2,534,73.1,4.8,2008
+Mississippi,.Asian alone or in combination,3,3,(B),(B),-,(B),(B),-,(B),(B),2008
+Missouri,.Total,"4,430","4,326",74.5,74.5,"3,224",72.8,2,"2,846",64.2,2.2,2008
+Missouri,.Male,"2,120","2,063",73.2,73.2,"1,510",71.2,3,"1,318",62.2,3.2,2008
+Missouri,.Female,"2,309","2,263",75.8,75.8,"1,714",74.2,2.7,"1,528",66.1,3,2008
+Missouri,.White alone,"3,833","3,766",74.3,74.3,"2,799",73,2.2,"2,451",64,2.3,2008
+Missouri,..White non-Hispanic alone,"3,745","3,722",74.7,74.7,"2,779",74.2,2.2,"2,432",64.9,2.4,2008
+Missouri,.Black alone,457,454,77.5,77.5,352,76.9,7.2,336,73.4,7.6,2008
+Missouri,.Asian alone,57,26,(B),(B),16,(B),(B),14,(B),(B),2008
+Missouri,.Hispanic (of any race),98,50,(B),(B),25,25.2,20.8,20,20.2,19.3,2008
+Missouri,.White alone or in combination,"3,903","3,833",74.3,74.3,"2,849",73,2.1,"2,490",63.8,2.3,2008
+Missouri,.Black alone or in combination ,459,456,77.6,77.6,354,77,7.2,337,73.5,7.5,2008
+Missouri,.Asian alone or in combination,57,26,(B),(B),16,(B),(B),14,(B),(B),2008
+Montana,.Total,731,724,71.3,71.3,516,70.6,2.4,473,64.7,2.5,2008
+Montana,.Male,358,355,69.6,69.6,247,69,3.5,227,63.2,3.6,2008
+Montana,.Female,373,368,73,73,269,72.2,3.3,246,66.1,3.5,2008
+Montana,.White alone,683,675,72.2,72.2,487,71.4,2.4,447,65.5,2.6,2008
+Montana,..White non-Hispanic alone,668,665,72.1,72.1,479,71.7,2.5,440,65.9,2.6,2008
+Montana,.Black alone,2,2,(B),(B),2,(B),(B),2,(B),(B),2008
+Montana,.Asian alone,5,5,(B),(B),4,(B),(B),4,(B),(B),2008
+Montana,.Hispanic (of any race),15,11,(B),(B),9,(B),(B),8,(B),(B),2008
+Montana,.White alone or in combination,693,686,72.1,72.1,495,71.3,2.4,453,65.3,2.6,2008
+Montana,.Black alone or in combination ,4,4,(B),(B),4,(B),(B),4,(B),(B),2008
+Montana,.Asian alone or in combination,6,6,(B),(B),5,(B),(B),5,(B),(B),2008
+Nebraska,.Total,"1,308","1,253",74.9,74.9,939,71.8,2.4,844,64.5,2.6,2008
+Nebraska,.Male,640,611,72.5,72.5,443,69.3,3.5,391,61.1,3.7,2008
+Nebraska,.Female,669,642,77.2,77.2,495,74.1,3.3,453,67.7,3.5,2008
+Nebraska,.White alone,"1,210","1,171",76,76,890,73.6,2.5,803,66.3,2.6,2008
+Nebraska,..White non-Hispanic alone,"1,139","1,128",76.7,76.7,864,75.9,2.5,781,68.5,2.7,2008
+Nebraska,.Black alone,42,37,(B),(B),25,(B),(B),24,(B),(B),2008
+Nebraska,.Asian alone,25,17,(B),(B),8,(B),(B),8,(B),(B),2008
+Nebraska,.Hispanic (of any race),76,47,(B),(B),28,36.8,16.9,24,31.6,16.3,2008
+Nebraska,.White alone or in combination,"1,221","1,182",76,76,898,73.5,2.5,809,66.2,2.6,2008
+Nebraska,.Black alone or in combination ,45,40,(B),(B),26,(B),(B),25,(B),(B),2008
+Nebraska,.Asian alone or in combination,29,20,(B),(B),9,(B),(B),9,(B),(B),2008
+Nevada,.Total,"1,946","1,714",66.9,66.9,"1,147",59,2.5,"1,027",52.8,2.6,2008
+Nevada,.Male,982,863,67.3,67.3,581,59.1,3.6,519,52.8,3.6,2008
+Nevada,.Female,964,851,66.6,66.6,567,58.8,3.6,509,52.8,3.7,2008
+Nevada,.White alone,"1,572","1,396",67.5,67.5,942,60,2.8,850,54.1,2.9,2008
+Nevada,..White non-Hispanic alone,"1,212","1,194",69.5,69.5,830,68.5,3,746,61.5,3.2,2008
+Nevada,.Black alone,148,137,83.5,83.5,114,77,9.5,105,71.1,10.3,2008
+Nevada,.Asian alone,156,117,38.5,38.5,45,28.8,10.4,35,22.3,9.6,2008
+Nevada,.Hispanic (of any race),392,228,57.2,57.2,131,33.3,8.5,119,30.4,8.3,2008
+Nevada,.White alone or in combination,"1,604","1,424",67.3,67.3,958,59.7,2.8,863,53.8,2.8,2008
+Nevada,.Black alone or in combination ,161,146,82.5,82.5,120,74.9,9.4,110,68.6,10.1,2008
+Nevada,.Asian alone or in combination,160,121,39.4,39.4,48,29.8,10.4,35,21.7,9.4,2008
+New Hampshire,.Total,"1,015",994,76,76,756,74.5,2.3,708,69.8,2.5,2008
+New Hampshire,.Male,493,485,74.2,74.2,360,73,3.4,337,68.3,3.6,2008
+New Hampshire,.Female,522,509,77.7,77.7,396,75.9,3.2,371,71.2,3.4,2008
+New Hampshire,.White alone,974,958,76.9,76.9,737,75.7,2.3,691,71,2.5,2008
+New Hampshire,..White non-Hispanic alone,957,945,77,77,727,76,2.4,683,71.4,2.5,2008
+New Hampshire,.Black alone,9,8,(B),(B),4,(B),(B),4,(B),(B),2008
+New Hampshire,.Asian alone,17,12,(B),(B),5,(B),(B),5,(B),(B),2008
+New Hampshire,.Hispanic (of any race),18,14,(B),(B),11,(B),(B),8,(B),(B),2008
+New Hampshire,.White alone or in combination,986,971,76.6,76.6,744,75.4,2.3,697,70.7,2.5,2008
+New Hampshire,.Black alone or in combination ,12,11,(B),(B),5,(B),(B),5,(B),(B),2008
+New Hampshire,.Asian alone or in combination,17,13,(B),(B),6,(B),(B),5,(B),(B),2008
+New Jersey,.Total,"6,489","5,675",70.9,70.9,"4,022",62,1.8,"3,637",56,1.9,2008
+New Jersey,.Male,"3,124","2,742",69.8,69.8,"1,913",61.2,2.6,"1,708",54.7,2.7,2008
+New Jersey,.Female,"3,365","2,933",71.9,71.9,"2,109",62.7,2.5,"1,929",57.3,2.6,2008
+New Jersey,.White alone,"4,991","4,492",72,72,"3,233",64.8,2,"2,912",58.3,2.1,2008
+New Jersey,..White non-Hispanic alone,"4,054","3,867",74,74,"2,863",70.6,2.2,"2,593",64,2.3,2008
+New Jersey,.Black alone,846,769,66.7,66.7,513,60.6,6.1,475,56.2,6.2,2008
+New Jersey,.Asian alone,567,370,64.2,64.2,238,41.9,7.9,215,38,7.8,2008
+New Jersey,.Hispanic (of any race),"1,006",661,58.7,58.7,388,38.5,7.3,337,33.4,7,2008
+New Jersey,.White alone or in combination,"5,040","4,516",72,72,"3,252",64.5,2,"2,926",58.1,2.1,2008
+New Jersey,.Black alone or in combination ,862,784,67.1,67.1,526,61,6.1,489,56.7,6.2,2008
+New Jersey,.Asian alone or in combination,581,381,64.5,64.5,246,42.3,7.8,218,37.6,7.6,2008
+New Mexico,.Total,"1,473","1,352",69.3,69.3,937,63.6,2.5,846,57.4,2.6,2008
+New Mexico,.Male,720,653,68.2,68.2,445,61.8,3.6,395,54.8,3.7,2008
+New Mexico,.Female,753,699,70.3,70.3,491,65.3,3.5,451,59.9,3.6,2008
+New Mexico,.White alone,"1,287","1,176",70.9,70.9,833,64.7,2.7,748,58.1,2.8,2008
+New Mexico,..White non-Hispanic alone,666,654,75.8,75.8,496,74.5,3.4,468,70.3,3.6,2008
+New Mexico,.Black alone,32,31,(B),(B),22,(B),(B),20,(B),(B),2008
+New Mexico,.Asian alone,29,19,(B),(B),16,(B),(B),14,(B),(B),2008
+New Mexico,.Hispanic (of any race),640,539,64.2,64.2,346,54.1,6.2,289,45.2,6.2,2008
+New Mexico,.White alone or in combination,"1,293","1,181",71,71,838,64.9,2.7,753,58.3,2.8,2008
+New Mexico,.Black alone or in combination ,33,32,(B),(B),23,(B),(B),22,(B),(B),2008
+New Mexico,.Asian alone or in combination,29,19,(B),(B),16,(B),(B),14,(B),(B),2008
+New York,.Total,"14,665","12,849",65.8,65.8,"8,458",57.7,1.2,"7,559",51.5,1.3,2008
+New York,.Male,"6,999","6,044",64.7,64.7,"3,912",55.9,1.8,"3,471",49.6,1.8,2008
+New York,.Female,"7,666","6,805",66.8,66.8,"4,546",59.3,1.7,"4,089",53.3,1.7,2008
+New York,.White alone,"10,972","9,987",69.5,69.5,"6,941",63.3,1.4,"6,166",56.2,1.4,2008
+New York,..White non-Hispanic alone,"9,259","8,857",70.1,70.1,"6,211",67.1,1.5,"5,519",59.6,1.6,2008
+New York,.Black alone,"2,350","1,957",58.4,58.4,"1,143",48.6,3.8,"1,075",45.7,3.8,2008
+New York,.Asian alone,"1,120",743,38.8,38.8,289,25.8,5,248,22.2,4.8,2008
+New York,.Hispanic (of any race),"2,042","1,348",62,62,836,40.9,5.2,743,36.4,5.1,2008
+New York,.White alone or in combination,"11,143","10,107",69.4,69.4,"7,018",63,1.4,"6,229",55.9,1.4,2008
+New York,.Black alone or in combination ,"2,432","2,023",57.8,57.8,"1,169",48,3.7,"1,097",45.1,3.7,2008
+New York,.Asian alone or in combination,"1,130",754,39.7,39.7,299,26.5,5.1,255,22.6,4.8,2008
+North Carolina,.Total,"6,845","6,477",75.7,75.7,"4,902",71.6,1.6,"4,370",63.8,1.7,2008
+North Carolina,.Male,"3,249","3,052",73.1,73.1,"2,231",68.7,2.4,"2,006",61.7,2.6,2008
+North Carolina,.Female,"3,595","3,425",78,78,"2,671",74.3,2.2,"2,364",65.8,2.4,2008
+North Carolina,.White alone,"5,158","4,886",77.4,77.4,"3,782",73.3,1.8,"3,331",64.6,2,2008
+North Carolina,..White non-Hispanic alone,"4,811","4,791",77.5,77.5,"3,715",77.2,1.8,"3,270",68,2,2008
+North Carolina,.Black alone,"1,368","1,345",72.2,72.2,971,71,4.5,919,67.2,4.6,2008
+North Carolina,.Asian alone,151,80,66.4,66.4,53,35.4,14.8,43,28.4,13.9,2008
+North Carolina,.Hispanic (of any race),374,118,70.3,70.3,83,22.2,10.1,77,20.7,9.9,2008
+North Carolina,.White alone or in combination,"5,193","4,922",77.5,77.5,"3,815",73.5,1.8,"3,358",64.7,2,2008
+North Carolina,.Black alone or in combination ,"1,374","1,351",72.1,72.1,974,70.9,4.4,919,66.9,4.6,2008
+North Carolina,.Asian alone or in combination,162,92,66.2,66.2,61,37.5,14.4,50,31,13.8,2008
+North Dakota,.Total,484,476,83.7,83.7,399,82.3,2,321,66.3,2.5,2008
+North Dakota,.Male,238,232,81.4,81.4,189,79.5,3.1,147,61.9,3.7,2008
+North Dakota,.Female,246,244,85.9,85.9,209,84.9,2.7,174,70.5,3.4,2008
+North Dakota,.White alone,434,430,83.9,83.9,361,83.2,2.1,289,66.7,2.7,2008
+North Dakota,..White non-Hispanic alone,428,426,84,84,358,83.7,2.1,288,67.3,2.7,2008
+North Dakota,.Black alone,5,2,(B),(B),2,(B),(B),1,(B),(B),2008
+North Dakota,.Asian alone,4,2,(B),(B),2,(B),(B),1,(B),(B),2008
+North Dakota,.Hispanic (of any race),6,5,(B),(B),3,(B),(B),1,(B),(B),2008
+North Dakota,.White alone or in combination,439,436,84,84,366,83.3,2.1,294,66.9,2.6,2008
+North Dakota,.Black alone or in combination ,5,2,(B),(B),2,(B),(B),1,(B),(B),2008
+North Dakota,.Asian alone or in combination,4,3,(B),(B),2,(B),(B),1,(B),(B),2008
+Ohio,.Total,"8,499","8,367",73,73,"6,108",71.9,1.5,"5,483",64.5,1.6,2008
+Ohio,.Male,"4,068","3,992",73,73,"2,913",71.6,2.1,"2,604",64,2.3,2008
+Ohio,.Female,"4,431","4,375",73,73,"3,196",72.1,2,"2,879",65,2.2,2008
+Ohio,.White alone,"7,330","7,240",73,73,"5,285",72.1,1.6,"4,722",64.4,1.7,2008
+Ohio,..White non-Hispanic alone,"7,134","7,109",73.2,73.2,"5,204",72.9,1.6,"4,651",65.2,1.7,2008
+Ohio,.Black alone,915,896,75.9,75.9,680,74.4,5.2,630,68.9,5.6,2008
+Ohio,.Asian alone,130,108,52.2,52.2,56,43.2,16.5,51,38.8,16.2,2008
+Ohio,.Hispanic (of any race),212,142,59.8,59.8,85,39.9,15.9,74,35,15.5,2008
+Ohio,.White alone or in combination,"7,435","7,344",73,73,"5,358",72.1,1.6,"4,788",64.4,1.7,2008
+Ohio,.Black alone or in combination ,968,950,75.8,75.8,720,74.3,5.1,665,68.7,5.4,2008
+Ohio,.Asian alone or in combination,146,124,54.7,54.7,67,46.2,15.7,62,42.3,15.5,2008
+Oklahoma,.Total,"2,667","2,566",70.1,70.1,"1,798",67.4,2.5,"1,507",56.5,2.6,2008
+Oklahoma,.Male,"1,280","1,227",70.7,70.7,867,67.7,3.6,722,56.4,3.8,2008
+Oklahoma,.Female,"1,386","1,339",69.5,69.5,931,67.1,3.5,785,56.6,3.6,2008
+Oklahoma,.White alone,"2,080","2,022",71,71,"1,436",69.1,2.8,"1,210",58.2,3,2008
+Oklahoma,..White non-Hispanic alone,"1,951","1,942",72,72,"1,398",71.7,2.8,"1,182",60.6,3,2008
+Oklahoma,.Black alone,194,185,76.6,76.6,142,73.1,10.6,119,61.6,11.6,2008
+Oklahoma,.Asian alone,30,24,(B),(B),10,(B),(B),7,(B),(B),2008
+Oklahoma,.Hispanic (of any race),170,93,50.4,50.4,47,27.6,14.8,33,19.5,13.1,2008
+Oklahoma,.White alone or in combination,"2,270","2,189",71.3,71.3,"1,561",68.8,2.7,"1,315",57.9,2.8,2008
+Oklahoma,.Black alone or in combination ,212,203,73.7,73.7,150,70.6,10.4,128,60.1,11.1,2008
+Oklahoma,.Asian alone or in combination,31,25,(B),(B),10,(B),(B),7,(B),(B),2008
+Oregon,.Total,"2,904","2,687",73,73,"1,961",67.5,2.5,"1,818",62.6,2.5,2008
+Oregon,.Male,"1,416","1,302",70.1,70.1,913,64.5,3.6,835,59,3.7,2008
+Oregon,.Female,"1,488","1,385",75.6,75.6,"1,047",70.4,3.3,983,66,3.5,2008
+Oregon,.White alone,"2,559","2,436",73.6,73.6,"1,793",70.1,2.6,"1,670",65.2,2.7,2008
+Oregon,..White non-Hispanic alone,"2,383","2,349",74.9,74.9,"1,759",73.8,2.5,"1,640",68.8,2.7,2008
+Oregon,.Black alone,57,54,(B),(B),37,(B),(B),34,(B),(B),2008
+Oregon,.Asian alone,71,54,(B),(B),37,(B),(B),33,(B),(B),2008
+Oregon,.Hispanic (of any race),261,100,42.7,42.7,43,16.4,10.2,39,14.9,9.8,2008
+Oregon,.White alone or in combination,"2,637","2,514",73.5,73.5,"1,848",70.1,2.5,"1,716",65.1,2.6,2008
+Oregon,.Black alone or in combination ,64,62,(B),(B),42,(B),(B),39,(B),(B),2008
+Oregon,.Asian alone or in combination,83,65,(B),(B),49,59.1,19.3,44,53.3,19.6,2008
+Pennsylvania,.Total,"9,449","9,206",70.1,70.1,"6,451",68.3,1.4,"5,747",60.8,1.5,2008
+Pennsylvania,.Male,"4,493","4,384",68.8,68.8,"3,014",67.1,2.1,"2,664",59.3,2.2,2008
+Pennsylvania,.Female,"4,956","4,821",71.3,71.3,"3,436",69.3,2,"3,083",62.2,2.1,2008
+Pennsylvania,.White alone,"8,319","8,181",70.7,70.7,"5,783",69.5,1.5,"5,126",61.6,1.6,2008
+Pennsylvania,..White non-Hispanic alone,"7,997","7,901",71.1,71.1,"5,619",70.3,1.5,"4,981",62.3,1.6,2008
+Pennsylvania,.Black alone,882,837,66.6,66.6,557,63.2,5.9,535,60.6,6,2008
+Pennsylvania,.Asian alone,156,104,39,39,41,25.9,13.3,31,20.1,12.1,2008
+Pennsylvania,.Hispanic (of any race),361,319,59.3,59.3,189,52.4,12.4,161,44.6,12.3,2008
+Pennsylvania,.White alone or in combination,"8,375","8,236",70.8,70.8,"5,829",69.6,1.5,"5,165",61.7,1.6,2008
+Pennsylvania,.Black alone or in combination ,910,865,67.5,67.5,584,64.1,5.8,561,61.6,5.9,2008
+Pennsylvania,.Asian alone or in combination,166,114,41.4,41.4,47,28.3,13.2,35,21,12,2008
+Rhode Island,.Total,804,752,75.5,75.5,568,70.6,2.5,507,63,2.6,2008
+Rhode Island,.Male,380,354,72.8,72.8,258,67.8,3.7,228,59.9,3.9,2008
+Rhode Island,.Female,424,398,77.8,77.8,310,73,3.3,279,65.8,3.5,2008
+Rhode Island,.White alone,730,690,76.2,76.2,526,72,2.6,468,64.2,2.7,2008
+Rhode Island,..White non-Hispanic alone,669,655,77.3,77.3,507,75.7,2.6,451,67.4,2.8,2008
+Rhode Island,.Black alone,48,40,(B),(B),29,(B),(B),27,(B),(B),2008
+Rhode Island,.Asian alone,19,16,(B),(B),9,(B),(B),9,(B),(B),2008
+Rhode Island,.Hispanic (of any race),71,42,(B),(B),22,(B),(B),20,(B),(B),2008
+Rhode Island,.White alone or in combination,732,692,76.2,76.2,527,72,2.6,469,64.1,2.7,2008
+Rhode Island,.Black alone or in combination ,51,43,(B),(B),30,(B),(B),27,(B),(B),2008
+Rhode Island,.Asian alone or in combination,20,17,(B),(B),10,(B),(B),10,(B),(B),2008
+South Carolina,.Total,"3,313","3,202",74.5,74.5,"2,385",72,2.3,"2,100",63.4,2.5,2008
+South Carolina,.Male,"1,564","1,498",70.2,70.2,"1,052",67.2,3.5,926,59.2,3.7,2008
+South Carolina,.Female,"1,749","1,704",78.2,78.2,"1,333",76.2,3,"1,175",67.2,3.3,2008
+South Carolina,.White alone,"2,413","2,319",73.9,73.9,"1,713",71,2.7,"1,466",60.8,3,2008
+South Carolina,..White non-Hispanic alone,"2,307","2,282",74.2,74.2,"1,692",73.4,2.7,"1,448",62.8,3,2008
+South Carolina,.Black alone,854,847,76.7,76.7,650,76.1,5.2,615,72,5.5,2008
+South Carolina,.Asian alone,16,14,(B),(B),9,(B),(B),9,(B),(B),2008
+South Carolina,.Hispanic (of any race),111,37,(B),(B),21,18.6,17.2,18,16.4,16.4,2008
+South Carolina,.White alone or in combination,"2,424","2,327",73.7,73.7,"1,715",70.8,2.7,"1,466",60.5,2.9,2008
+South Carolina,.Black alone or in combination ,862,855,76.6,76.6,655,76,5.2,620,71.9,5.5,2008
+South Carolina,.Asian alone or in combination,19,14,(B),(B),9,(B),(B),9,(B),(B),2008
+South Dakota,.Total,590,575,76.9,76.9,442,74.9,2.1,390,66.1,2.3,2008
+South Dakota,.Male,291,282,73.4,73.4,207,71.2,3.2,178,61.2,3.4,2008
+South Dakota,.Female,299,293,80.2,80.2,235,78.5,2.8,212,70.8,3.1,2008
+South Dakota,.White alone,541,533,79,79,421,77.8,2.1,372,68.8,2.4,2008
+South Dakota,..White non-Hispanic alone,533,527,79.4,79.4,419,78.6,2.1,370,69.6,2.4,2008
+South Dakota,.Black alone,6,2,(B),(B),2,(B),(B),2,(B),(B),2008
+South Dakota,.Asian alone,6,3,(B),(B),1,(B),(B),1,(B),(B),2008
+South Dakota,.Hispanic (of any race),11,8,(B),(B),3,(B),(B),3,(B),(B),2008
+South Dakota,.White alone or in combination,547,538,423,423,423,77.4,2.1,374,68.4,2.4,2008
+South Dakota,.Black alone or in combination ,6,3,(B),(B),2,(B),(B),2,(B),(B),2008
+South Dakota,.Asian alone or in combination,6,3,(B),(B),1,(B),(B),1,(B),(B),2008
+Tennesee,.Total,"4,692","4,529",64.5,64.5,"2,921",62.3,2.1,"2,516",53.6,2.2,2008
+Tennesee,.Male,"2,220","2,141",60.5,60.5,"1,295",58.3,3.1,"1,119",50.4,3.2,2008
+Tennesee,.Female,"2,472","2,388",68.1,68.1,"1,626",65.8,2.9,"1,397",56.5,3,2008
+Tennesee,.White alone,"3,849","3,718",65.5,65.5,"2,434",63.2,2.3,"2,067",53.7,2.4,2008
+Tennesee,..White non-Hispanic alone,"3,685","3,654",65.7,65.7,"2,402",65.2,2.3,"2,038",55.3,2.4,2008
+Tennesee,.Black alone,697,682,62.5,62.5,426,61.2,6.7,405,58.1,6.8,2008
+Tennesee,.Asian alone,95,78,32.6,32.6,25,26.8,17.1,18,19.2,15.3,2008
+Tennesee,.Hispanic (of any race),178,73,(B),(B),37,20.9,14.3,34,19.2,13.9,2008
+Tennesee,.White alone or in combination,"3,875","3,744",65.5,65.5,"2,454",63.3,2.3,"2,081",53.7,2.4,2008
+Tennesee,.Black alone or in combination ,701,686,62.7,62.7,430,61.4,6.7,408,58.3,6.7,2008
+Tennesee,.Asian alone or in combination,99,82,35.8,35.8,29,29.6,17.3,22,22.4,15.8,2008
+Texas,.Total,"17,295","15,040",67.3,67.3,"10,123",58.5,1.1,"8,435",48.8,1.1,2008
+Texas,.Male,"8,434","7,212",65.1,65.1,"4,693",55.6,1.6,"3,862",45.8,1.6,2008
+Texas,.Female,"8,861","7,827",69.4,69.4,"5,430",61.3,1.6,"4,573",51.6,1.6,2008
+Texas,.White alone,"14,432","12,554",67.1,67.1,"8,423",58.4,1.2,"6,978",48.3,1.3,2008
+Texas,..White non-Hispanic alone,"8,388","8,213",73.6,73.6,"6,048",72.1,1.5,"5,311",63.3,1.6,2008
+Texas,.Black alone,"1,933","1,840",73.7,73.7,"1,356",70.2,3.8,"1,194",61.8,4,2008
+Texas,.Asian alone,605,352,45.5,45.5,160,26.5,6.8,118,19.6,6.1,2008
+Texas,.Hispanic (of any race),"6,241","4,493",54.3,54.3,"2,441",39.1,2.9,"1,697",27.2,2.7,2008
+Texas,.White alone or in combination,"14,614","12,721",67,67,"8,519",58.3,1.2,"7,053",48.3,1.2,2008
+Texas,.Black alone or in combination ,"2,004","1,912",74,74,"1,415",70.6,3.7,"1,253",62.5,3.9,2008
+Texas,.Asian alone or in combination,620,366,47.6,47.6,175,28.2,6.9,133,21.4,6.3,2008
+Utah,.Total,"1,859","1,768",59.7,59.7,"1,056",56.8,2.4,939,50.5,2.4,2008
+Utah,.Male,938,890,55.6,55.6,495,52.8,3.4,431,45.9,3.4,2008
+Utah,.Female,921,877,63.9,63.9,561,60.9,3.3,509,55.2,3.4,2008
+Utah,.White alone,"1,761","1,687",60.3,60.3,"1,017",57.8,2.4,909,51.7,2.5,2008
+Utah,..White non-Hispanic alone,"1,624","1,597",62.2,62.2,993,61.1,2.5,888,54.7,2.6,2008
+Utah,.Black alone,26,23,(B),(B),12,(B),(B),12,(B),(B),2008
+Utah,.Asian alone,27,23,(B),(B),16,(B),(B),11,(B),(B),2008
+Utah,.Hispanic (of any race),138,92,26.3,26.3,24,17.4,10.5,21,15.4,10,2008
+Utah,.White alone or in combination,"1,768","1,694",60.3,60.3,"1,021",57.7,2.4,913,51.7,2.5,2008
+Utah,.Black alone or in combination ,28,25,(B),(B),15,(B),(B),15,(B),(B),2008
+Utah,.Asian alone or in combination,27,23,(B),(B),16,(B),(B),11,(B),(B),2008
+Vermont,.Total,487,476,72.5,72.5,345,70.9,2.5,308,63.2,2.7,2008
+Vermont,.Male,238,234,70.2,70.2,164,68.8,3.7,146,61.1,3.9,2008
+Vermont,.Female,249,242,74.7,74.7,181,72.8,3.5,162,65.2,3.7,2008
+Vermont,.White alone,471,464,72.3,72.3,335,71.1,2.6,300,63.6,2.7,2008
+Vermont,..White non-Hispanic alone,467,460,72.4,72.4,333,71.4,2.6,298,63.9,2.7,2008
+Vermont,.Black alone,4,4,(B),(B),3,(B),(B),3,(B),(B),2008
+Vermont,.Asian alone,4,2,(B),(B),-,(B),(B),-,(B),(B),2008
+Vermont,.Hispanic (of any race),5,3,(B),(B),2,(B),(B),2,(B),(B),2008
+Vermont,.White alone or in combination,478,470,72.5,72.5,341,71.3,2.5,304,63.6,2.7,2008
+Vermont,.Black alone or in combination ,4,4,(B),(B),3,(B),(B),3,(B),(B),2008
+Vermont,.Asian alone or in combination,5,2,(B),(B),1,(B),(B),1,(B),(B),2008
+Virginia,.Total,"5,720","5,316",74.3,74.3,"3,950",69.1,1.8,"3,650",63.8,1.9,2008
+Virginia,.Male,"2,725","2,495",71.7,71.7,"1,789",65.6,2.7,"1,641",60.2,2.8,2008
+Virginia,.Female,"2,995","2,821",76.6,76.6,"2,162",72.2,2.4,"2,010",67.1,2.6,2008
+Virginia,.White alone,"4,288","4,018",74.9,74.9,"3,008",70.1,2.1,"2,778",64.8,2.2,2008
+Virginia,..White non-Hispanic alone,"3,983","3,912",75.3,75.3,"2,945",73.9,2.1,"2,716",68.2,2.2,2008
+Virginia,.Black alone,"1,031","1,005",72.3,72.3,727,70.5,5.1,686,66.6,5.3,2008
+Virginia,.Asian alone,330,221,70.8,70.8,157,47.5,10.4,136,41.2,10.2,2008
+Virginia,.Hispanic (of any race),330,132,56.5,56.5,74,22.5,10.8,74,22.5,10.8,2008
+Virginia,.White alone or in combination,"4,321","4,051",74.8,74.8,"3,032",70.2,2.1,"2,798",64.8,2.2,2008
+Virginia,.Black alone or in combination ,"1,059","1,033",72.5,72.5,749,70.7,5.1,703,66.4,5.2,2008
+Virginia,.Asian alone or in combination,337,228,71.7,71.7,164,48.6,10.3,138,41.1,10.1,2008
+Washington,.Total,"4,912","4,600",71.7,71.7,"3,299",67.2,2,"3,073",62.6,2.1,2008
+Washington,.Male,"2,418","2,265",68.6,68.6,"1,553",64.3,3,"1,439",59.5,3,2008
+Washington,.Female,"2,495","2,334",74.8,74.8,"1,745",70,2.8,"1,634",65.5,2.9,2008
+Washington,.White alone,"4,146","3,980",73.7,73.7,"2,932",70.7,2.1,"2,762",66.6,2.2,2008
+Washington,..White non-Hispanic alone,"3,801","3,729",74.8,74.8,"2,788",73.4,2.2,"2,631",69.2,2.3,2008
+Washington,.Black alone,157,123,46.4,46.4,57,36.3,14.1,57,36.3,14.1,2008
+Washington,.Asian alone,344,262,63.6,63.6,167,48.4,10.3,132,38.5,10.1,2008
+Washington,.Hispanic (of any race),404,280,57,57,160,39.6,11.6,148,36.6,11.4,2008
+Washington,.White alone or in combination,"4,295","4,124",73.5,73.5,"3,033",70.6,2.1,"2,855",66.5,2.2,2008
+Washington,.Black alone or in combination ,182,148,52.1,52.1,77,42.3,13.4,77,42.3,13.4,2008
+Washington,.Asian alone or in combination,380,295,63.2,63.2,187,49.1,9.8,150,39.4,9.6,2008
+West Virginia,.Total,"1,395","1,387",66.1,66.1,917,65.7,2.3,741,53.1,2.4,2008
+West Virginia,.Male,673,669,65.4,65.4,438,65.1,3.3,350,51.9,3.5,2008
+West Virginia,.Female,722,717,66.8,66.8,479,66.3,3.2,392,54.2,3.3,2008
+West Virginia,.White alone,"1,345","1,340",66.4,66.4,890,66.2,2.3,720,53.5,2.4,2008
+West Virginia,..White non-Hispanic alone,"1,336","1,333",66.3,66.3,885,66.2,2.3,715,53.5,2.5,2008
+West Virginia,.Black alone,39,38,(B),(B),21,(B),(B),19,(B),(B),2008
+West Virginia,.Asian alone,6,3,(B),(B),-,(B),(B),-,(B),(B),2008
+West Virginia,.Hispanic (of any race),9,6,(B),(B),5,(B),(B),5,(B),(B),2008
+West Virginia,.White alone or in combination,"1,350","1,345",66.5,66.5,894,66.2,2.3,722,53.5,2.4,2008
+West Virginia,.Black alone or in combination ,39,38,(B),(B),21,(B),(B),19,(B),(B),2008
+West Virginia,.Asian alone or in combination,7,4,(B),(B),2,(B),(B),-,(B),(B),2008
+Wisconsin,.Total,"4,212","4,053",76.4,76.4,"3,095",73.5,2,"2,887",68.5,2.1,2008
+Wisconsin,.Male,"2,084","1,993",75.3,75.3,"1,501",72,2.9,"1,403",67.3,3.1,2008
+Wisconsin,.Female,"2,128","2,060",77.4,77.4,"1,594",74.9,2.8,"1,484",69.7,3,2008
+Wisconsin,.White alone,"3,881","3,764",76.5,76.5,"2,881",74.2,2.1,"2,682",69.1,2.2,2008
+Wisconsin,..White non-Hispanic alone,"3,639","3,620",77.5,77.5,"2,806",77.1,2.1,"2,617",71.9,2.2,2008
+Wisconsin,.Black alone,199,199,73.1,73.1,145,73.1,11.4,145,73.1,11.4,2008
+Wisconsin,.Asian alone,76,37,(B),(B),31,41,21.3,31,41,21.3,2008
+Wisconsin,.Hispanic (of any race),247,150,51.6,51.6,77,31.3,13.9,66,26.9,13.3,2008
+Wisconsin,.White alone or in combination,"3,903","3,786",76.4,76.4,"2,892",74.1,2.1,"2,692",69,2.2,2008
+Wisconsin,.Black alone or in combination ,213,213,70.5,70.5,150,70.5,11.3,150,70.5,11.3,2008
+Wisconsin,.Asian alone or in combination,78,39,(B),(B),33,42.4,21.1,33,42.4,21.1,2008
+Wyoming,.Total,397,389,69.3,69.3,270,67.9,2.6,250,62.9,2.6,2008
+Wyoming,.Male,199,195,65.2,65.2,127,64,3.7,118,59.2,3.8,2008
+Wyoming,.Female,198,194,73.5,73.5,142,71.8,3.5,132,66.7,3.6,2008
+Wyoming,.White alone,377,373,70,70,261,69.2,2.6,242,64.1,2.7,2008
+Wyoming,..White non-Hispanic alone,361,359,70.3,70.3,252,70,2.6,235,65.1,2.7,2008
+Wyoming,.Black alone,5,4,(B),(B),1,(B),(B),1,(B),(B),2008
+Wyoming,.Asian alone,4,1,(B),(B),-,(B),(B),-,(B),(B),2008
+Wyoming,.Hispanic (of any race),18,15,(B),(B),8,(B),(B),7,(B),(B),2008
+Wyoming,.White alone or in combination,382,378,70.2,70.2,265,69.4,2.6,246,64.3,2.7,2008
+Wyoming,.Black alone or in combination ,6,4,(B),(B),2,(B),(B),1,(B),(B),2008
+Wyoming,.Asian alone or in combination,5,2,(B),(B),-,(B),(B),-,(B),(B),2008

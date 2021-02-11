@@ -1,0 +1,9 @@
+name: vsa
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas 
+  - altair
+  - vega_datasets
