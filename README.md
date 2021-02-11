@@ -1,2 +1,2 @@
-# DATA-512-Voter-Supression
+# CSE-583-Voter-Supression
 repository for the final group project for the DATA 512 UW SP2020 course
